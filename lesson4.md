@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 4 - GitHub Desktop
+title: PCR - Interfaz
 nav_order: 7
 ---
 

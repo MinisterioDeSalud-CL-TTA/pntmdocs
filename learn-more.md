@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learn More
+title: Más información
 nav_order: 8
 ---
 

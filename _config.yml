@@ -1,5 +1,5 @@
-title: Plataforma Nacional de Toma de Muestras # *** Enter workshop title here 
-subtitle: 'A Data Analysis Support Hub Tutorial'
+title: 'PNTM - Documentación' # *** Enter workshop title here 
+subtitle: 'Plataforma Nacional de Toma de Muestras'
 
 remote_theme: scds/just-the-docs
 github_repo_url: "https://ministeriodesalud-cl-tta.github.io/pntmdocs/" # ***Enter workshop URL (in github pages) here
