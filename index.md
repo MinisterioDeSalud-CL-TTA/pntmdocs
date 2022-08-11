@@ -10,20 +10,17 @@ nav_order: 1
 
 <img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="400">
 <br>
-# Getting started with GitHub and GitHub Pages. 
-Maybe you've heard of GitHub and would like to learn more about how it works. Maybe you've heard how it's possible to make easy and simple webpages using GitHub and GitHub Pages and want to try. Or maybe, you knew none of this but are intrigued nonetheless. In any of those cases, this tutorial is for you.  
 
-In this tutorial, you will learn how to use a suite of related tools ([GitHub](https://github.com/), [GitHub Pages](https://pages.github.com/), [Markdown](https://www.markdownguide.org/getting-started/), and [GitHub Desktop](https://desktop.github.com/)) to create and manage repositories of files, and build simple websites with ease! 
+# Plataforma Nacional de Toma de Muestras. 
+La plataforma tiene por objetivo implementar un sistema de registro y trazabilidad en tiempo real para todas las prestaciones de laboratorio clínico y/o biología molecular que se ejecuten en el país en apoyo al diagnóstico de SARS-CoV 2, permitiendo el ingreso de información por parte del profesional de toma de muestra y su posterior acceso restringido al informe de resultados emitido por el laboratorio clínico.
 
-## Learning Objectives
-By the end of this tutorial, you will be able to: 
-- Create a [GitHub](https://github.com/) repository (from scratch and by cloning/forking an existing one)
-- Create, edit, and manage versions of files in a GitHub repository
-- Describe the basics of versioning and versioning software; communicate their value
-- Explain the differences between git and GitHub, and describe how they work together
-- Use [GitHub Desktop](https://desktop.github.com/) and git to sync files between your desktop/laptop and GitHub
-- Use [Markdown](https://www.markdownguide.org/getting-started/) to format text in a simple yet effective manner
-- Use [GitHub Pages](https://pages.github.com/) to create simple static web pages using jekyll
-- Identify where you can find more information to experiment and learn on your own
+Para definir su uso, cada Servicio de Salud o institución publico/privada debe revisar sus procesos de generación de información desde la toma de muestra y asegurar la trazabilidad, considerando en la eventualidad de que un centro no disponga de registro informático de trazabilidad de los casos, la obligatoriedad de la implementación.
 
-Proceed to the [Preparation](preparation) page to get started.
+Tomando lo anterior, esta plataforma será la única vía de registro de información de exámenes para coronavirus validado desde el Ministerio de Salud, para llevar el registro centralizado de la técnica diagnóstica y será utilizada además para entregar diariamente reportes a las Autoridades respectivas. 
+
+## ¿Quiénes deberán utilizar esta plataforma?
+-	Profesionales y técnicos que desempeñan funciones de toma de muestra en los distintos centros y establecimientos de salud, quienes deberán registrar los antecedentes de la toma de muestra.
+
+-	Profesionales responsables de laboratorio clínico y/o biología molecular de establecimientos donde se ejecute exámenes diagnósticos de SARS-CoV 2 en el país, quienes deberán supervisar el adecuado traspaso de la información desde el Sistema Informático de Laboratorio (LIS) a esta plataforma ministerial de registro nacional. 
+
+Cabe destacar que tanto los profesionales de toma de muestra como los profesionales de laboratorio tienen accesos diferenciados, dado sus roles, en la plataforma. 
