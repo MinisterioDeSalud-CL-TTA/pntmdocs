@@ -36,7 +36,7 @@ Colour schemes are dictated by the ```colour scheme``` variable. These schemes a
 
 ## 7. Add necessary content and supporting documents, images, and data  
 ### How this all works  
-The content that appears on the module website (e.g. https://scds.github.io/intro-SPSS/) is managed in the corresponding GitHub repository (e.g. https://github.com/scds/intro-SPSS). All content is added, uploaded, linked to, etc. within the markdown (.md) files and folders of the GitHub repository. Once changes are committed, they are pushed to the website at regular intervals (usually takes <1 min, but sometimes you may need to view in an incognito window because of browser caching issues).  
+The content that appears on the module website (e.g. https://minsal-pntm.github.io/pntmdocs/) is managed in the corresponding GitHub repository (e.g. https://github.com/minsal-pntm/pntmdocs). All content is added, uploaded, linked to, etc. within the markdown (.md) files and folders of the GitHub repository. Once changes are committed, they are pushed to the website at regular intervals (usually takes <1 min, but sometimes you may need to view in an incognito window because of browser caching issues).  
 
 The subsections below outline the various documents and folders that can be edited to manage content: 
 

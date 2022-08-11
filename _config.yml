@@ -5,12 +5,7 @@ subtitle: 'Plataforma Nacional de Toma de Muestras'
 github_repo_url: "https://ministeriodesalud-cl-tta.github.io/pntmdocs/" # ***Enter workshop URL (in github pages) here
 theme:
   palette: 
-
-Note that the theme.palette setting is now defined as a list.
-
-
-
-    # Palette toggle for light mode
+   # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
