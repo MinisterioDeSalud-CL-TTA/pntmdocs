@@ -12,7 +12,7 @@ nav_order: 1
 </p><br>
 
 # Plataforma Nacional de Toma de Muestras.
-<p align="justified"> 
+<p align="justify"> 
 La plataforma tiene por objetivo implementar un sistema de registro y trazabilidad en tiempo real para todas las prestaciones de laboratorio clínico y/o biología molecular que se ejecuten en el país en apoyo al diagnóstico de SARS-CoV 2, permitiendo el ingreso de información por parte del profesional de toma de muestra y su posterior acceso restringido al informe de resultados emitido por el laboratorio clínico.
 
 Para definir su uso, cada Servicio de Salud o institución publico/privada debe revisar sus procesos de generación de información desde la toma de muestra y asegurar la trazabilidad, considerando en la eventualidad de que un centro no disponga de registro informático de trazabilidad de los casos, la obligatoriedad de la implementación.
@@ -21,7 +21,7 @@ Tomando lo anterior, esta plataforma será la única vía de registro de informa
 </p>
 
 ## ¿Quiénes deberán utilizar esta plataforma?
-<p align="justified"> 
+<p align="justify"> 
 -	Profesionales y técnicos que desempeñan funciones de toma de muestra en los distintos centros y establecimientos de salud, quienes deberán registrar los antecedentes de la toma de muestra.
 
 -	Profesionales responsables de laboratorio clínico y/o biología molecular de establecimientos donde se ejecute exámenes diagnósticos de SARS-CoV 2 en el país, quienes deberán supervisar el adecuado traspaso de la información desde el Sistema Informático de Laboratorio (LIS) a esta plataforma ministerial de registro nacional. 
@@ -30,13 +30,14 @@ Cabe destacar que tanto los profesionales de toma de muestra como los profesiona
 </p>
 
 ## Métodos de registro en PNTM
-<p align="justified"> 
+<p align="justify"> 
 Plataforma Nacional de Toma de Muestras cuenta con distintos métodos de registro de muestras para facilitar la integración, registro sincrónico y adaptabilidad a procesos clínicos. Existe actualmente tres tipos de ingresos de información a PNTM, los cuales corresponden a Interfaz, API y Carga masivas mediante .CSV.
 <p align="center">
 <img src="assets/img/Imagen1.png" alt="flujo-pntm1" width="800">
 </p>
 <br>
 </p>
+
 ## Ingreso vía interfaz
 
 El registro mediante interfaz corresponde a toda muestra que es ingresada directamente desde [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl), dentro del registro de interfaz existen tres hitos de registro importantes, los que corresponden a Creación de muestras, Recepción de muestras y Entrega de resultados.
