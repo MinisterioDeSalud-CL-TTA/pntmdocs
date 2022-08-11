@@ -24,3 +24,50 @@ Tomando lo anterior, esta plataforma será la única vía de registro de informa
 -	Profesionales responsables de laboratorio clínico y/o biología molecular de establecimientos donde se ejecute exámenes diagnósticos de SARS-CoV 2 en el país, quienes deberán supervisar el adecuado traspaso de la información desde el Sistema Informático de Laboratorio (LIS) a esta plataforma ministerial de registro nacional. 
 
 Cabe destacar que tanto los profesionales de toma de muestra como los profesionales de laboratorio tienen accesos diferenciados, dado sus roles, en la plataforma. 
+
+## Métodos de registro en PNTM
+
+Plataforma Nacional de Toma de Muestras cuenta con distintos métodos de registro de muestras para facilitar la integración, registro sincrónico y adaptabilidad a procesos clínicos. Existe actualmente tres tipos de ingresos de información a PNTM, los cuales corresponden a Interfaz, API y Carga masivas mediante .CSV.
+
+<img src="assets/img/Imagen1.png" alt="flujo-pntm1" width="400">
+<br>
+
+## Ingreso vía interfaz
+
+El registro mediante interfaz corresponde a toda muestra que es ingresada directamente desde [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl), dentro del registro de interfaz existen tres hitos de registro importantes, los que corresponden a Creación de muestras, Recepción de muestras y Entrega de resultados.
+
+<img src="assets/img/Imagen2.png" alt="flujo-pntm2" width="400">
+<br>
+
+### Creación de muestras
+La creación de muestra es un proceso llevado a cabo por el profesional de toma de muestra, quien debe ingresar a PNTM con su respectivo usuario y registrar todos los campos solicitados por la plataforma. El registro en el sistema debe ser de manera sincrónica al acto clínico realizado.
+### Recepción de muestras
+La recepción de muestra es un proceso llevado a cabo por el laboratorio que recibe la muestra creada. En donde un profesional designado debe ingresar con el perfil de acceso del laboratorio y generar al acto de recepción de muestra. El registro en el sistema debe ser de manera sincrónica con el acto de recepción realizado.
+### Entrega de resultados
+Cada laboratorio tiene la obligación de registrar resultados de muestras procesadas mediante PNTM, para realizar dicho proceso es necesario que un profesional designado ingrese a plataforma con el perfil de usuario de laboratorio, para luego realizar la entrega de resultados a cada una de las muestras procesadas. El registro en sistema debe ser de manera sincrónica con el acto de entrega de resultado.
+
+
+## Registro vía API
+El registro mediante API corresponde a toda muestra que es ingresada mediante el uso de Web Service puesto a disposición para generar interoperabilidad entre laboratorios y PNTM. Dentro de los servicios disponibles para el consumo se encuentra la creación de muestras, recepción de muestras y entrega de resultados.
+
+<img src="assets/img/Imagen3.png" alt="flujo-pntm3" width="400">
+<br>
+
+### Creación de muestras
+Dentro de los métodos de servicio disponibles en el Web Service, existe la creación de muestras. La cual permite a todo laboratorio mediante el uso de API crear muestras, lo que facilita y apunta a la integración de procesos desde sistemas informáticos locales de laboratorio (LIS) a PNTM, de esta manera generar cohesión de registro en ambos sistemas.
+### Recepción de muestras
+Dentro de los métodos de servicio disponibles en el Web Service, existe la recepción de muestras. La cual permite a todo laboratorio mediante el uso de API recepcionar muestras, lo que facilita y apunta a la integración de procesos desde sistemas informáticos locales de laboratorio (LIS) a PNTM, de esta manera generar cohesión de registro en ambos sistemas.
+### Entrega de resultados
+Dentro de los métodos de servicio disponibles en el Web Service, existe la entrega de resultados. La cual permite a todo laboratorio mediante el uso de API entregar resultados, lo que facilita y apunta a la integración de procesos desde sistemas informáticos locales de laboratorio (LIS) a PNTM, de esta manera generar cohesión de registro en ambos sistemas.
+
+## Carga masiva de muestras y/o resultados
+En paralelo a los dos métodos expuestos anteriormente, existe un tercero, el cual viene a complementar y en ayuda de laboratorios que no cuenten con el personal ni la infraestructura TIC necesaria para el registro por Interfaz o por medio de Interoperabilidad (vía API).
+
+<img src="assets/img/Imagen4.png" alt="flujo-pntm4" width="400">
+<br>
+
+### Carga de resultados
+Dentro de los métodos de carga masiva se encuentra la carga masiva de resultados, la cual viene en ayuda a descomprimir el trabajo administrativo realizado por los laboratorios en cuanto a entrega de resultado uno a uno vía interfaz. Este método particular es realizado por algún profesional designado por el laboratorio, quien debe ingresar a PNTM y cargar el archivo Excel en donde se debe registrar el identificador de la muestra (ID PNTM) y el resultado en la columna adjunta, de esta manera el archivo es subido y cargado los resultados de las muestras en cuestión.
+
+### Carga de muestras y resultados
+La segunda opción de carga masiva corresponde al registro de muestras y resultados dentro de un solo archivo. Este método en particular tiene la finalidad de poder gestionar la carga de las muestras que no fueron cargadas por ninguno de los métodos anteriores. Permitiendo a los usuarios de laboratorio mayor rapidez en el registro de muestras.
