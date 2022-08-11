@@ -7,9 +7,9 @@ nav_order: 1
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 -->
-
+<p align="center">
 <img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="400">
-<br>
+</p><br>
 
 # Plataforma Nacional de Toma de Muestras. 
 La plataforma tiene por objetivo implementar un sistema de registro y trazabilidad en tiempo real para todas las prestaciones de laboratorio clínico y/o biología molecular que se ejecuten en el país en apoyo al diagnóstico de SARS-CoV 2, permitiendo el ingreso de información por parte del profesional de toma de muestra y su posterior acceso restringido al informe de resultados emitido por el laboratorio clínico.
@@ -28,15 +28,17 @@ Cabe destacar que tanto los profesionales de toma de muestra como los profesiona
 ## Métodos de registro en PNTM
 
 Plataforma Nacional de Toma de Muestras cuenta con distintos métodos de registro de muestras para facilitar la integración, registro sincrónico y adaptabilidad a procesos clínicos. Existe actualmente tres tipos de ingresos de información a PNTM, los cuales corresponden a Interfaz, API y Carga masivas mediante .CSV.
-
+<p align="center">
 <img src="assets/img/Imagen1.png" alt="flujo-pntm1" width="800">
+</p>
 <br>
 
 ## Ingreso vía interfaz
 
 El registro mediante interfaz corresponde a toda muestra que es ingresada directamente desde [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl), dentro del registro de interfaz existen tres hitos de registro importantes, los que corresponden a Creación de muestras, Recepción de muestras y Entrega de resultados.
-
+<p align="center">
 <img src="assets/img/Imagen2.png" alt="flujo-pntm2" width="800">
+</p>
 <br>
 
 ### Creación de muestras
@@ -49,8 +51,9 @@ Cada laboratorio tiene la obligación de registrar resultados de muestras proces
 
 ## Registro vía API
 El registro mediante API corresponde a toda muestra que es ingresada mediante el uso de Web Service puesto a disposición para generar interoperabilidad entre laboratorios y PNTM. Dentro de los servicios disponibles para el consumo se encuentra la creación de muestras, recepción de muestras y entrega de resultados.
-
+<p align="center">
 <img src="assets/img/Imagen3.png" alt="flujo-pntm3" width="800">
+</p>
 <br>
 
 ### Creación de muestras
@@ -62,8 +65,9 @@ Dentro de los métodos de servicio disponibles en el Web Service, existe la entr
 
 ## Carga masiva de muestras y/o resultados
 En paralelo a los dos métodos expuestos anteriormente, existe un tercero, el cual viene a complementar y en ayuda de laboratorios que no cuenten con el personal ni la infraestructura TIC necesaria para el registro por Interfaz o por medio de Interoperabilidad (vía API).
-
+<p align="center">
 <img src="assets/img/Imagen4.png" alt="flujo-pntm4" width="800">
+</p>
 <br>
 
 ### Carga de resultados
