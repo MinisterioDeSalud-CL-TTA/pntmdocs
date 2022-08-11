@@ -14,9 +14,9 @@ In this first lesson, you'll get some introductory experience creating a GitHub 
 - Create folders and files.
 - Create and edit a markdown file.
 
-## Lesson video
+## Video clases JP
 The following video demonstrates each of the steps outlined below in text:
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe>
+<iframe width="560" height="480" src="https://www.youtube.com/embed/ESNbpnsXl7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1. Create a new GitHub repository
 A repository is a container for related materials (i.e. folders and files), that allows for them to be managed (stored, version-tracked) and shared together. Usually, you create a separate repository for each project that you are working on. [Here are the New York Times' GitHub repositories](https://github.com/nytimes), for example.
