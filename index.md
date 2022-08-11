@@ -29,14 +29,14 @@ Cabe destacar que tanto los profesionales de toma de muestra como los profesiona
 
 Plataforma Nacional de Toma de Muestras cuenta con distintos métodos de registro de muestras para facilitar la integración, registro sincrónico y adaptabilidad a procesos clínicos. Existe actualmente tres tipos de ingresos de información a PNTM, los cuales corresponden a Interfaz, API y Carga masivas mediante .CSV.
 
-<img src="assets/img/Imagen1.png" alt="flujo-pntm1" width="400">
+<img src="assets/img/Imagen1.png" alt="flujo-pntm1" width="600">
 <br>
 
 ## Ingreso vía interfaz
 
 El registro mediante interfaz corresponde a toda muestra que es ingresada directamente desde [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl), dentro del registro de interfaz existen tres hitos de registro importantes, los que corresponden a Creación de muestras, Recepción de muestras y Entrega de resultados.
 
-<img src="assets/img/Imagen2.png" alt="flujo-pntm2" width="400">
+<img src="assets/img/Imagen2.png" alt="flujo-pntm2" width="600">
 <br>
 
 ### Creación de muestras
@@ -50,7 +50,7 @@ Cada laboratorio tiene la obligación de registrar resultados de muestras proces
 ## Registro vía API
 El registro mediante API corresponde a toda muestra que es ingresada mediante el uso de Web Service puesto a disposición para generar interoperabilidad entre laboratorios y PNTM. Dentro de los servicios disponibles para el consumo se encuentra la creación de muestras, recepción de muestras y entrega de resultados.
 
-<img src="assets/img/Imagen3.png" alt="flujo-pntm3" width="400">
+<img src="assets/img/Imagen3.png" alt="flujo-pntm3" width="600">
 <br>
 
 ### Creación de muestras
@@ -63,7 +63,7 @@ Dentro de los métodos de servicio disponibles en el Web Service, existe la entr
 ## Carga masiva de muestras y/o resultados
 En paralelo a los dos métodos expuestos anteriormente, existe un tercero, el cual viene a complementar y en ayuda de laboratorios que no cuenten con el personal ni la infraestructura TIC necesaria para el registro por Interfaz o por medio de Interoperabilidad (vía API).
 
-<img src="assets/img/Imagen4.png" alt="flujo-pntm4" width="400">
+<img src="assets/img/Imagen4.png" alt="flujo-pntm4" width="600">
 <br>
 
 ### Carga de resultados
