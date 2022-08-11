@@ -1,9 +1,28 @@
 title: 'PNTM - Documentación' # *** Enter workshop title here 
 subtitle: 'Plataforma Nacional de Toma de Muestras'
 
-remote_theme: scds/just-the-docs
+#remote_theme: scds/just-the-docs
 github_repo_url: "https://ministeriodesalud-cl-tta.github.io/pntmdocs/" # ***Enter workshop URL (in github pages) here
-color_scheme: dash
+theme:
+  palette: 
+
+Note that the theme.palette setting is now defined as a list.
+
+
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+
+
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 # logo: "https://github.com/scds/intro-voyant/blob/main/assets/img/dmds-tableau.png?raw=true"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content

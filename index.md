@@ -8,7 +8,7 @@ nav_order: 1
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 -->
 <p align="center">
-<img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="400">
+<img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="300">
 </p><br>
 
 # Plataforma Nacional de Toma de Muestras. 
