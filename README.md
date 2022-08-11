@@ -1,32 +1,33 @@
 ## Bienvenido a la documentación de PNTM
 
-You can use the [editor on GitHub](https://github.com/MinisterioDeSalud-CL-TTA/pntmdocs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Puedes utilizar el [editor de GitHub](https://github.com/MinisterioDeSalud-CL-TTA/pntmdocs/edit/main/README.md) para mantener y observar el contenido de este
+sitio web en un archivo Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cada vez que realices un `commit` en este repositorio, GitHub Pages correra [Jekyll](https://jekyllrb.com/) para reconstruir las páginas del sitio, utilizando el contenido presente en los archivos Markdown presentes.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Bloque de código con sintaxis resaltada
 
-# Header 1
-## Header 2
-### Header 3
+# Título 1
+## Título 2
+### Título 3
 
-- Bulleted
-- List
+- Lista
+- De puntos
 
-1. Numbered
-2. List
+1. Lista
+2. Numerada
 
-**Bold** and _Italic_ and `Code` text
+**Negrita**, _Cursiva_ y `Código` 
 
-[Link](url) and ![Image](src)
+[Link](url) e ![Imágen](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para más detalles ver [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
