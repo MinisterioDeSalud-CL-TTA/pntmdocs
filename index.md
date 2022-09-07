@@ -11,7 +11,7 @@ nav_order: 1
 <img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="300">
 </p><br>
 
-# Plataforma Nacional de Toma de Muestras.
+# Plataforma Nacional de Toma de Muestras. 
 <p align="justify"> 
 La plataforma tiene por objetivo implementar un sistema de registro y trazabilidad en tiempo real para todas las prestaciones de laboratorio clínico y/o biología molecular que se ejecuten en el país en apoyo al diagnóstico de SARS-CoV 2, permitiendo el ingreso de información por parte del profesional de toma de muestra y su posterior acceso restringido al informe de resultados emitido por el laboratorio clínico.
 
