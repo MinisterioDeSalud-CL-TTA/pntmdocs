@@ -5,8 +5,13 @@ nav_order: 9
 ---
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-
-# More information and other tools
+- [FAQ - Preguntas Frecunetes](#faq---preguntas-frecunetes)
+  - [Markdown resources](#markdown-resources)
+  - [More about Jekyll](#more-about-jekyll)
+  - [Learn about git and GitHub Desktop](#learn-about-git-and-github-desktop)
+  - [More about version control with git](#more-about-version-control-with-git)
+  
+# FAQ - Preguntas Frecunetes
 ## Markdown resources
 - [markdown.org's Markdown Guide](https://www.markdownguide.org/getting-started/)
 - [markdownguide.org's Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/)

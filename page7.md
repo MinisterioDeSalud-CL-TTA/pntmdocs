@@ -7,8 +7,12 @@ nav_order: 8
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 
 -->
-
-# Introduction
+- [Flujos de PNTM](#flujos-de-pntm)
+  - [1. Workshop Introduction](#1-workshop-introduction)
+    - [Video](#video)
+    - [Slides](#slides)
+  - [2. [Optional] Introduction to GitHub](#2-optional-introduction-to-github)
+# Flujos de PNTM
 
 ## 1. Workshop Introduction
 Follow along with the introductory video (or slides).

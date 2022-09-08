@@ -3,6 +3,31 @@ layout: default
 title: Descarga de reportes
 nav_order: 6
 ---
+- [Descarga de Reportes](#descarga-de-reportes)
+- [Lesson 4 - Sync with GitHub Desktop (and maybe git)](#lesson-4---sync-with-github-desktop-and-maybe-git)
+  - [Lesson objectives](#lesson-objectives)
+  - [Lesson video](#lesson-video)
+- [GitHub Desktop](#github-desktop)
+  - [1. Clone your repository to your computer](#1-clone-your-repository-to-your-computer)
+    - [In GitHub](#in-github)
+    - [In GitHub Desktop](#in-github-desktop)
+  - [2. Make some changes on your computer](#2-make-some-changes-on-your-computer)
+  - [3. Commit new changes](#3-commit-new-changes)
+  - [4. Push changes to your GitHub (remote) repository](#4-push-changes-to-your-github-remote-repository)
+  - [5. Make changes in the GitHub (remote) repository](#5-make-changes-in-the-github-remote-repository)
+  - [6. Pull changes to the local repository](#6-pull-changes-to-the-local-repository)
+- [Git](#git)
+  - [0. Configure your git account](#0-configure-your-git-account)
+  - [1. Clone your repository to your computer](#1-clone-your-repository-to-your-computer-1)
+    - [In GitHub](#in-github-1)
+    - [In git Bash](#in-git-bash)
+  - [2. Make some changes on your computer](#2-make-some-changes-on-your-computer-1)
+  - [3. Add and commit new changes](#3-add-and-commit-new-changes)
+  - [4. Push changes to GitHub (remote) repository](#4-push-changes-to-github-remote-repository)
+  - [5. Make changes in the GitHub (remote) repository](#5-make-changes-in-the-github-remote-repository-1)
+  - [6. Pull changes to the local repository](#6-pull-changes-to-the-local-repository-1)
+
+# Descarga de Reportes
 
 # Lesson 4 - Sync with GitHub Desktop (and maybe git) 
 In this lesson, you'll learn how to use GitHub Pages to turn the markdown files in your GitHub repository into a functioning webpage. Ensure that you've sucessfully installed [GitHub Desktop](preparation#3a-install-github-desktop-for-windows-or-mac-users) (for Windows and Mac users) or [git](preparation#3b-install-git-for-linux-users-or-adventurous-windowsmac-users) for Linux users. 

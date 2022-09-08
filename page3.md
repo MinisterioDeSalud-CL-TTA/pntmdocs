@@ -3,8 +3,24 @@ layout: default
 title: Cargas de Datos
 nav_order: 4
 ---
-
+- [Cargas de Datos](#cargas-de-datos)
+- [Lesson 2: Learn Markdown](#lesson-2-learn-markdown)
+  - [Lesson video](#lesson-video)
+  - [Lesson objectives](#lesson-objectives)
+  - [1. What is Markdown?](#1-what-is-markdown)
+  - [2. Add content to index.md](#2-add-content-to-indexmd)
+    - [Add a title and front matter](#add-a-title-and-front-matter)
+  - [3. Use Markdown to add content to index.md](#3-use-markdown-to-add-content-to-indexmd)
+    - [Some Notes](#some-notes)
+  - [4. Create a second markdown page](#4-create-a-second-markdown-page)
+  - [5. [Optional] Adding scientific symbols and equations](#5-optional-adding-scientific-symbols-and-equations)
+    - [Symbols](#symbols)
+    - [Subscripts and superscripts](#subscripts-and-superscripts)
+    - [Single-line equations](#single-line-equations)
+    - [Create some symbols/equations](#create-some-symbolsequations)
+    - [More complex equations (in case you're interested)](#more-complex-equations-in-case-youre-interested)
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+# Cargas de Datos
 
 # Lesson 2: Learn Markdown 
 One of the really nice things about GitHub (and GitHub Pages, which you'll learn about later) is that you can use Markdown to format text on a web page without the use (or knowledge!) of HTML coding. This makes it really easy to create content. In this section, you'll learn a bit more about Markdown and how to use it to create formatted text. 

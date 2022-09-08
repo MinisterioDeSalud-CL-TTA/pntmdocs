@@ -3,8 +3,17 @@ layout: default
 title: Visualización de Grilla
 nav_order: 5
 ---
-
+- [Visualización de grilla](#visualización-de-grilla)
+- [Lesson 3: Create web pages with GitHub Pages](#lesson-3-create-web-pages-with-github-pages)
+  - [Lesson objectives](#lesson-objectives)
+  - [Lesson video](#lesson-video)
+  - [1. A GitHub Pages explainer](#1-a-github-pages-explainer)
+  - [2. Explore features and settings | Set up GitHub Pages](#2-explore-features-and-settings--set-up-github-pages)
+  - [3. Customize pages | What is jekyll?](#3-customize-pages--what-is-jekyll)
+  - [4. Embedding videos and other web content](#4-embedding-videos-and-other-web-content)
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+# Visualización de grilla
+
 # Lesson 3: Create web pages with GitHub Pages
 In this lesson, you'll learn how to use GitHub Pages to turn the markdown files in your GitHub repository into a functioning webpage.
 
