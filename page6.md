@@ -8,6 +8,13 @@ nav_order: 7
 
 -->
 
+- [Ambientes de trabajo](#ambientes-de-trabajo)
+- [Workshop preparation](#workshop-preparation)
+  - [1. Create a GitHub account](#1-create-a-github-account)
+  - [2a. Install GitHub Desktop (for Windows or Mac users)](#2a-install-github-desktop-for-windows-or-mac-users)
+  - [2b. Install git (for Linux users or adventurous Windows/Mac users)](#2b-install-git-for-linux-users-or-adventurous-windowsmac-users)
+
+# Ambientes de trabajo
 
 # Workshop preparation 
 
