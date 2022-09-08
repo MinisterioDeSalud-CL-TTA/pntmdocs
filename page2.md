@@ -61,14 +61,18 @@ Estos desarrollos son los planificados a implementarse durante el mes de Septiem
 -	Se ocultan las variables de recepción y resultado de antígeno desde interfaz de antígeno
 -	Se corrige bug que permitía que ciertos establecimientos y laboratorios tributaran incorrectamente muestras de PCR sin RUT de profesional responsable. Se agrega restricción a Interfaz, Carga Masiva y API:
 
-  o	Vía interfaz se diferencia entre el RUT Tomador de Muestra y el Rut Profesional Solicitante/ Responsable
+**Vía interfaz**
+Se diferencia entre el RUT Tomador de Muestra y el Rut Profesional Solicitante/ Responsable
 <br>
 <p align="center">
   <img src="assets/img/desarrollos/2022-09-01-imagen1.png">
 </p>
 <br>
-o	Via Carga Masiva:
+
+**Via Carga Masiva:**
+
 Se diferencia entre rut_tomador_muestra y rut_profesional_solicitante (RUT del profesional que es reponsable o que solicita la muestra, e.g. Medico)
+
 <br>
 <p align="center">
   <img src="assets/img/desarrollos/2022-09-01-imagen2.png">

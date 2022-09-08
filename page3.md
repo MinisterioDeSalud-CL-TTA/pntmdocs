@@ -20,6 +20,7 @@ nav_order: 4
     - [Create some symbols/equations](#create-some-symbolsequations)
     - [More complex equations (in case you're interested)](#more-complex-equations-in-case-youre-interested)
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+
 # Cargas de Datos
 
 # Lesson 2: Learn Markdown 
