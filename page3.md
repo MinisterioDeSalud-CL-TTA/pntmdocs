@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Antígenos - Carga masiva
+title: Cargas de Datos
 nav_order: 3
 ---
 

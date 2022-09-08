@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Más información
+title: FAQ - Preguntas Frecunetes
 nav_order: 8
 ---
 
