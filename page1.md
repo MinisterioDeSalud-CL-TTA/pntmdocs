@@ -2,7 +2,7 @@
 layout: home
 title: Home
 description: Documentación para Plataforma Nacional de Toma de muestras
-nav_order: 2
+nav_order: 1
 ---
 
 <p align="center">
