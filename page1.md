@@ -2,18 +2,27 @@
 layout: home
 title: Home
 description: Documentación para Plataforma Nacional de Toma de muestras
-nav_order: 1
+nav_order: 2
 ---
-
 
 <p align="center">
 <img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="300">
 </p><br>
 
-# Índice
 - [Plataforma Nacional de Toma de Muestras](#plataforma-nacional-de-toma-de-muestras)
-- [¿Quiénes deberán utilizar esta plataforma?](#¿quiénes-deberán-utilizar-esta-plataforma)
-- [Métodos de registro en PNTM](#métodos-de-registro-en-pntm)
+  - [¿Quiénes deberán utilizar esta plataforma?](#quiénes-deberán-utilizar-esta-plataforma)
+  - [Métodos de registro en PNTM](#métodos-de-registro-en-pntm)
+  - [Ingreso vía interfaz](#ingreso-vía-interfaz)
+    - [Creación de muestras](#creación-de-muestras)
+    - [Recepción de muestras](#recepción-de-muestras)
+    - [Entrega de resultados](#entrega-de-resultados)
+  - [Registro vía API](#registro-vía-api)
+    - [Creación de muestras](#creación-de-muestras-1)
+    - [Recepción de muestras](#recepción-de-muestras-1)
+    - [Entrega de resultados](#entrega-de-resultados-1)
+  - [Carga masiva de muestras y/o resultados](#carga-masiva-de-muestras-yo-resultados)
+    - [Carga de resultados](#carga-de-resultados)
+    - [Carga de muestras y resultados](#carga-de-muestras-y-resultados)
 
 
 # Plataforma Nacional de Toma de Muestras
