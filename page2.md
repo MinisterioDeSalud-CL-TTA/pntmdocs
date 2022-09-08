@@ -4,70 +4,46 @@ title: Últimas noticias - Desarrollos
 nav_order: 3
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-- [Antígenos: Carga interfaz](#antígenos-carga-interfaz)
-  - [Lesson objectives](#lesson-objectives)
-  - [Video clases JP](#video-clases-jp)
-  - [1. Create a new GitHub repository](#1-create-a-new-github-repository)
-  - [2. Add files and folders](#2-add-files-and-folders)
-    - [Create a file](#create-a-file)
-    - [Edit your text file](#edit-your-text-file)
-    - [View your changes and change history](#view-your-changes-and-change-history)
-    - [Create a folder](#create-a-folder)
-    - [Upload a file](#upload-a-file)
-  
-# Antígenos: Carga interfaz
-In this first lesson, you'll get some introductory experience creating a GitHub repository and populating it with files from the web interface. 
+<- [Desarrollos PNTM](#desarrollos-pntm)
+  - [2022-09-08](#2022-09-08)
 
-## Lesson objectives 
-- Create a GitHub repository.
-- Create folders and files.
-- Create and edit a markdown file.
+## Desarrollos PNTM
 
-## Video clases JP
-The following video demonstrates each of the steps outlined below in text:
-<iframe width="560" height="480" src="https://www.youtube.com/embed/ESNbpnsXl7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- - - 
+### 2022-09-08
 
-## 1. Create a new GitHub repository
-A repository is a container for related materials (i.e. folders and files), that allows for them to be managed (stored, version-tracked) and shared together. Usually, you create a separate repository for each project that you are working on. [Here are the New York Times' GitHub repositories](https://github.com/nytimes), for example.
-- Ensure you have [created a GitHub account](preparation#2-create-a-github-account) and are logged in.
-- From your GitHub main page, click on the green **New Repository** button. This is the repository (storage location) where the content of your website will be hosted. 
-  - Provide a name for your repository. The name you enter will determine the URL of your repository.
-    - The repository URL will take the form: ```https://github.com/<your-github-username>/<your-repo-name>```
-	- e.g. ```https://github.com/jasonbrodeur/test-pages```
-- Check the box to **Initialize this repository with a README**
-	- **NOTE**: Your README file is a plain text file (same as a .txt file) that typically contains descriptive information about your repository (Who made it? What does it contain? What is it for?, etc.). The ```.md``` extension indicates to GitHub that this is a Markdown file (more on that later). One of the nice features of markdown files is that they are readable by almost any applications (and humans), since they are mostly just plain text files.
-- Click the **Create repository** button
-- Your browser will now open to the top-level page of the repository. Your repository will contain one file: **README.md**. 
+  -	Se realizan arreglos menores en el acceso a la plataforma. Se habilita acceso a dos módulos, uno para COVID 19 y otro para MonkeyPox
+<br>
+<p align="center">
+  <img src="assets/img/2022-09-08-monkey-covid.png" alt="PNTM-MonkeyPox" width="300">
+</p>
+<br>
+  - Estos perfiles están disponibles para todos los tomadores de muestra, pero solo laboratorios autorizados a procesar muestras de PCR Monkeypox, por el ISP, podrán hacer uso del módulo y recibir muestras a través de PNTM.
+  -	Tipos de muestras presentes en MonkeyPox son `Tórula de Lesión` y `Contenido Vesicular` 
+  -	El modulo MonkeyPox se encuentra presente con funcionalidades de carga vía interfaz, carga Masiva y vía API solo para el endpoint `/crearmuestrasmp` documentación presente en [APIDOCS](https://tomademuestras.apidocs.openagora.org/)
+-	Endpoints de `/recepcionarMuestra` y `/entregaResultado` para MonkeyPox se encuentran en proceso de desarrollo
 
-## 2. Add files and folders
-In this step, you'll create a file and folder in your repository and upload a file from your computer to your new folder. You will eventually use all of these items to create your first webpage with GitHub Pages 
+- *Respecto a módulo COVID 19:*
+
+Con motivo de solucionar carga incorrecta de tomadores de muestra, profesionales responsables y médicos. Se han diferenciado los campos de *Tomador de Muestra*, *Profesional Responsable* y *Medico Solicitante*.
+
+En el caso de ser búsqueda activa, se deberá agregar el Rut del Tomador de muestra, y el RUT de un profesional responsable (debe ser profesional)
+
+<br>
+<p align="center">
+  <img src="assets/img/2022-09-08-profesional-responsable.png" alt="PNTM-MonkeyPox" width="300">
+</p>
+<br>
  
-### Create a file 
-- In the top-level repository page (which you can navigate to by clicking the ```<> Code``` tab), click ```Add file > Create new file```
-- When prompted to name your file, title it ```index.md```. This creates an empty text file that GitHub will assume contains Markdown code.
-- Scroll down to the **Commit new file** section. Add a short description (or use the suggested one) and click ```Commit change```.
-  - **NOTE**: Unlike programs such as Google Docs, GitHub does not save your changes automatically. Rather, you have to instruct it to **Commit** the changes, which takes a snapshot of the file and saves it as the newest version. 
-  - **NOTE**: There are two comment boxes that can be filled in when committing changes. The short description **is required**--ideally, it comtains a brief message about the changes you made to the file. An optional larger description box can be filled out, as well. 
-  
-### Edit your text file
-- Click on your ```index.html``` file to view it, and then click the edit button (pencil icon) to switch to editing mode
-- Add a bit of text to this file (anything is fine for now). 
-- When finished editing, modify the commit message and add a longer description (if desired) and **commit your changes**. 
+*__Datos presentes en la imagen de manera referencial, no corresponden a datos reales__
 
-### View your changes and change history
-- While viewing your ```index.md``` file, explore the ```Blame``` and ```History``` buttons to better understand how GitHub keeps track of and visualizes file changes. 
+-	De ser un caso de *Atención Médica*, aparecerá el campo de *Médico Solicitante*, donde deberá usarse el RUT de un médico registrado en PNTM. De esta forma desde NC podremos rastrear quienes reportan muestras de diagnóstico utilizando perfiles técnicos y no profesionales. El Profesional responsable hace referencia al profesional tomador de la muestra o a algún profesional responsable de validar el resultado. __Esto se encuentra aún en desarrollo y será implementado en Interfaz y Carga Masiva la próxima semana.__
 
-### Create a folder 
-- In the top-level repository page, click ```Add file > Create new file```
-- When prompted to name your file, enter ```images/temp.txt```. **Commit your changes**. This will create a folder called ```images``` and an empty file inside of it called ```temp.txt``` (which can be deleted later, once you've moved more files into the images folder).
+-	El desarrollo vía API de esta funcionalidad será implementado en el nuevo endpoint `/crearMuestras_v3` el cual también posee la funcionalidad de procesar todas las muestras de manera individual, cargando las muestras correctas y devolviendo las erróneas. Lo anterior viene a solucionar la caída de la carga completa cuando hay solo algunas muestras erróneas. Una vez realizados los desarrollos vía API, se bajará la información vía ordinario y tendrán un mes para migrar al nuevo endpoint `/crearMuestras_v3` y `/recepcionarMuestraV3`.
 
-### Upload a file 
-- Make sure you are located within the ```images``` folder (you should see your ```temp.txt``` file). 
-- Click ```Add file > Upload files```. 
-- Select an image from your computer to upload. If you want to download something from the web, try to use something that is not copyrighted or is royalty free ([e.g.](https://www.pexels.com/royalty-free-images/))
-- **Commit your changes**
-<br>
-<br>
-**Finished?** Navigate to [Lesson 2](lesson2), to learn how to use Markdown to format your text for the web. 
+-	Se está trabajando en una modernización de la documentación de PNTM (`pntmdocs`), permitiendo búsqueda por temas, conteniendo preguntas frecuentes e incluyendo capsulas de ejemplo para cada tipo de proceso que se realiza (entre otras opciones). Además, se utilizarácomo medio oficial para bajar de forma rápida y oportuna los desarrollos realizados, junto a códigos ejemplo de integraciones vía API de los WS.
+
+Estos desarrollos son los planificados a implementarse durante el mes de Septiembre 2022
+
+- - - 
 
