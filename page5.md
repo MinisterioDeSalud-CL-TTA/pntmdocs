@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Descarga de reportes
-nav_order: 5
+nav_order: 6
 ---
 
 # Lesson 4 - Sync with GitHub Desktop (and maybe git) 
