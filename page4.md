@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Antígenos - API
+title: Visualización de Grilla
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PCR - Interfaz
+title: Descarga de reportes
 nav_order: 5
 ---
 

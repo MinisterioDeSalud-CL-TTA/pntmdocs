@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PCR - Carga masiva
+title: Ambientes de Capacitación
 nav_order: 6
 ---
 
