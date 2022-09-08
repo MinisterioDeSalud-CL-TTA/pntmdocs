@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Bibliografía - Ordinarios/Resoluciones
+title: Bibliografía - Ord/Res
 nav_order: 10
 ---

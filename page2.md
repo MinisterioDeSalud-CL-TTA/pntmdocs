@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Últimas noticias - Desarrollos
+title: Últimos desarrollos
 nav_order: 3
 ---
 
@@ -28,7 +28,6 @@ nav_order: 3
 Con motivo de solucionar carga incorrecta de tomadores de muestra, profesionales responsables y médicos. Se han diferenciado los campos de *Tomador de Muestra*, *Profesional Responsable* y *Medico Solicitante*.
 
 En el caso de ser búsqueda activa, se deberá agregar el Rut del Tomador de muestra, y el RUT de un profesional responsable (debe ser profesional)
-
 <br>
 <p align="center">
   <img src="assets/img/2022-09-08-profesional-responsable.png" alt="PNTM-MonkeyPox" width="300">
@@ -47,3 +46,42 @@ Estos desarrollos son los planificados a implementarse durante el mes de Septiem
 
 - - - 
 
+### 2022-09-01
+
+**Nuevas funcionalidades:**
+
+-	Se agregó la variable `Estrategia` a reporte global de solicitudes de antígeno
+-	Se agrega la variable `Estrategia` al testeo NO BAC, adicionando los valores `Sintomáticos` y `Residencias Sanitarias`
+-	Valor de variable Estrategia `BAC autotest` se permite tributar solo con marcas de test autorizadas para dicho programa piloto
+-	Estrategia sigue siendo opcional y tiene valor por defecto `Sin Estrategia` tanto para BAC como no BAC
+
+**Corrección de errores:**
+
+-	Se agrego restricción para Rut de pacientes en blanco, ocasionado por bug que aparecía al seleccionar y deseleccionar el tipo de documento del paciente
+-	Se ocultan las variables de recepción y resultado de antígeno desde interfaz de antígeno
+-	Se corrige bug que permitía que ciertos establecimientos y laboratorios tributaran incorrectamente muestras de PCR sin RUT de profesional responsable. Se agrega restricción a Interfaz, Carga Masiva y API:
+
+  o	Vía interfaz se diferencia entre el RUT Tomador de Muestra y el Rut Profesional Solicitante/ Responsable
+<br>
+<p align="center">
+  <img src="assets/img/desarrollos/2022-09-01-imagen1.png">
+</p>
+<br>
+o	Via Carga Masiva:
+Se diferencia entre rut_tomador_muestra y rut_profesional_solicitante (RUT del profesional que es reponsable o que solicita la muestra, e.g. Medico)
+<br>
+<p align="center">
+  <img src="assets/img/desarrollos/2022-09-01-imagen2.png">
+</p>
+<br>
+
+**Via API:**
+
+No se realiza cambio de nombres de variables para no afectar interoperabilidad [APIDOCS](https://tomademuestras.apidocs.openagora.org/#/). Pero en caso de utilizar búsqueda_activa = `False` deben utilizar el campo rut_responsable con el de tomador de muestra (tal como lo hacían a la fecha) y rut_medico con el RUT del médico solicitante. En caso de elegir búsqueda_activa = `True` deben utilizar el campo `rut_responsable` con el de tomador de muestra (tal como lo hacían a la fecha) y `rut_medico` con el RUT del profesional responsable.
+<br>
+<p align="center">
+  <img src="assets/img/desarrollos/2022-09-01-imagen3.png">
+</p>
+<br>
+Estos nombres de variables presentes via API serán corregidos posteriormente para mayor claridad, al igual que como se realizó en Carga Masiva e Interfaz
+- - - 
