@@ -2,7 +2,8 @@
 layout: default
 title: Modulos disponibles
 description: Modulos disponibles
-nav_order: 2.1
+parent:  Tabla de contenidos
+nav_order: 1
 ---
 
 # Modulos disponibles
