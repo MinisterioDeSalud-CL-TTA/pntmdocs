@@ -1,38 +1,135 @@
 ---
 layout: default
-title: Ambientes de Capacitación
+title: Descarga de reportes
 nav_order: 7
 ---
+- [Descarga de Reportes](#descarga-de-reportes)
+- [Lesson 4 - Sync with GitHub Desktop (and maybe git)](#lesson-4---sync-with-github-desktop-and-maybe-git)
+  - [Lesson objectives](#lesson-objectives)
+  - [Lesson video](#lesson-video)
+- [GitHub Desktop](#github-desktop)
+  - [1. Clone your repository to your computer](#1-clone-your-repository-to-your-computer)
+    - [In GitHub](#in-github)
+    - [In GitHub Desktop](#in-github-desktop)
+  - [2. Make some changes on your computer](#2-make-some-changes-on-your-computer)
+  - [3. Commit new changes](#3-commit-new-changes)
+  - [4. Push changes to your GitHub (remote) repository](#4-push-changes-to-your-github-remote-repository)
+  - [5. Make changes in the GitHub (remote) repository](#5-make-changes-in-the-github-remote-repository)
+  - [6. Pull changes to the local repository](#6-pull-changes-to-the-local-repository)
+- [Git](#git)
+  - [0. Configure your git account](#0-configure-your-git-account)
+  - [1. Clone your repository to your computer](#1-clone-your-repository-to-your-computer-1)
+    - [In GitHub](#in-github-1)
+    - [In git Bash](#in-git-bash)
+  - [2. Make some changes on your computer](#2-make-some-changes-on-your-computer-1)
+  - [3. Add and commit new changes](#3-add-and-commit-new-changes)
+  - [4. Push changes to GitHub (remote) repository](#4-push-changes-to-github-remote-repository)
+  - [5. Make changes in the GitHub (remote) repository](#5-make-changes-in-the-github-remote-repository-1)
+  - [6. Pull changes to the local repository](#6-pull-changes-to-the-local-repository-1)
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
+# Descarga de Reportes
 
--->
+# Lesson 4 - Sync with GitHub Desktop (and maybe git) 
+In this lesson, you'll learn how to use GitHub Pages to turn the markdown files in your GitHub repository into a functioning webpage. Ensure that you've sucessfully installed [GitHub Desktop](preparation#3a-install-github-desktop-for-windows-or-mac-users) (for Windows and Mac users) or [git](preparation#3b-install-git-for-linux-users-or-adventurous-windowsmac-users) for Linux users. 
 
-- [Ambientes de trabajo](#ambientes-de-trabajo)
-- [Workshop preparation](#workshop-preparation)
-  - [1. Create a GitHub account](#1-create-a-github-account)
-  - [2a. Install GitHub Desktop (for Windows or Mac users)](#2a-install-github-desktop-for-windows-or-mac-users)
-  - [2b. Install git (for Linux users or adventurous Windows/Mac users)](#2b-install-git-for-linux-users-or-adventurous-windowsmac-users)
+## Lesson objectives 
+- Clone your GitHub repository to your local machine
+- Use GitHub Desktop to control file versions on your local computer
+- Push changes back to GitHub (and pull new changes back down)
+- Fork a repository
 
-# Ambientes de trabajo
+## Lesson video
+The following video demonstrates each of the steps outlined below in text:
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/99e82d8b-81a2-485e-afc6-236bd169c898/public?autoplay=false&automute=false"></iframe>
 
-# Workshop preparation 
+[**Go to GitHub Desktop Instructions**](#github-desktop)  |  [**Go to git Instructions**](#git)
 
-## 1. Create a GitHub account
-- Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
-- After registering, sign in to your account.
+# GitHub Desktop
+## 1. Clone your repository to your computer
+In this step, you will *clone* your existing GitHub repository to your local computer so that you can work on files locally.
+### In GitHub
+- In the root of your GitHub repository (click on the ```<> Code``` tab to get there) click the green ```Code``` button  ![Green button with the word code](assets/img/code-button-sm.png)
+- Copy the https code (e.g. ```https://github.com/scds/github-pages.git```)  
+### In GitHub Desktop
+- Go to ```File > Clone repository```, and select to add by ```URL```
+- Paste the copied URL to your GitHub repository.
+- Choose a folder on your local computer where you want to download the repository contents--a new folder will be created with the name of the repository. 
+- Click ```Clone```
+  - **NOTE**: You can also use this approach to clone someone else's GitHub repository!
 
-## 2a. Install GitHub Desktop (for Windows or Mac users)
-- If you are using a **Windows** or **Mac** computer, download and install [GitHub Desktop](https://desktop.github.com/)
-  - More guidance can be found in guides from [GitHub](https://docs.github.com/en/desktop).
-- Sign into GitHub Desktop using your GitHub credentials
-- In ```File > Options > Git```, enter the name and email that you want associated with your work ([More help](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/configuring-git-for-github-desktop)).
-- (optional) Once configured, the main GitHub Desktop page will show any repositories that exist in your GitHub account. For those who use GitHub Desktop or git already, you can add any local repositories that already exist on your computer.
+## 2. Make some changes on your computer
+- In GitHub Desktop, click the ```Show in Explorer``` button to open up your file explorer to your repository's contents. 
+- Open one of your Markdown (.md) files in a text editor. Make some changes and save them.
+- Add a few files (perhaps some images to the ```images``` folder?). 
 
-## 2b. Install git (for Linux users or adventurous Windows/Mac users)
-- **If you are a Linux user**, GitHub Desktop will not work for you. Instead, you'll need to learn how to install and use git and git Bash. 
-- Navigate to the [official git website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and follow the instructions to download and install for your operating system.
+## 3. Commit new changes
+- In GitHub Desktop, you should be shown the files that have been changed, and be able to view the specific changes. 
+- If you are comfortable with the changes, you are ready to commit them.
+  - Provide a summary of the changes (or used the suggested text), and lengthier description, if desired.
+  - Click ```Commit to master```. This commits your changes to your local repository (but not yet to your GitHub one!). 
+  - If you continue to work on your local files, you will need to again commit changes.  
+
+## 4. Push changes to your GitHub (remote) repository
+In this step, you'll *push* your local changes back up to your GitHub repository, so that both are synced. 
+- In GitHub Desktop, click the ```Push origin``` button to send your changes to your GitHub repository.
+- Verify your changes in your GitHub repository by clicking on the ```View on GitHub``` button.
+
+## 5. Make changes in the GitHub (remote) repository
+- Make and commit a change to a file in the GitHub (remote) repository using the web editor. 
+
+## 6. Pull changes to the local repository
+- In GitHub Desktop, click the **Fetch origin** button. This will check the GitHub repository to see if any changes have been made remotely.
+- In GitHub Desktop, click the **Pull origin** button to sync remote changes to your local files. 
+
+**Congratulations, you've made it to the end!** If you'd like to explore more, head to the [Learn More](learn-more) page.
 
 
-When you've finished preparing, navigate to the [Introduction](introduction) section to learn the basics.
+# Git
+These instructions assume that you have basic experience using the command line. 
 
+## 0. Configure your git account 
+Open up **git Bash** and navigate to the desired directory for your repository using the command line
+- Set your name: ```git config --global user.name "John Doe"```
+- Set your email address: ```git config --global user.email johndoe@example.com```
+- Check your settings ```git config --list```
+See [git documentation](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) for more information.
+
+## 1. Clone your repository to your computer
+In this step, you will *clone* your existing GitHub repository to your local computer so that you can work on files locally.
+### In GitHub
+- In the root of your GitHub repository (click on the ```<> Code``` tab to get there) click the green ```Code``` button  ![Green button with the word code](assets/img/code-button-sm.png)
+- Copy the https code (e.g. ```https://github.com/scds/github-pages.git```)  
+### In git Bash
+- Open Git Bash in the desired directory for your repository. Enter the command: ```git clone <copied url>```, where ```<copied_url>``` is the URL you copied in the previous step.
+- Git should now download the contents of your GitHub repository to a new folder in your current directory
+  - **NOTE**: You can also use this approach to clone someone else's GitHub repository!
+
+## 2. Make some changes on your computer
+- In your local repository folder, open one of your Markdown (.md) files in a text editor. Make some changes and save them.
+- Add a few files (perhaps some images to the ```images``` folder?). 
+
+## 3. Add and commit new changes
+- In **git Bash**, check the status of your repository (i.e. what's been modified): ```git status```
+  - This will provide a list of items that are not yet being tracked (i.e. have not been added to the index), and those that are being tracked and have been modified.
+- Add new items to the list of tracked files (individually): ```git add <filename>```
+  - **OR** Add all items to this list of tracked files: ```git add --all```
+- Commit changes to git (i.e. record changes): ```git commit -m '<enter a note on what has changed>'```
+  - **OR** add and commit all at once: ```git commit -a -m '<enter a note on what has changed>'```
+
+## 4. Push changes to GitHub (remote) repository
+- To check if there are connected remote repositories use the command: ```git remote -v```
+- Push changes to the target GitHub repository using the command: ```git push origin main```
+  - In this example -- which is the default case -- **origin** specifies the remote (i.e. GitHub) repository that is the target of your 'push'. **main** specifies the branch of the git repository that you're working on as the source data.
+- Verify your changes in your GitHub repository.
+
+## 5. Make changes in the GitHub (remote) repository
+- Make and commit a change to a file in the GitHub (remote) repository using the web editor. 
+
+## 6. Pull changes to the local repository
+- In **git Bash**, you can check changes (before merging them) with: ```git fetch```, and then ```git diff origin master```
+- Pull (fetch and merge) changes: ```git pull origin master```
+  - **Note:** ```git pull``` actually runs two processes: ```fetch``` (get changes) and ```merge``` (place in your directory) 
+- Inspect the changes to your local repository.
+<br>
+<br>
+**Congratulations, you've made it to the end!** If you'd like to explore more, head to the [Learn More](learn-more) page.

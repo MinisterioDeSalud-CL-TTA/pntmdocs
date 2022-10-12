@@ -1,42 +1,35 @@
 ---
 layout: default
-title: Bibliografía - Ord/Res
+title: FAQ - Preguntas Frecuentes
 nav_order: 10
 ---
 
-- [Bibliografía](#bibliografía)
-  - [Viruela del Mono](#viruela-del-mono)
-    - [Resoluciones](#resoluciones)
-    - [Protocolos](#protocolos)
-    - [Decretos](#decretos)
-    - [Ordinarios](#ordinarios)
-    - [Información complementaria](#información-complementaria)
+<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+- [FAQ - Preguntas Frecuentes](#faq---preguntas-frecuentes)
+  - [Markdown resources](#markdown-resources)
+  - [More about Jekyll](#more-about-jekyll)
+  - [Learn about git and GitHub Desktop](#learn-about-git-and-github-desktop)
+  - [More about version control with git](#more-about-version-control-with-git)
+  
+# FAQ - Preguntas Frecuentes
+## Markdown resources
+- [markdown.org's Markdown Guide](https://www.markdownguide.org/getting-started/)
+- [markdownguide.org's Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/)
+- [Markdown Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Daring Fireball's Markdown Introduction](https://daringfireball.net/projects/markdown/)
 
+## More about Jekyll
+*From [jekyllrb.com](https://jekyllrb.com/):*
+>“Jekyll is a static site generator. You give it text written in your favorite markup language and it uses layouts to create a static website. You can tweak how you want the site URLs to look, what data gets displayed on the site, and more.”
+- GitHub pages uses jekyll to turn your markdown files (hosted in your GitHub repo) into HTML files and presents them on your desired website. 
+- Jekyll [web page](https://jekyllrb.com/) and Jekyll project [on GitHub](https://github.com/jekyll/jekyll).
 
-# Bibliografía 
+## Learn about git and GitHub Desktop
+If you're interested in learning more about how you can do version control in your local folders and connect them to GitHub repositories see: 
+- [This intro to Git and GitHub tutorial](https://ubc-library-rc.github.io/intro-git/) from UBC Library Research Commons.
+- [This intro to GitHub Desktop tutorial](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/creating-your-first-repository-using-github-desktop) from GitHub.
 
-## Viruela del Mono
-
-### Resoluciones
-1. [Resolución N°1162](http://epi.minsal.cl/wp-content/uploads/2022/08/RES_EXENTA_N_1162_APRUEBA_PROTOCOLO_VIRUELA_DEL_MONO.pdf) del 24 de agosto de 2022, Aprueba protocolo de vigilancia epidemiológica de viruela del mono.
-
-### Protocolos
-1. Protocolo de vigilancia epidemiológica viruela del mono, 22 de agosto de 2022 ([original](http://epi.minsal.cl/wp-content/uploads/2022/09/RES.-EXENTA-N%C2%B0-1162-PROTOCOLO_compressed.pdf), [copia](http://epi.minsal.cl/wp-content/uploads/2022/08/Protocolo_vigilancia_viruela_del_mono_22082022.pdf))
-
-### Decretos
-1. [Decreto N°64](http://epi.minsal.cl/wp-content/uploads/2022/07/Decreto-N%C2%B0-64-2022-Subsecretaria-de-salud-Publica.pdf), Decreta Alerta Sanitaria por el periodo que se señala y otorga facultades extraordinarias que se indica.
-2. [Decreto N°74](), Extiende Alerta Sanitaria por el periodo que se señala y otorga facultades extraordinarias que se indica.
-
-### Ordinarios
-1. [Ord. B51/N°4160](http://epi.minsal.cl/wp-content/uploads/2022/09/ORD-4160-31-08-2022-vs.pdf) del 31 de agosto 2022, Implementación Red de diagnóstico Viruela del Mono/MonkeyPox
-2. [Ord. B10/N°3888](http://epi.minsal.cl/wp-content/uploads/2022/08/ORD-3888-que-imparte-instrucciones-sobre-emision-de-LM-en-casos-de-viruela-simica.pdf) del 18 de agosto 2022, Instruye indicaciones sobre LM relacionadas a Viruela del Mono.
-3. [Ord. B51/Nº2965](http://epi.minsal.cl/wp-content/uploads/2022/07/ORD-2965-24-06-2022Viruela-del-Mono.pdf) del 24 de junio 2022, Alerta vigilancia Viruela del mono frente a casos confirmados en Chile.
-4. [Ord. C37/N°1961](http://epi.minsal.cl/wp-content/uploads/2022/06/1961-ORD.-DEL-15-DE-JUNIO-2022-PROTOCOLO-Y-PREPARACION-VIRUELA-DEL-SIMIO.pdf) del 15 de junio 2022, Protocolo preparación y respuesta Redes Asistenciales Viruela del simio.
-5. [Ord. B51/N°2760](http://epi.minsal.cl/wp-content/uploads/2022/06/ORD-2760-10-06-2022.pdf) del 10 de junio 2022, Actualización protocolo vigilancia Viruela del Mono.
-
-### Información complementaria
-1. Organización Mundial de la Salud. Guía de gestión clínica de prevención y control de la infección de la Viruela del Mono. Disponible en https://www.who.int/publications/i/item/WHO-MPX-Clinical-and-IPC-2022.1 [Consultado el 23 de agosto de 2022]
-2. Organización Panamericana de la Salud. Preguntas frecuentes sobre la Viruela Símica. Disponible en https://www.paho.org/es/brote-por-enfermedad-viruela-simica-2022/preguntas-frecuentes-sobre-viruela-simica [Consultado el 23 de agosto de 2022]
-3. Organización Panamericana de la Salud. Generalidades de la Viruela Símica. Disponible en https://www.paho.org/es/viruela-simica [Consultado el 23 de agosto de 2022]
-4. Ministerio de Salud. Orientación técnica para el diagnóstico y manejo clínico de arbovirosis: Dengue, Chikungunya, Zika y Fiebre Amarilla. 1ª edición. 2018. Disponible en http://epi.minsal.cl/wp-content/uploads/2022/08/Orientacion-tecnica-para-el-diagnostico-y-manejo-clinico-de-arbovirosis.pdf [Consultado el 23 de agosto de 2022]
-5. Organización Panamericana de la Salud. Alerta Epidemiológica Viruela símica en países no endémicos. 20 de mayo de 2022. Disponible en https://www.paho.org/es/documentos/alerta-epidemiologica-viruela-simica-paises-no-endemicos-20-mayo-2022-0 [Consultado el 23 de agosto de 2022] 
+## More about version control with git
+- [Official git documentation page](https://git-scm.com/book/en/v2/)
+- [The Smart Ways to Correct Mistakes in Git](https://css-tricks.com/the-smart-ways-to-correct-mistakes-in-git/) 

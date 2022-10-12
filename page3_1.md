@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Modulos disponibles
-description: Modulos disponibles
-parent:  Tabla de contenidos
+title: Covid-19
+description: Modulo de Covid-19
+parent:  Modulos disponibles
 nav_order: 1
 ---
 
