@@ -1,135 +1,128 @@
 ---
 layout: default
-title: Descarga de reportes
+title: Cargas de Datos
 nav_order: 6
 ---
-- [Descarga de Reportes](#descarga-de-reportes)
-- [Lesson 4 - Sync with GitHub Desktop (and maybe git)](#lesson-4---sync-with-github-desktop-and-maybe-git)
-  - [Lesson objectives](#lesson-objectives)
+- [Cargas de Datos](#cargas-de-datos)
+- [Lesson 2: Learn Markdown](#lesson-2-learn-markdown)
   - [Lesson video](#lesson-video)
-- [GitHub Desktop](#github-desktop)
-  - [1. Clone your repository to your computer](#1-clone-your-repository-to-your-computer)
-    - [In GitHub](#in-github)
-    - [In GitHub Desktop](#in-github-desktop)
-  - [2. Make some changes on your computer](#2-make-some-changes-on-your-computer)
-  - [3. Commit new changes](#3-commit-new-changes)
-  - [4. Push changes to your GitHub (remote) repository](#4-push-changes-to-your-github-remote-repository)
-  - [5. Make changes in the GitHub (remote) repository](#5-make-changes-in-the-github-remote-repository)
-  - [6. Pull changes to the local repository](#6-pull-changes-to-the-local-repository)
-- [Git](#git)
-  - [0. Configure your git account](#0-configure-your-git-account)
-  - [1. Clone your repository to your computer](#1-clone-your-repository-to-your-computer-1)
-    - [In GitHub](#in-github-1)
-    - [In git Bash](#in-git-bash)
-  - [2. Make some changes on your computer](#2-make-some-changes-on-your-computer-1)
-  - [3. Add and commit new changes](#3-add-and-commit-new-changes)
-  - [4. Push changes to GitHub (remote) repository](#4-push-changes-to-github-remote-repository)
-  - [5. Make changes in the GitHub (remote) repository](#5-make-changes-in-the-github-remote-repository-1)
-  - [6. Pull changes to the local repository](#6-pull-changes-to-the-local-repository-1)
+  - [Lesson objectives](#lesson-objectives)
+  - [1. What is Markdown?](#1-what-is-markdown)
+  - [2. Add content to index.md](#2-add-content-to-indexmd)
+    - [Add a title and front matter](#add-a-title-and-front-matter)
+  - [3. Use Markdown to add content to index.md](#3-use-markdown-to-add-content-to-indexmd)
+    - [Some Notes](#some-notes)
+  - [4. Create a second markdown page](#4-create-a-second-markdown-page)
+  - [5. [Optional] Adding scientific symbols and equations](#5-optional-adding-scientific-symbols-and-equations)
+    - [Symbols](#symbols)
+    - [Subscripts and superscripts](#subscripts-and-superscripts)
+    - [Single-line equations](#single-line-equations)
+    - [Create some symbols/equations](#create-some-symbolsequations)
+    - [More complex equations (in case you're interested)](#more-complex-equations-in-case-youre-interested)
 
-# Descarga de Reportes
+<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
-# Lesson 4 - Sync with GitHub Desktop (and maybe git) 
-In this lesson, you'll learn how to use GitHub Pages to turn the markdown files in your GitHub repository into a functioning webpage. Ensure that you've sucessfully installed [GitHub Desktop](preparation#3a-install-github-desktop-for-windows-or-mac-users) (for Windows and Mac users) or [git](preparation#3b-install-git-for-linux-users-or-adventurous-windowsmac-users) for Linux users. 
+# Cargas de Datos
 
-## Lesson objectives 
-- Clone your GitHub repository to your local machine
-- Use GitHub Desktop to control file versions on your local computer
-- Push changes back to GitHub (and pull new changes back down)
-- Fork a repository
+# Lesson 2: Learn Markdown 
+One of the really nice things about GitHub (and GitHub Pages, which you'll learn about later) is that you can use Markdown to format text on a web page without the use (or knowledge!) of HTML coding. This makes it really easy to create content. In this section, you'll learn a bit more about Markdown and how to use it to create formatted text. 
 
 ## Lesson video
 The following video demonstrates each of the steps outlined below in text:
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/99e82d8b-81a2-485e-afc6-236bd169c898/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/ba194214-c372-4df6-b74d-2cdf8157f996/public?autoplay=false&automute=false"></iframe>
 
-[**Go to GitHub Desktop Instructions**](#github-desktop)  |  [**Go to git Instructions**](#git)
+## Lesson objectives 
+- Learn about Markdown
+- Practice creating web-ready content with Markdown
+- Learn how to create special symbols and equations using HTML code
 
-# GitHub Desktop
-## 1. Clone your repository to your computer
-In this step, you will *clone* your existing GitHub repository to your local computer so that you can work on files locally.
-### In GitHub
-- In the root of your GitHub repository (click on the ```<> Code``` tab to get there) click the green ```Code``` button  ![Green button with the word code](assets/img/code-button-sm.png)
-- Copy the https code (e.g. ```https://github.com/scds/github-pages.git```)  
-### In GitHub Desktop
-- Go to ```File > Clone repository```, and select to add by ```URL```
-- Paste the copied URL to your GitHub repository.
-- Choose a folder on your local computer where you want to download the repository contents--a new folder will be created with the name of the repository. 
-- Click ```Clone```
-  - **NOTE**: You can also use this approach to clone someone else's GitHub repository!
+## 1. What is Markdown? 
+Borrowed shamelessly from GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) page: 
+> Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-## 2. Make some changes on your computer
-- In GitHub Desktop, click the ```Show in Explorer``` button to open up your file explorer to your repository's contents. 
-- Open one of your Markdown (.md) files in a text editor. Make some changes and save them.
-- Add a few files (perhaps some images to the ```images``` folder?). 
+Markdown uses simple notation to apply simple formatting rules. Since it's pretty much just plain text, it's transferrable and much simpler than marked-up text like HTML or even Word or Google documents. It's also very readable in its plain text format, which is nice. For much of the writing that you do for the web, Markdown is good enough. GitHub uses Markdown for its documents (this document was created in markdown), as does a variety of other web platforms (Reddit and Trello, as examples). 
 
-## 3. Commit new changes
-- In GitHub Desktop, you should be shown the files that have been changed, and be able to view the specific changes. 
-- If you are comfortable with the changes, you are ready to commit them.
-  - Provide a summary of the changes (or used the suggested text), and lengthier description, if desired.
-  - Click ```Commit to master```. This commits your changes to your local repository (but not yet to your GitHub one!). 
-  - If you continue to work on your local files, you will need to again commit changes.  
+## 2. Add content to index.md
 
-## 4. Push changes to your GitHub (remote) repository
-In this step, you'll *push* your local changes back up to your GitHub repository, so that both are synced. 
-- In GitHub Desktop, click the ```Push origin``` button to send your changes to your GitHub repository.
-- Verify your changes in your GitHub repository by clicking on the ```View on GitHub``` button.
+### Add a title and front matter
+In [Lesson 3](lesson3), you will use [GitHub Pages](https://pages.github.com/) and a program called [jekyll](https://jekyllrb.com/) to turn your markdown files into web pages. In preparation for this, you will want to add some [front matter](https://jekyllrb.com/docs/front-matter/) to your markdown file. Front matter provides information about the web page's presentation and structure (title, layout, page order in a list, etc.). 
+- Open your ```index.md``` file for editing. Remove any text that was in there from Lesson 1.
+- Using the GitHub editor, copy the text below and paste it at the top (including the dashes):
 
-## 5. Make changes in the GitHub (remote) repository
-- Make and commit a change to a file in the GitHub (remote) repository using the web editor. 
+```
+---
+title: <enter your title here>
+layout: default
+nav_order: 1
+---
+```
 
-## 6. Pull changes to the local repository
-- In GitHub Desktop, click the **Fetch origin** button. This will check the GitHub repository to see if any changes have been made remotely.
-- In GitHub Desktop, click the **Pull origin** button to sync remote changes to your local files. 
+Don't worry if this information looks a bit weird when you preview the page--it won't appear on your final web page.  
 
-**Congratulations, you've made it to the end!** If you'd like to explore more, head to the [Learn More](learn-more) page.
+## 3. Use Markdown to add content to index.md
+Using the [Mastering Markdown guide](https://guides.github.com/features/mastering-markdown/) and/or [markdownguide.org's Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/) (or other guides you find on the web) as a reference, enter text beneath the front matter to create a fictional document that contains most of the following elements: 
+- Headings of a number of different levels
+- bolded, italicized text 
+- insert an image from the web
+- insert the image that you uploaded to the ```images``` folder in this repository
+- An ordered list
+- A bulleted list
+- A link to another website
+- A snippet of code
+- A table
+- And finally, an emoji! (you can use the [Markdown Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) as a reference)
 
+### Some Notes
+- Use the **Preview changes** tab to see (mostly) how it will look on your page. 
+- Markdown doesn't add new lines to a document in the same way as a document editors like MS Word. Sometimes you might hit enter to start a new line in the editor, only to find that it has been added to the first paragraph when rendered. To avoid this you can try one of the following: 
+  - Enter an extra blank line
+  - Leave two blank spaces at the end of the sentence (this is interpretted as the end of a paragraph)
+  - Insert the HTML tag ```<br>``` to create a break line in the rendered text. You can use multiple break tags to create more blank lines.  
+<br>
+**Commit your changes** and enjoy the products of your hard work!
 
-# Git
-These instructions assume that you have basic experience using the command line. 
+## 4. Create a second markdown page
+The website you make in the next lesson will have two pages. Here, you are going to create the second page. 
+- In the top level of your repository (remember, you can click the ```<> Code``` tab to get there), create a new markdown file. Name it as you wish, but ensure that it is free of spaces and special characters and ends in ```.md``` (e.g. ```pagetwo.md``` works just fine). 
+- As done earlier, add front matter with a title. Set the ```nav_order``` value to 2 (this will inform GitHub Pages to make this the second menu item in your website), as shown below: 
+```
+---
+title: <enter a different title here>
+layout: default
+nav_order: 2
+---
+```
+- Add a few sentences and **commit your changes**.
 
-## 0. Configure your git account 
-Open up **git Bash** and navigate to the desired directory for your repository using the command line
-- Set your name: ```git config --global user.name "John Doe"```
-- Set your email address: ```git config --global user.email johndoe@example.com```
-- Check your settings ```git config --list```
-See [git documentation](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) for more information.
+## 5. [Optional] Adding scientific symbols and equations
+While the simplicity of Markdown is usually an asset, there are times when you need to present text using more complex formatting--for example, when using symbols and equations. Given that these pieces aren't baked into Markdown, you'll need to resort to using HTML coding. This involves a bit more technical skill, but it's something that you can figure out pretty quickly with the help of Google. 
 
-## 1. Clone your repository to your computer
-In this step, you will *clone* your existing GitHub repository to your local computer so that you can work on files locally.
-### In GitHub
-- In the root of your GitHub repository (click on the ```<> Code``` tab to get there) click the green ```Code``` button  ![Green button with the word code](assets/img/code-button-sm.png)
-- Copy the https code (e.g. ```https://github.com/scds/github-pages.git```)  
-### In git Bash
-- Open Git Bash in the desired directory for your repository. Enter the command: ```git clone <copied url>```, where ```<copied_url>``` is the URL you copied in the previous step.
-- Git should now download the contents of your GitHub repository to a new folder in your current directory
-  - **NOTE**: You can also use this approach to clone someone else's GitHub repository!
+### Symbols
+The W3schools [HTML Symbols reference page](https://www.w3schools.com/html/html_symbols.asp) is the best place to go for comprehensive instruction on adding symbols using HTML. It also provides a variety of symbol lists for easy reference.
 
-## 2. Make some changes on your computer
-- In your local repository folder, open one of your Markdown (.md) files in a text editor. Make some changes and save them.
-- Add a few files (perhaps some images to the ```images``` folder?). 
+As discussed in the previous resource, you can use an *entity name* or an *entity number* to create a symbol. For example, to create the alpha symbol, you can do either of the following: 
+- Entering the *entity name* ```&alpha;``` will print the symbol &alpha;, OR
+- Entering the *entity number* ```&#945;``` will print the symbol &alpha;  
 
-## 3. Add and commit new changes
-- In **git Bash**, check the status of your repository (i.e. what's been modified): ```git status```
-  - This will provide a list of items that are not yet being tracked (i.e. have not been added to the index), and those that are being tracked and have been modified.
-- Add new items to the list of tracked files (individually): ```git add <filename>```
-  - **OR** Add all items to this list of tracked files: ```git add --all```
-- Commit changes to git (i.e. record changes): ```git commit -m '<enter a note on what has changed>'```
-  - **OR** add and commit all at once: ```git commit -a -m '<enter a note on what has changed>'```
+**Note**: Don't forget the semicolon at the end of the code!
 
-## 4. Push changes to GitHub (remote) repository
-- To check if there are connected remote repositories use the command: ```git remote -v```
-- Push changes to the target GitHub repository using the command: ```git push origin main```
-  - In this example -- which is the default case -- **origin** specifies the remote (i.e. GitHub) repository that is the target of your 'push'. **main** specifies the branch of the git repository that you're working on as the source data.
-- Verify your changes in your GitHub repository.
+### Subscripts and superscripts
+Subscripts and superscripts can be created by putting placing the following HTML tags before and after the desired numerals/symbols: 
+- For subscripts, place ```<sub>``` in front and ```</sub>``` after the character(s) you would like to subscript.
+  - e.g. ```H<sub>2</sub>O``` produces H<sub>2</sub>O
+- For superscripts, place ```<sup>``` in front and ```</sup>``` after the character(s) you would like to superscript.
+  - e.g. ```&delta;<sup>18</sup>O``` produces &delta;<sup>18</sup>O
 
-## 5. Make changes in the GitHub (remote) repository
-- Make and commit a change to a file in the GitHub (remote) repository using the web editor. 
+### Single-line equations  
+Single-line equations can be created by combining symbols and sub/superscripts as required. 
+- e.g. ```h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x``` produces h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
-## 6. Pull changes to the local repository
-- In **git Bash**, you can check changes (before merging them) with: ```git fetch```, and then ```git diff origin master```
-- Pull (fetch and merge) changes: ```git pull origin master```
-  - **Note:** ```git pull``` actually runs two processes: ```fetch``` (get changes) and ```merge``` (place in your directory) 
-- Inspect the changes to your local repository.
+### Create some symbols/equations
+- Open your second markdown page for editing, and write a few symbols and an equation or two. 
+- **Commit your changes**
+
+### More complex equations (in case you're interested)
+If you require a more complex equation, it's probably easiest to insert the equation as an image. There are some interesting ways to do this dynamically using [Latex](https://www.latex-project.org/) if you're interested in exploring. You can find more information on these approaches in this [Stack Overflow answer](https://stackoverflow.com/a/47798853).
 <br>
 <br>
-**Congratulations, you've made it to the end!** If you'd like to explore more, head to the [Learn More](learn-more) page.
+**Mastered Markdown?** It's time to move to [Lesson 3](lesson3) and make a website with GitHub Pages!

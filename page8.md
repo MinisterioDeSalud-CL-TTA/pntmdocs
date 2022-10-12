@@ -1,33 +1,38 @@
 ---
 layout: default
-title: Flujos PNTM
+title: Ambientes de Capacitación
 nav_order: 8
 ---
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 
 -->
-- [Flujos de PNTM](#flujos-de-pntm)
-  - [1. Workshop Introduction](#1-workshop-introduction)
-    - [Video](#video)
-    - [Slides](#slides)
-  - [2. [Optional] Introduction to GitHub](#2-optional-introduction-to-github)
-# Flujos de PNTM
 
-## 1. Workshop Introduction
-Follow along with the introductory video (or slides).
+- [Ambientes de trabajo](#ambientes-de-trabajo)
+- [Workshop preparation](#workshop-preparation)
+  - [1. Create a GitHub account](#1-create-a-github-account)
+  - [2a. Install GitHub Desktop (for Windows or Mac users)](#2a-install-github-desktop-for-windows-or-mac-users)
+  - [2b. Install git (for Linux users or adventurous Windows/Mac users)](#2b-install-git-for-linux-users-or-adventurous-windowsmac-users)
 
-### Video
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
+# Ambientes de trabajo
 
-### Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSB6guZ6tdX2wPcsMAzviOOQrcRAeiUNEIAtIRniSx4C3D0Gl35wi60jB5sRlB9eGfs8dVcNvweXxHY/embed?start=false&loop=true&delayms=3000" frameborder="0" width="720" height="434" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<br>
-<br>
-When you're ready, navigate to your [first lesson](lesson1) to start using GitHub.
+# Workshop preparation 
 
-## 2. [Optional] Introduction to GitHub
-(optional) Watch the following short introductory video ***What is GitHub?***   
-<iframe width="719" height="480" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<br>
+## 1. Create a GitHub account
+- Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
+- After registering, sign in to your account.
+
+## 2a. Install GitHub Desktop (for Windows or Mac users)
+- If you are using a **Windows** or **Mac** computer, download and install [GitHub Desktop](https://desktop.github.com/)
+  - More guidance can be found in guides from [GitHub](https://docs.github.com/en/desktop).
+- Sign into GitHub Desktop using your GitHub credentials
+- In ```File > Options > Git```, enter the name and email that you want associated with your work ([More help](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/configuring-git-for-github-desktop)).
+- (optional) Once configured, the main GitHub Desktop page will show any repositories that exist in your GitHub account. For those who use GitHub Desktop or git already, you can add any local repositories that already exist on your computer.
+
+## 2b. Install git (for Linux users or adventurous Windows/Mac users)
+- **If you are a Linux user**, GitHub Desktop will not work for you. Instead, you'll need to learn how to install and use git and git Bash. 
+- Navigate to the [official git website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and follow the instructions to download and install for your operating system.
+
+
+When you've finished preparing, navigate to the [Introduction](introduction) section to learn the basics.
+
