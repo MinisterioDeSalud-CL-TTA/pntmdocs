@@ -1,3 +1,8 @@
+---
+layout: default
+title: Documentación
+nav_order: 11
+---
 ## Bienvenido a la documentación de PNTM
 
 Puedes utilizar el [editor de GitHub](https://github.com/MinisterioDeSalud-CL-TTA/pntmdocs/edit/main/README.md) para mantener y observar el contenido de este
