@@ -7,3 +7,8 @@ nav_order: 1
 ---
 
 # Modulos disponibles
+
+## Covid-19
+
+
+## MonkeyPox

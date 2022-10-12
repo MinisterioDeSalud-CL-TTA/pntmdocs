@@ -1,10 +1,10 @@
-title: 'PNTM - Documentación' # *** Enter workshop title here 
+title: 'PNTM - Documentación' 
 subtitle: 'Plataforma Nacional de Toma de Muestras'
 
 remote_theme: scds/just-the-docs
 github_repo_url: "https://ministeriodesalud-cl-tta.github.io/pntmdocs/" # ***Enter workshop URL (in github pages) here
 color_scheme: light #dark
-# logo: "https://github.com/scds/intro-voyant/blob/main/assets/img/dmds-tableau.png?raw=true"
+# logo: "path-to-file"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
