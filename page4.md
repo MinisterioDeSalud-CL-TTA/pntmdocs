@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visualización de Grilla
-nav_order: 5
+nav_order: 4
 ---
 - [Visualización de grilla](#visualización-de-grilla)
 - [Lesson 3: Create web pages with GitHub Pages](#lesson-3-create-web-pages-with-github-pages)

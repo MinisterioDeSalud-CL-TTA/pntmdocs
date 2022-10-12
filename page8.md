@@ -1,35 +1,33 @@
 ---
 layout: default
-title: FAQ - Preguntas Frecuentes
-nav_order: 9
+title: Flujos PNTM
+nav_order: 8
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-- [FAQ - Preguntas Frecuentes](#faq---preguntas-frecuentes)
-  - [Markdown resources](#markdown-resources)
-  - [More about Jekyll](#more-about-jekyll)
-  - [Learn about git and GitHub Desktop](#learn-about-git-and-github-desktop)
-  - [More about version control with git](#more-about-version-control-with-git)
-  
-# FAQ - Preguntas Frecuentes
-## Markdown resources
-- [markdown.org's Markdown Guide](https://www.markdownguide.org/getting-started/)
-- [markdownguide.org's Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/)
-- [Markdown Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-- [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Daring Fireball's Markdown Introduction](https://daringfireball.net/projects/markdown/)
+<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 
-## More about Jekyll
-*From [jekyllrb.com](https://jekyllrb.com/):*
->“Jekyll is a static site generator. You give it text written in your favorite markup language and it uses layouts to create a static website. You can tweak how you want the site URLs to look, what data gets displayed on the site, and more.”
-- GitHub pages uses jekyll to turn your markdown files (hosted in your GitHub repo) into HTML files and presents them on your desired website. 
-- Jekyll [web page](https://jekyllrb.com/) and Jekyll project [on GitHub](https://github.com/jekyll/jekyll).
+-->
+- [Flujos de PNTM](#flujos-de-pntm)
+  - [1. Workshop Introduction](#1-workshop-introduction)
+    - [Video](#video)
+    - [Slides](#slides)
+  - [2. [Optional] Introduction to GitHub](#2-optional-introduction-to-github)
+# Flujos de PNTM
 
-## Learn about git and GitHub Desktop
-If you're interested in learning more about how you can do version control in your local folders and connect them to GitHub repositories see: 
-- [This intro to Git and GitHub tutorial](https://ubc-library-rc.github.io/intro-git/) from UBC Library Research Commons.
-- [This intro to GitHub Desktop tutorial](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/creating-your-first-repository-using-github-desktop) from GitHub.
+## 1. Workshop Introduction
+Follow along with the introductory video (or slides).
 
-## More about version control with git
-- [Official git documentation page](https://git-scm.com/book/en/v2/)
-- [The Smart Ways to Correct Mistakes in Git](https://css-tricks.com/the-smart-ways-to-correct-mistakes-in-git/) 
+### Video
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
+
+### Slides
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSB6guZ6tdX2wPcsMAzviOOQrcRAeiUNEIAtIRniSx4C3D0Gl35wi60jB5sRlB9eGfs8dVcNvweXxHY/embed?start=false&loop=true&delayms=3000" frameborder="0" width="720" height="434" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
+<br>
+When you're ready, navigate to your [first lesson](lesson1) to start using GitHub.
+
+## 2. [Optional] Introduction to GitHub
+(optional) Watch the following short introductory video ***What is GitHub?***   
+<iframe width="719" height="480" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>

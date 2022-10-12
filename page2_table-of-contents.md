@@ -2,7 +2,7 @@
 layout: default
 title: Tabla de contenidos
 description: Tabla de contenidos
-nav_order: 2
+nav_order: 2.0
 ---
 # Tabla de Contenidos
 - [Plataforma Nacional de Toma de Muestras](/page1.md#plataforma-nacional-de-toma-de-muestras)
