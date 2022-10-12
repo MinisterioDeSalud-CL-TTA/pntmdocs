@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentación
+title: Readme
 nav_order: 11
 ---
 ## Bienvenido a la documentación de PNTM
