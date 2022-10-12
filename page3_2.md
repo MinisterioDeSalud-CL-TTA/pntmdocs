@@ -1,15 +1,18 @@
 ---
 layout: default
 title: MonkeyPox
-description: Modulo de MonkeyPox
-parent:  Modulos disponibles
+description: Módulo de MonkeyPox
+parent:  Módulos disponibles
 nav_order: 2
 ---
 
-# Modulos disponibles
+# Módulo de MonkeyPox
 
-## Covid-19
+## Reseña
 
+El módulo de MonkeyPox fue creado el `08-09-2022` habilitando una nueva sección especifica para dicho patogeno en la [Plataforma Nacional de Toma de Muestras](https://tomademuestras.minsal.cl)
 
-## MonkeyPox
+![Modulo monkeypox PNTM](/assets/img/2022-09-08-monkey-covid.png)
+
+Dicho módulo
 
