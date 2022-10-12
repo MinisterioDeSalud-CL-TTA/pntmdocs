@@ -35,8 +35,8 @@ nav_order: 11
 5. [Ord. B51/N°2760](http://epi.minsal.cl/wp-content/uploads/2022/06/ORD-2760-10-06-2022.pdf) del 10 de junio 2022, Actualización protocolo vigilancia Viruela del Mono.
 
 ### Información complementaria
-1. Organización Mundial de la Salud. Guía de gestión clínica de prevención y control de la infección de la Viruela del Mono. Disponible en https://www.who.int/publications/i/item/WHO-MPX-Clinical-and-IPC-2022.1 [Consultado el 23 de agosto de 2022]
-2. Organización Panamericana de la Salud. Preguntas frecuentes sobre la Viruela Símica. Disponible en https://www.paho.org/es/brote-por-enfermedad-viruela-simica-2022/preguntas-frecuentes-sobre-viruela-simica [Consultado el 23 de agosto de 2022]
-3. Organización Panamericana de la Salud. Generalidades de la Viruela Símica. Disponible en https://www.paho.org/es/viruela-simica [Consultado el 23 de agosto de 2022]
-4. Ministerio de Salud. Orientación técnica para el diagnóstico y manejo clínico de arbovirosis: Dengue, Chikungunya, Zika y Fiebre Amarilla. 1ª edición. 2018. Disponible en http://epi.minsal.cl/wp-content/uploads/2022/08/Orientacion-tecnica-para-el-diagnostico-y-manejo-clinico-de-arbovirosis.pdf [Consultado el 23 de agosto de 2022]
-5. Organización Panamericana de la Salud. Alerta Epidemiológica Viruela símica en países no endémicos. 20 de mayo de 2022. Disponible en https://www.paho.org/es/documentos/alerta-epidemiologica-viruela-simica-paises-no-endemicos-20-mayo-2022-0 [Consultado el 23 de agosto de 2022] 
+1. Organización Mundial de la Salud. Guía de gestión clínica de prevención y control de la infección de la Viruela del Mono. Disponible en [OMS](https://www.who.int/publications/i/item/WHO-MPX-Clinical-and-IPC-2022.1 )
+2. Organización Panamericana de la Salud. Preguntas frecuentes sobre la Viruela Símica. Disponible en [PAHO](https://www.paho.org/es/brote-por-enfermedad-viruela-simica-2022/preguntas-frecuentes-sobre-viruela-simica) 
+3. Organización Panamericana de la Salud. Generalidades de la Viruela Símica. Disponible en [PAHO](https://www.paho.org/es/viruela-simica) 
+4. Ministerio de Salud. Orientación técnica para el diagnóstico y manejo clínico de arbovirosis: Dengue, Chikungunya, Zika y Fiebre Amarilla. 1ª edición. 2018. Disponible en [EPI-MINSAL](http://epi.minsal.cl/wp-content/uploads/2022/08/Orientacion-tecnica-para-el-diagnostico-y-manejo-clinico-de-arbovirosis.pdf) 
+5. Organización Panamericana de la Salud. Alerta Epidemiológica Viruela símica en países no endémicos. 20 de mayo de 2022. Disponible en [PAHO](https://www.paho.org/es/documentos/alerta-epidemiologica-viruela-simica-paises-no-endemicos-20-mayo-2022-0 )

@@ -1,15 +1,16 @@
 ---
 layout: default
 title: Covid-19
-description: Modulo de Covid-19
-parent:  Modulos disponibles
+description: Módulo de Covid-19
+parent:  Módulos disponibles
 nav_order: 1
 ---
 
-# Modulos disponibles
+# Módulo de Covid-19
 
-## Covid-19
+## Reseña 
+
+Creado 
 
 
-## MonkeyPox
 
