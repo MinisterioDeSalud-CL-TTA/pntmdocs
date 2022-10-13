@@ -16,5 +16,7 @@ Esta plataforma se oficializa el 19 de Agosto 2021 como fuente única de reporte
 
 Este módulo, comprende dos submodulos de PCR y Antígeno, y más de 380.000 profesionales, 4.800 unidades tomadoras de muestra, 300 laboratorios registrados y XX perfiles de visualizadores desglosados en comunal, provincial, regional y nacional.
 
+[<- volver ](/page3.md)
+
 
 

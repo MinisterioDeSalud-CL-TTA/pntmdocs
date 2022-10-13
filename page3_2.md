@@ -19,3 +19,5 @@ El módulo de MonkeyPox fue creado el `08-09-2022` habilitando una nueva secció
 Dicho módulo se encuentra actualmente habilitado para la tributación de muestras a traves de carga vía interfaz, carga masiva y API. Disponible solo para __laboratorios autorizados__  por el Instituto de Salud Pública (ISP) para procesamiento de muestras de MonkeyPox. 
 
 Consultas relacionadas a la integración o tributación de muestras de MonkeyPox, ya sea vía carga masiva, interfaz web o API, favor gestionarlas vía correo electrónico a [mesadeayudapntm@minsal.cl](mailto:mesadeayudapntm@minsal.cl)
+
+[<- volver ](/page3.md)
