@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MonkeyPox
-description: Módulo de MonkeyPox
+description: Modulo de MonkeyPox
 parent: Modulos disponibles
 nav_order: 2
 ---
