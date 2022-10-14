@@ -7,7 +7,8 @@ nav_order: 1
 
 <p align="center">
 <img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="300">
-</p><br>
+</p>
+<br>
 
 - [Plataforma Nacional de Toma de Muestras](#plataforma-nacional-de-toma-de-muestras)
   - [¿Quiénes deberán utilizar esta plataforma?](#quiénes-deberán-utilizar-esta-plataforma)

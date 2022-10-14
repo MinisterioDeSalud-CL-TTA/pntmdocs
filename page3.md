@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Módulos disponibles
-description: Módulos disponibles
+title: Modulos disponibles
+description: Modulos disponibles
 nav_order: 3
 has_children: true
-#has_toc: false
+has_toc: false
 ---
 
-# Módulos disponibles
+#  Modulos disponibles
 
 ## [Covid-19](/page3_1.md)
 
