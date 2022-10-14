@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Covid-19
-description: Módulo de Covid-19
+description: Modulo de Covid-19
 parent: Modulos disponibles
 nav_order: 1
 ---
 
-# Módulo de Covid-19
+# Modulo de Covid-19
 
 ## Reseña 
 

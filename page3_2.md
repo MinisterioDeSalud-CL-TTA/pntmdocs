@@ -6,7 +6,7 @@ parent: Modulos disponibles
 nav_order: 2
 ---
 
-# Módulo de MonkeyPox
+# Modulo de MonkeyPox
 
 ## Reseña
 
