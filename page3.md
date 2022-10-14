@@ -4,7 +4,7 @@ title: Modulos disponibles
 description: Modulos disponibles
 nav_order: 3
 has_children: true
-has_toc: false
+#has_toc: false
 ---
 
 #  Modulos disponibles
