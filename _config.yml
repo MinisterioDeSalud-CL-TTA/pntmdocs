@@ -2,7 +2,7 @@ title: 'PNTM - Documentación'
 subtitle: 'Plataforma Nacional de Toma de Muestras'
 
 remote_theme: just-the-docs/just-the-docs
-github_repo_url: "https://ministeriodesalud-cl-tta.github.io/pntmdocs/" # ***Enter workshop URL (in github pages) here
+github_repo_url: "https://github.com/minsal-pntm/pntmdocs" # ***Enter workshop URL (in github pages) here
 color_scheme: light #dark
 # logo: "path-to-file"
 
