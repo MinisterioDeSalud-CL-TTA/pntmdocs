@@ -35,6 +35,6 @@ Para más detalles ver [Sintaxis basica de escritura en Markdown](https://docs.g
 
 La página utilizara el template y estilo de el tema de Jekyll que hayan seleccionado en las [configuraciones del repositorio](https://github.com/MinisterioDeSalud-CL-TTA/pntmdocs/settings/pages). El nombre del tema se guarda en el archivo de configuración `_config.yml`.
 
-### Support or Contacto
+### Support o Contacto
 
-¿Tienes problemas con esta página? Revisar [documentación](https://docs.github.com/categories/github-pages-basics/) de  de GitHub Pages o [contacte a la Mesa de Ayuda](mailto:mesadeayudapntm@minsal.cl) .
+¿Tienes problemas con esta página? Revisar [documentación](https://docs.github.com/categories/github-pages-basics/) de  GitHub Pages o [contacte a la Mesa de Ayuda PNTM](mailto:mesadeayudapntm@minsal.cl) .
