@@ -13,9 +13,10 @@ nav_order: 9
 # Flujos de PNTM
 
 ## 1. Flujos de PCR
-
+<a  href="assets/img/flujo_estados_pcr_pntm_es.svg" target="_blank">
 <img src="assets/img/flujo_estados_pcr_pntm_es.svg">
-
+</a>
 ## 2. Flujos de Antigeno
-
+<a  href="assets/img/flujo_estados_ag_pntm_es.svg" target="_blank">
 <img src="assets/img/flujo_estados_ag_pntm_es.svg">
+</a>
