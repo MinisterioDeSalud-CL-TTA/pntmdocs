@@ -1,4 +1,6 @@
-## Bienvenido a la documentación de PNTM
+# Colaborar
+
+##  ¿Deseas colaborar en la mantención de la documentación de PNTM?
 
 Puedes utilizar el [editor de GitHub](https://github.com/MinisterioDeSalud-CL-TTA/pntmdocs/edit/main/README.md) para mantener y observar el contenido de este
 sitio web en un archivo Markdown.
