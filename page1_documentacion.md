@@ -17,4 +17,4 @@ Además, esta documentación en línea también incluirá información sobre el 
 
 En resumen, esta documentación en línea será un recurso completo y actualizado para los usuarios de la plataforma, que incluirá información sobre SARS-CoV-2 y Mokeypox.
 
-[Tabla de contenidos](/2_Tabla_contenidos.html)
+[Tabla de contenidos](page2_tabla_contenidos.md.md)
