@@ -8,89 +8,68 @@ nav_order: 1
 <p align="center">
 <img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="300">
 </p>
-<br>
 
-- [Plataforma Nacional de Toma de Muestras](#plataforma-nacional-de-toma-de-muestras)
-  - [¿Quiénes deberán utilizar esta plataforma?](#quiénes-deberán-utilizar-esta-plataforma)
-  - [Métodos de registro en PNTM](#métodos-de-registro-en-pntm)
-  - [Ingreso vía interfaz](#ingreso-vía-interfaz)
-    - [Creación de muestras](#creación-de-muestras)
-    - [Recepción de muestras](#recepción-de-muestras)
-    - [Entrega de resultados](#entrega-de-resultados)
-  - [Registro vía API](#registro-vía-api)
-    - [Creación de muestras](#creación-de-muestras-1)
-    - [Recepción de muestras](#recepción-de-muestras-1)
-    - [Entrega de resultados](#entrega-de-resultados-1)
-  - [Carga masiva de muestras y/o resultados](#carga-masiva-de-muestras-yo-resultados)
-    - [Carga de resultados](#carga-de-resultados)
-    - [Carga de muestras y resultados](#carga-de-muestras-y-resultados)
+# Plataforma Nacional de Toma de Muestras 
 
-# Plataforma Nacional de Toma de Muestras
-<p align="justify"> 
-La plataforma tiene por objetivo implementar un sistema de registro y trazabilidad en tiempo real para todas las prestaciones de laboratorio clínico y/o biología molecular que se ejecuten en el país en apoyo al diagnóstico de SARS-CoV 2, permitiendo el ingreso de información por parte del profesional de toma de muestra y su posterior acceso restringido al informe de resultados emitido por el laboratorio clínico.
+La plataforma ministerial de toma de muestras para SARS CoV-2 es una iniciativa del Ministerio de Salud de Chile para supervisar y registrar adecuadamente las muestras tomadas para la detección del virus. Tanto la red pública como la privada están obligadas a utilizar esta plataforma, ya que es una medida para proteger la salud de la población. Además, los laboratorios de análisis para SARS CoV-2 forman parte de los prestadores de salud en el país y, por lo tanto, están sujetos al cumplimiento de la legislación y regulaciones establecidas por el Ministerio de Salud. 
 
-Para definir su uso, cada Servicio de Salud o institución publico/privada debe revisar sus procesos de generación de información desde la toma de muestra y asegurar la trazabilidad, considerando en la eventualidad de que un centro no disponga de registro informático de trazabilidad de los casos, la obligatoriedad de la implementación.
+En este contexto, crea una documentación en línea para el instructivo de la plataforma nacional de toma de muestras. Esta documentación en línea estará disponible en el sitio web oficial del Ministerio de Salud, tomademuestras.minsal.cl, y será accesible para todos en conocer los detalles y requisitos para utilizar la plataforma. La intención es brindar una mayor cantidad de información y recursos para garantizar un uso adecuado y un cumplimiento efectivo de las regulaciones establecidas.
 
-Tomando lo anterior, esta plataforma será la única vía de registro de información de exámenes para coronavirus validado desde el Ministerio de Salud, para llevar el registro centralizado de la técnica diagnóstica y será utilizada además para entregar diariamente reportes a las Autoridades respectivas. 
-</p>
+Además, esta documentación en línea también incluirá información sobre el registro y toma de muestras para el diagnóstico de la monkeypox, una enfermedad infecciosa también incluida en el Ministerio de Salud como una prioridad en la salud pública. Por lo tanto, esta plataforma también servirá como una herramienta para la detección y monitoreo de esta enfermedad, y garantizará un registro adecuado de las muestras tomadas y sus resultados de análisis. 
 
-## ¿Quiénes deberán utilizar esta plataforma?
-<p align="justify"> 
--	Profesionales y técnicos que desempeñan funciones de toma de muestra en los distintos centros y establecimientos de salud, quienes deberán registrar los antecedentes de la toma de muestra.
+En resumen, esta documentación en línea será un recurso completo y actualizado para los usuarios de la plataforma, que incluirá información sobre SARS-CoV-2 y Mokeypox.
 
--	Profesionales responsables de laboratorio clínico y/o biología molecular de establecimientos donde se ejecute exámenes diagnósticos de SARS-CoV 2 en el país, quienes deberán supervisar el adecuado traspaso de la información desde el Sistema Informático de Laboratorio (LIS) a esta plataforma ministerial de registro nacional. 
+## Tabla de contenidos
+1. Introducción [Introducción](Introducci%C3%B3n.md)
+	1. Objetivo [Introducción#Objetivo](Introducci%C3%B3n#Objetivo.md)
+	2. Alcance de la plataforma [Introducción#Alcance](Introducci%C3%B3n#Alcance.md)
+	2. Usuarios de la plataforma [Introducción#¿Quiénes deberán utilizar esta plataforma?](Introducci%C3%B3n#%C2%BFQui%C3%A9nes%20deber%C3%A1n%20utilizar%20esta%20plataforma?.md)
+2. Tipos de usuarios [Tipos de usuarios - PNTM](Tipos%20de%20usuarios%20-%20PNTM.md)
+3. Creacion de usuarios [Creacion de usuarios](Creacion%20de%20usuarios.md)
+	1. Profesional tomador de muestra [Creación de usuarios - Profesional tomador de muestra](Creaci%C3%B3n%20de%20usuarios%20-%20Profesional%20tomador%20de%20muestra.md)
+	2. Laboratorio [Creación de usuarios - Laboratorios](Creaci%C3%B3n%20de%20usuarios%20-%20Laboratorios.md)
+	3. Unidad Tomadora de Muestra [Creacion de usuarios - UTM](Creacion%20de%20usuarios%20-%20UTM.md)
+	4. Flujo de creación de usuarios por parte de MINSAL [Creacion de usuarios - Flujo de proceso para la creación de muestra por parte del equipo MINSAL](Creacion%20de%20usuarios%20-%20Flujo%20de%20proceso%20para%20la%20creaci%C3%B3n%20de%20muestra%20por%20parte%20del%20equipo%20MINSAL.md)
+4. Proceso de registro de Muestra [Proceso de registro de muestras](Proceso%20de%20registro%20de%20muestras.md)
+	1. Profesional tomador de muestra [Profesional Tomador de muestras](Profesional%20Tomador%20de%20muestras.md)
+		1. Instructivo de ingreso a la plataforma [Instructivo de uso de la plataforma de toma de muestras - uso directo por parte de tomador de muestra](Instructivo%20de%20uso%20de%20la%20plataforma%20de%20toma%20de%20muestras%20-%20uso%20directo%20por%20parte%20de%20tomador%20de%20muestra.md)
+		2. Registro via interfaz web de muestra PCR [Ingreso vía interfaz - Creación de Muestras PCR](Ingreso%20v%C3%ADa%20interfaz%20-%20Creaci%C3%B3n%20de%20Muestras%20PCR.md)
+		4. Registro via interfaz web de muestra y resultado de Test de antígeno [Ingreso vía interfaz - Creación y resultado de Muestras AG](Ingreso%20v%C3%ADa%20interfaz%20-%20Creaci%C3%B3n%20y%20resultado%20de%20Muestras%20AG.md)
+		5. Registro por carga masiva de muestras y resultado de Test de antígeno [Carga Masiva - Antigenos](Carga%20Masiva%20-%20Antigenos.md)
+			1. Errores de carga masiva [Errores en la carga masiva en la plataforma Nacional de Toma de Muestras (PNTM)](Errores%20en%20la%20carga%20masiva%20en%20la%20plataforma%20Nacional%20de%20Toma%20de%20Muestras%20(PNTM).md)
+			2. Descarga de datos maestros [Descarga de datos maestros - Antigenos](Descarga%20de%20datos%20maestros%20-%20Antigenos.md)
+		6. Editar muestras [Editar muestras - PCR](Editar%20muestras%20-%20PCR.md)
+		7. Eliminar muestras [Eliminar registro](Eliminar%20registro.md)
+	2. Laboratorio [Laboratorio](Laboratorio.md)
+		1. Instructivo de ingreso a la plataforma [Instructivo de uso de la plataforma de toma de muestras - Laboratorio](Instructivo%20de%20uso%20de%20la%20plataforma%20de%20toma%20de%20muestras%20-%20Laboratorio.md)
+		2. Recepcion digital y derivacion de muestras [Laboratorios - Recepcion digital y derivacion de muestras](Laboratorios%20-%20Recepcion%20digital%20y%20derivacion%20de%20muestras.md) 
+		3. Recepción masiva de muestras [Laboratorio - Recepción masiva de muestras](Laboratorio%20-%20Recepci%C3%B3n%20masiva%20de%20muestras.md)
+		4. Rechazar muestras [Laboratorios - Rechazar muestras](Laboratorios%20-%20Rechazar%20muestras.md)
+		5. Registro via interfaz web de resultados PCR [Laboratorio - Registro via interfaz web de resultados PCR](Laboratorio%20-%20Registro%20via%20interfaz%20web%20de%20resultados%20PCR.md)
+		6. Modificación de Resultado [Laboratorio - Modificación de Resultado](Laboratorio%20-%20Modificaci%C3%B3n%20de%20Resultado.md)
+		7. Carga masiva de resultados PCR [Laboratorio - Carga masiva - Resultados PCR](Laboratorio%20-%20Carga%20masiva%20-%20Resultados%20PCR.md)
+		8. Muestras y resultados [Laboratorio - Carga masiva - Muestras y resultados](Laboratorio%20-%20Carga%20masiva%20-%20Muestras%20y%20resultados.md)
+		9. Resultados de mutacion [Laboratorio - Carga masiva - Resultados de mutacion](Laboratorio%20-%20Carga%20masiva%20-%20Resultados%20de%20mutacion.md)
+		10. Actualizacion masiva de muestras actualizadas [Laboratorio - Carga masiva - Actualizacion de muestras](Laboratorio%20-%20Carga%20masiva%20-%20Actualizacion%20de%20muestras.md)
+	3. Establecimientos derivadores
+		1. Instructivo de ingreso a la plataforma [Establecimientos derivadores - Instructivo de ingreso](Establecimientos%20derivadores%20-%20Instructivo%20de%20ingreso.md)
+		2. Estado de las muestras
+		3. Visualización estado de las muestra [Establecimientos derivadores - Visualización](Establecimientos%20derivadores%20-%20Visualizaci%C3%B3n.md)
+		4. Descarga de muestras
+5. Informes
+	1. Laboratorio - PCR
+		1. Tabla Reportes [Tabla - Reportes](Tabla%20-%20Reportes.md)
+		2. Global de solicitudes [Reporte global de solicitudes](Reporte%20global%20de%20solicitudes.md)
+		3. Por fecha de resultado [Reporte por fecha de resultado](Reporte%20por%20fecha%20de%20resultado.md)
+		4. Reporte ministerial [Reporte ministerial](Reporte%20ministerial.md)
+		5. Reporte Mutación por fecha de derivación [Reporte Mutación por fecha de derivación](Reporte%20Mutaci%C3%B3n%20por%20fecha%20de%20derivaci%C3%B3n.md)
+		6. Reporte Mutación por fecha de carga de resultado [Reporte Mutación por fecha de carga de resultado](Reporte%20Mutaci%C3%B3n%20por%20fecha%20de%20carga%20de%20resultado.md)
+	3. Laboratorio - Reporte RT
+		1. Descarga reporte estadístico [Reporte RT - Descarga reporte estadístico](Reporte%20RT%20-%20Descarga%20reporte%20estad%C3%ADstico.md)
+		2. Tributación diaria reporte estadístico [Reporte RT - Tributación diaria reporte estadístico](Reporte%20RT%20-%20Tributaci%C3%B3n%20diaria%20reporte%20estad%C3%ADstico.md)
+		3. Descarga detalle 7 dias [Reporte RT - Descarga detalle 7 dias](Reporte%20RT%20-%20Descarga%20detalle%207%20dias.md)
+6. Integración Sistema Informático
+	1. [Documentación API Laboratorios](Documentaci%C3%B3n%20API%20Laboratorios.md)
 
-Cabe destacar que tanto los profesionales de toma de muestra como los profesionales de laboratorio tienen accesos diferenciados, dado sus roles, en la plataforma. 
-</p>
-
-## Métodos de registro en PNTM
-<p align="justify"> 
-Plataforma Nacional de Toma de Muestras cuenta con distintos métodos de registro de muestras para facilitar la integración, registro sincrónico y adaptabilidad a procesos clínicos. Existe actualmente tres tipos de ingresos de información a PNTM, los cuales corresponden a Interfaz, API y Carga masivas mediante .CSV.
-<p align="center">
-<img src="assets/img/Imagen1.png" alt="flujo-pntm1" width="800">
-</p>
-<br>
-</p>
-
-## Ingreso vía interfaz
-
-El registro mediante interfaz corresponde a toda muestra que es ingresada directamente desde [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl), dentro del registro de interfaz existen tres hitos de registro importantes, los que corresponden a Creación de muestras, Recepción de muestras y Entrega de resultados.
-<p align="center">
-<img src="assets/img/Imagen2.png" alt="flujo-pntm2" width="800">
-</p>
-<br>
-
-### Creación de muestras
-La creación de muestra es un proceso llevado a cabo por el profesional de toma de muestra, quien debe ingresar a PNTM con su respectivo usuario y registrar todos los campos solicitados por la plataforma. El registro en el sistema debe ser de manera sincrónica al acto clínico realizado.
-### Recepción de muestras
-La recepción de muestra es un proceso llevado a cabo por el laboratorio que recibe la muestra creada. En donde un profesional designado debe ingresar con el perfil de acceso del laboratorio y generar al acto de recepción de muestra. El registro en el sistema debe ser de manera sincrónica con el acto de recepción realizado.
-### Entrega de resultados
-Cada laboratorio tiene la obligación de registrar resultados de muestras procesadas mediante PNTM, para realizar dicho proceso es necesario que un profesional designado ingrese a plataforma con el perfil de usuario de laboratorio, para luego realizar la entrega de resultados a cada una de las muestras procesadas. El registro en sistema debe ser de manera sincrónica con el acto de entrega de resultado.
-
-
-## Registro vía API
-El registro mediante API corresponde a toda muestra que es ingresada mediante el uso de Web Service puesto a disposición para generar interoperabilidad entre laboratorios y PNTM. Dentro de los servicios disponibles para el consumo se encuentra la creación de muestras, recepción de muestras y entrega de resultados.
-<p align="center">
-<img src="assets/img/Imagen3.png" alt="flujo-pntm3" width="800">
-</p>
-<br>
-
-### Creación de muestras
-Dentro de los métodos de servicio disponibles en el Web Service, existe la creación de muestras. La cual permite a todo laboratorio mediante el uso de API crear muestras, lo que facilita y apunta a la integración de procesos desde sistemas informáticos locales de laboratorio (LIS) a PNTM, de esta manera generar cohesión de registro en ambos sistemas.
-### Recepción de muestras
-Dentro de los métodos de servicio disponibles en el Web Service, existe la recepción de muestras. La cual permite a todo laboratorio mediante el uso de API recepcionar muestras, lo que facilita y apunta a la integración de procesos desde sistemas informáticos locales de laboratorio (LIS) a PNTM, de esta manera generar cohesión de registro en ambos sistemas.
-### Entrega de resultados
-Dentro de los métodos de servicio disponibles en el Web Service, existe la entrega de resultados. La cual permite a todo laboratorio mediante el uso de API entregar resultados, lo que facilita y apunta a la integración de procesos desde sistemas informáticos locales de laboratorio (LIS) a PNTM, de esta manera generar cohesión de registro en ambos sistemas.
-
-## Carga masiva de muestras y/o resultados
-En paralelo a los dos métodos expuestos anteriormente, existe un tercero, el cual viene a complementar y en ayuda de laboratorios que no cuenten con el personal ni la infraestructura TIC necesaria para el registro por Interfaz o por medio de Interoperabilidad (vía API).
-<p align="center">
-<img src="assets/img/Imagen4.png" alt="flujo-pntm4" width="800">
-</p>
-<br>
-
-### Carga de resultados
-Dentro de los métodos de carga masiva se encuentra la carga masiva de resultados, la cual viene en ayuda a descomprimir el trabajo administrativo realizado por los laboratorios en cuanto a entrega de resultado uno a uno vía interfaz. Este método particular es realizado por algún profesional designado por el laboratorio, quien debe ingresar a PNTM y cargar el archivo Excel en donde se debe registrar el identificador de la muestra (ID PNTM) y el resultado en la columna adjunta, de esta manera el archivo es subido y cargado los resultados de las muestras en cuestión.
-
-### Carga de muestras y resultados
-La segunda opción de carga masiva corresponde al registro de muestras y resultados dentro de un solo archivo. Este método en particular tiene la finalidad de poder gestionar la carga de las muestras que no fueron cargadas por ninguno de los métodos anteriores. Permitiendo a los usuarios de laboratorio mayor rapidez en el registro de muestras.
+Anexos
+[Tabla de Estado Resultado](Tabla%20de%20Estado%20Resultado.md)
