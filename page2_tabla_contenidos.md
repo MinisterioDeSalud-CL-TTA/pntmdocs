@@ -5,16 +5,16 @@ description: Documentación para Plataforma Nacional de Toma de muestras
 nav_order: 2
 ---
 # Indice
-1. [Introducción](Introduccion.md)
+1. [Introducción](/page3_introduccion.md)
 	1. Objetivo
 	2. Alcance de la plataforma
 	2. Usuarios de la plataforma
-2. [Tipos de usuarios](Tipos%20de%20usuarios%20-%20PNTM.md)
-3. Creacion de usuarios [Creacion de usuarios](Creacion%20de%20usuarios.md)
-	1. Profesional tomador de muestra [Creación de usuarios - Profesional tomador de muestra](Creaci%C3%B3n%20de%20usuarios%20-%20Profesional%20tomador%20de%20muestra.md)
-	2. Laboratorio [Creación de usuarios - Laboratorios](Creaci%C3%B3n%20de%20usuarios%20-%20Laboratorios.md)
-	3. Unidad Tomadora de Muestra [Creacion de usuarios - UTM](Creacion%20de%20usuarios%20-%20UTM.md)
-	4. Flujo de creación de usuarios por parte de MINSAL [Creacion de usuarios - Flujo de proceso para la creación de muestra por parte del equipo MINSAL](Creacion%20de%20usuarios%20-%20Flujo%20de%20proceso%20para%20la%20creaci%C3%B3n%20de%20muestra%20por%20parte%20del%20equipo%20MINSAL.md)
+2. [Tipos de usuarios](/page4_tipos_usuarios.md)
+3. Creacion de usuarios
+	1. [Profesional tomador de muestra](/page5_creacion_usuarios_profesional_tomador_muestra.md)
+	2. [Laboratorios](/page5_creacion_usuarios_lab.md)
+	3. [Unidad Tomadora de Muestra](/page5_creacion_usuarios_utm.md)
+	4. [Flujo de creación de usuarios por parte de MINSAL](/page5_creacion_usuarios_proceso.md)
 4. Proceso de registro de Muestra [Proceso de registro de muestras](Proceso%20de%20registro%20de%20muestras.md)
 	1. Profesional tomador de muestra [Profesional Tomador de muestras](Profesional%20Tomador%20de%20muestras.md)
 		1. Instructivo de ingreso a la plataforma [Instructivo de uso de la plataforma de toma de muestras - uso directo por parte de tomador de muestra](Instructivo%20de%20uso%20de%20la%20plataforma%20de%20toma%20de%20muestras%20-%20uso%20directo%20por%20parte%20de%20tomador%20de%20muestra.md)
