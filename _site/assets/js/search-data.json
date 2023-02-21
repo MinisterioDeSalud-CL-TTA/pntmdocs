@@ -1,0 +1,107 @@
+{"0": {
+    "doc": "Plataforma Nacional de Toma de Muestras",
+    "title": "Plataforma Nacional de Toma de Muestras",
+    "content": "La plataforma ministerial de toma de muestras para SARS CoV-2 es una iniciativa del Ministerio de Salud de Chile para supervisar y registrar adecuadamente las muestras tomadas para la detección del virus. Tanto la red pública como la privada están obligadas a utilizar esta plataforma, ya que es una medida para proteger la salud de la población. Además, los laboratorios de análisis para SARS CoV-2 forman parte de los prestadores de salud en el país y, por lo tanto, están sujetos al cumplimiento de la legislación y regulaciones establecidas por el Ministerio de Salud. En este contexto, crea una documentación en línea para el instructivo de la plataforma nacional de toma de muestras. Esta documentación en línea estará disponible en el sitio web oficial del Ministerio de Salud, tomademuestras.minsal.cl, y será accesible para todos en conocer los detalles y requisitos para utilizar la plataforma. La intención es brindar una mayor cantidad de información y recursos para garantizar un uso adecuado y un cumplimiento efectivo de las regulaciones establecidas. Además, esta documentación en línea también incluirá información sobre el registro y toma de muestras para el diagnóstico de la monkeypox, una enfermedad infecciosa también incluida en el Ministerio de Salud como una prioridad en la salud pública. Por lo tanto, esta plataforma también servirá como una herramienta para la detección y monitoreo de esta enfermedad, y garantizará un registro adecuado de las muestras tomadas y sus resultados de análisis. En resumen, esta documentación en línea será un recurso completo y actualizado para los usuarios de la plataforma, que incluirá información sobre SARS-CoV-2 y Mokeypox. Tabla de contenidos . ",
+    "url": "/page1_documentacion.html#plataforma-nacional-de-toma-de-muestras",
+    
+    "relUrl": "/page1_documentacion.html#plataforma-nacional-de-toma-de-muestras"
+  },"1": {
+    "doc": "Plataforma Nacional de Toma de Muestras",
+    "title": "Plataforma Nacional de Toma de Muestras",
+    "content": ". ",
+    "url": "/page1_documentacion.html",
+    
+    "relUrl": "/page1_documentacion.html"
+  },"2": {
+    "doc": "Tabla de contenido",
+    "title": "Indice",
+    "content": ". | Introducción . | Objetivo | Alcance de la plataforma | Usuarios de la plataforma | . | Tipos de usuarios | Creacion de usuarios Creacion de usuarios . | Profesional tomador de muestra Creación de usuarios - Profesional tomador de muestra | Laboratorio Creación de usuarios - Laboratorios | Unidad Tomadora de Muestra Creacion de usuarios - UTM | Flujo de creación de usuarios por parte de MINSAL Creacion de usuarios - Flujo de proceso para la creación de muestra por parte del equipo MINSAL | . | Proceso de registro de Muestra Proceso de registro de muestras . | Profesional tomador de muestra Profesional Tomador de muestras . | Instructivo de ingreso a la plataforma Instructivo de uso de la plataforma de toma de muestras - uso directo por parte de tomador de muestra | Registro via interfaz web de muestra PCR Ingreso vía interfaz - Creación de Muestras PCR | Registro via interfaz web de muestra y resultado de Test de antígeno Ingreso vía interfaz - Creación y resultado de Muestras AG | Registro por carga masiva de muestras y resultado de Test de antígeno Carga Masiva - Antigenos . | Errores de carga masiva Errores en la carga masiva en la plataforma Nacional de Toma de Muestras (PNTM) | Descarga de datos maestros Descarga de datos maestros - Antigenos | . | Editar muestras Editar muestras - PCR | Eliminar muestras Eliminar registro | . | Laboratorio Laboratorio . | Instructivo de ingreso a la plataforma Instructivo de uso de la plataforma de toma de muestras - Laboratorio | Recepcion digital y derivacion de muestras Laboratorios - Recepcion digital y derivacion de muestras | Recepción masiva de muestras Laboratorio - Recepción masiva de muestras | Rechazar muestras Laboratorios - Rechazar muestras | Registro via interfaz web de resultados PCR Laboratorio - Registro via interfaz web de resultados PCR | Modificación de Resultado Laboratorio - Modificación de Resultado | Carga masiva de resultados PCR Laboratorio - Carga masiva - Resultados PCR | Muestras y resultados Laboratorio - Carga masiva - Muestras y resultados | Resultados de mutacion Laboratorio - Carga masiva - Resultados de mutacion | Actualizacion masiva de muestras actualizadas Laboratorio - Carga masiva - Actualizacion de muestras | . | Establecimientos derivadores . | Instructivo de ingreso a la plataforma Establecimientos derivadores - Instructivo de ingreso | Estado de las muestras | Visualización estado de las muestra Establecimientos derivadores - Visualización | Descarga de muestras | . | . | Informes . | Laboratorio - PCR . | Tabla Reportes Tabla - Reportes | Global de solicitudes Reporte global de solicitudes | Por fecha de resultado Reporte por fecha de resultado | Reporte ministerial Reporte ministerial | Reporte Mutación por fecha de derivación Reporte Mutación por fecha de derivación | Reporte Mutación por fecha de carga de resultado Reporte Mutación por fecha de carga de resultado | . | Laboratorio - Reporte RT . | Descarga reporte estadístico Reporte RT - Descarga reporte estadístico | Tributación diaria reporte estadístico Reporte RT - Tributación diaria reporte estadístico | Descarga detalle 7 dias Reporte RT - Descarga detalle 7 dias | . | . | Integración Sistema Informático . | Documentación API Laboratorios | . | . Anexos Tabla de Estado Resultado . ",
+    "url": "/page2_tabla_contenidos.html#indice",
+    
+    "relUrl": "/page2_tabla_contenidos.html#indice"
+  },"3": {
+    "doc": "Tabla de contenido",
+    "title": "Tabla de contenido",
+    "content": " ",
+    "url": "/page2_tabla_contenidos.html",
+    
+    "relUrl": "/page2_tabla_contenidos.html"
+  },"4": {
+    "doc": "Introducción",
+    "title": "Introducción",
+    "content": "El Ministerio de Salud ha desarrollado e implementado la plataforma ministerial de toma de muestras, para la correcta supervisión de las muestras de SARS CoV-2, cuyo sitio web es tomademuestras.minsal.cl . En concordancia al ordinario N°2752 del 09/09/2020, se reitera la obligación de la red pública y privada de usar la plataforma nacional bajo sus diferentes modalidades disponibles, es necesario señalar que el artículo 4° del DFL 1 de 2005 del Ministerio de Salud que regula las funciones generales yespecíficas que tiene este Ministerio, lo faculta para solicitar el registrode esta información tanto a organismos públicos como a instituciones privadas, con el fin proteger la salud de la población. Así mismo, el artículo 4 N° 1 de la Alerta Sanitaria por COVID-19, aprobada por Decreto N°4 de 2020 de este Ministerio, dispone que los Servicios de Salud podrán coordinar la red asistencial de prestadores públicos como privados, que se encuentren dentro del territorio de sus competencias. Los laboratorios de análisis para SARS CoV-2 de la red forman parte de los prestadores de salud de nuestro país, por lo que están sujetos al cumplimiento de este articulo y decreto. Para reforzar lo anterior en este acto se crea una documentación online del “Instructivo Descriptivo de Plataforma Nacional Toma de Muestra” (PNTM). ",
+    "url": "/page3_introduccion.html",
+    
+    "relUrl": "/page3_introduccion.html"
+  },"5": {
+    "doc": "Introducción",
+    "title": "Objetivo",
+    "content": "La documentación online será una guía detallada para el uso de la Plataforma Nacional de Toma de Muestras, con el objetivo de facilitar el registro de la toma de muestras y resultados de los tests antígenos para el diagnóstico de COVID-19. Además, la documentación incluirá información sobre el registro de muestras y resultados de pruebas PCR para el diagnóstico de la viruela símica o viruela del mono. Este recurso accesible en línea incluye información sobre cómo utilizar la plataforma, así como detalles sobre los procedimientos y procesos requeridos para registrar adecuadamente las muestras y resultados del test. ",
+    "url": "/page3_introduccion.html#objetivo",
+    
+    "relUrl": "/page3_introduccion.html#objetivo"
+  },"6": {
+    "doc": "Introducción",
+    "title": "Alcance",
+    "content": "La plataforma tiene por objetivo implementar un sistema de registro y trazabilidad de la muestra en tiempo real para todas las prestaciones de diagnóstico COVID-19 tanto de laboratorios de biología molecular como de establecimientos de salud públicos y privados que se ejecuten en el país, permitiendo el ingreso de información de la muestra por parte del equipo de salud, para su posterior acceso restringido al informe emitido por el laboratorio clínico. Además, la plataforma también se extenderá para incluir el registro y trazabilidad de muestras relacionadas al Monkeypox, garantizando un sistema integral y eficiente para la gestión de datos de diagnósticos médicos en el país. De esta manera, se podrá mejorar la capacidad de monitoreo y respuesta ante brotes de enfermedades y se contribuirá a la toma de decisiones basadas en datos confiables y actualizados. ",
+    "url": "/page3_introduccion.html#alcance",
+    
+    "relUrl": "/page3_introduccion.html#alcance"
+  },"7": {
+    "doc": "Introducción",
+    "title": "¿Quiénes deberán utilizar esta plataforma?",
+    "content": "Esta plataforma nacional de toma de muestras está destinada a dos grupos principales de profesionales de la salud. | Profesionales y técnicos que desempeñan funciones de toma de muestra en los distintos centros y establecimientos de salud. Esto están encargados de registrar los antecedentes de la toma de muestras. | Profesionales responsables de laboratorios clínicos y/o biología molecular de establecimientos donde se realicen exámenes diagnósticos de SARS-CoV-2 y Monkeypoxen el país. Estos tendrán la responsabilidad de supervisar el correcto traspaso de información desde el Sistema Informático de Laboratorio (LIS) a esta plataforma ministerial. | . Es importante mencionar que ambos grupos de profesionales tendrán accesos diferenciados en la plataforma, dependiendo de sus roles y funciones. Los profesionales tomadores de muestras cuentan con perfiles específicos para llevar a cabo su función de registro, correspondiendo a credenciales únicas e individualizadas para el registro de la información solicitada. Los laboratorios cuentan con perfiles específicos asignados al establecimiento, estos perfiles les permiten la revisión de datos de la muestra . Por lo tanto, tanto los profesionales de toma de muestras como los profesionales responsables de los laboratorios clínicos y/o biología molecular estarán encargados de registrar y supervisar información valiosa para el monitoreo de diversas enfermedades y su control en el país. ",
+    "url": "/page3_introduccion.html#qui%C3%A9nes-deber%C3%A1n-utilizar-esta-plataforma",
+    
+    "relUrl": "/page3_introduccion.html#quiénes-deberán-utilizar-esta-plataforma"
+  },"8": {
+    "doc": "Tipos de usuarios",
+    "title": "Tipos de usuarios",
+    "content": "La plataforma de toma de muestra tiene como objetivo implementar un sistema de registro y trazabilidad de las muestras biológicas recolectadas en establecimientos de salud, para su procesamiento en laboratorios y la emisión de informes de diagnóstico para los pacientes. Para lograr esto, la plataforma cuenta con perfiles de usuario que permiten el registro y seguimiento de las muestras a lo largo del proceso de diagnóstico. Los perfiles de usuario en la plataforma de toma de muestra se diferencian en tres áreas principales: búsqueda de muestras, descarga de reportes y alcance y visualización. ",
+    "url": "/page4_tipos_usuarios.html",
+    
+    "relUrl": "/page4_tipos_usuarios.html"
+  },"9": {
+    "doc": "Tipos de usuarios",
+    "title": "Profesional Tomador de Muestras",
+    "content": "Usuario encargado de recolectar la muestra biológica en el establecimiento de salud. | Antígenos . | El alcance de la información se restringe a las muestras que registró el profesional. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 11 días. | Puede editar el resultado de una muestra de antígenos, siempre y cuando no hayan pasado más de 3 días. | Si el profesional o el laboratorio necesitan realizar una modificación a una muestra, deben enviar una solicitud a la mesa de ayuda. | No tiene acceso para descargar reportes. | . | PCR . | El alcance de la información se restringe a las muestras asociadas al profesional que las registró. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 14 días. | Puede editar el registro siempre y cuando no haya enviado la muestra al laboratorio y no hayan pasado más de 12 días. | Si el profesional o el laboratorio necesitan realizar una modificación a una muestra, deben enviar una solicitud a la mesa de ayuda. | No tiene acceso para descargar reportes. | . | . ",
+    "url": "/page4_tipos_usuarios.html#profesional-tomador-de-muestras",
+    
+    "relUrl": "/page4_tipos_usuarios.html#profesional-tomador-de-muestras"
+  },"10": {
+    "doc": "Tipos de usuarios",
+    "title": "Establecimiento",
+    "content": "Lugar donde se realiza la toma de muestra y se gestionan las solicitudes de exámenes de los pacientes. | Antígenos . | El alcance de la información se restringe a las muestras que el profesional registró. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 11 días. | No tiene permiso para modificar las muestras. | Tiene acceso para descargar reportes de los últimos 120 días. | . | PCR . | El alcance de la información se restringe a las muestras asociadas al establecimiento. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 14 días. | No tiene permiso para modificar las muestras. | Tiene acceso para descargar reportes de los últimos 120 días. | . | . ",
+    "url": "/page4_tipos_usuarios.html#establecimiento",
+    
+    "relUrl": "/page4_tipos_usuarios.html#establecimiento"
+  },"11": {
+    "doc": "Tipos de usuarios",
+    "title": "Comuna",
+    "content": "Unidad administrativa local encargada de brindar servicios de salud a la comunidad. | Antígenos . | El alcance de la información se restringe a las muestras de la comuna. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 11 días. | No tiene permiso para modificar las muestras. | Tiene acceso para descargar reportes de los últimos 120 días. | . | PCR . | El alcance de la información se restringe a las muestras de la comuna. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 14 días. | No tiene permiso para modificar las muestras. | Tiene acceso para descargar reportes de los últimos 120 días. ",
+    "url": "/page4_tipos_usuarios.html#comuna",
+    
+    "relUrl": "/page4_tipos_usuarios.html#comuna"
+  },"12": {
+    "doc": "Tipos de usuarios",
+    "title": "SEREMI",
+    "content": "Secretaría Regional Ministerial de Salud encargada de coordinar y supervisar las acciones de salud en una región. | . | Antígenos . | El alcance de la información se restringe a las muestras de la región. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 11 días. | No tiene permiso para modificar las muestras. | Tiene acceso para descargar reportes de los últimos 120 días. | . | PCR . | El alcance de la información se restringe a las muestras asociadas a la región. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 14 días. | No tiene permiso para modificar las muestras. | Tiene acceso para descargar reportes de los últimos 120 días. | . | . ",
+    "url": "/page4_tipos_usuarios.html#seremi",
+    
+    "relUrl": "/page4_tipos_usuarios.html#seremi"
+  },"13": {
+    "doc": "Tipos de usuarios",
+    "title": "Servicio de Salud",
+    "content": "Organismo público encargado de coordinar y supervisar las acciones de salud en una región. | Antígenos . | El alcance de la información se restringe a las muestras del servicio. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 11 días. | No tiene permiso para modificar las muestras. | Tiene acceso para descargar reportes de los últimos 120 días. | . | PCR . | El alcance de la información se restringe a las muestras del servicio. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 14 días. | No tiene permiso para modificar las muestras. | Tiene acceso para descargar reportes de los últimos 120 días. | . | . ",
+    "url": "/page4_tipos_usuarios.html#servicio-de-salud",
+    
+    "relUrl": "/page4_tipos_usuarios.html#servicio-de-salud"
+  },"14": {
+    "doc": "Tipos de usuarios",
+    "title": "Laboratorio",
+    "content": "Lugar donde se procesan las muestras biológicas para realizar el diagnóstico de una enfermedad. | PCR . | El alcance de la información se restringe a las muestras asociadas al laboratorio. | El usuario tiene acceso para visualizar las muestras registradas de los últimos 7 días. | Puede aceptar, rechazar, devolver la muestra para cambio de laboratorio o devolverla al profesional. | Puede editar el resultado hasta 7 días. | Si se quiere editar una muestra, tiene que ser aprobada por la mesa de ayuda de PNTM y el laboratorio es el responsable de editar la información. | Tiene acceso para descargar reportes de los últimos 120 días. | . | . ",
+    "url": "/page4_tipos_usuarios.html#laboratorio",
+    
+    "relUrl": "/page4_tipos_usuarios.html#laboratorio"
+  }
+}
