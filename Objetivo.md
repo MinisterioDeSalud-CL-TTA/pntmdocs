@@ -1,4 +1,0 @@
-
-La documentación online será una guía detallada para el uso de la Plataforma Nacional de Toma de Muestras, con el objetivo de facilitar el registro de la toma de muestras y resultados de los tests antígenos para el diagnóstico de COVID-19.  Además, la documentación incluirá información sobre el registro de muestras y resultados de pruebas PCR para el diagnóstico de la viruela símica o viruela del mono. 
-
-Este recurso accesible en línea incluye información sobre cómo utilizar la plataforma, así como detalles sobre los procedimientos y procesos requeridos para registrar adecuadamente las muestras y resultados del test.
