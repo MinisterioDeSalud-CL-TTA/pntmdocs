@@ -5,7 +5,7 @@ description: Documentación para Plataforma Nacional de Toma de muestras
 nav_order: 2
 ---
 # Indice
-1. [Introducción](Introduccion.md)
+1. [Introducción](/page3_introduccion.md)
 	1. Objetivo
 	2. Alcance de la plataforma
 	2. Usuarios de la plataforma
