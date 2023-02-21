@@ -20,7 +20,7 @@ Además, esta documentación en línea también incluirá información sobre el 
 En resumen, esta documentación en línea será un recurso completo y actualizado para los usuarios de la plataforma, que incluirá información sobre SARS-CoV-2 y Mokeypox.
 
 ## Tabla de contenidos
-1. Introducción [Introducción](\Introducción.md)
+1. Introducción [Introducción](introduccion.md)
 	1. Objetivo [Introducción#Objetivo](Introducci%C3%B3n#Objetivo.md)
 	2. Alcance de la plataforma [Introducción#Alcance](Introducci%C3%B3n#Alcance.md)
 	2. Usuarios de la plataforma [Introducción#¿Quiénes deberán utilizar esta plataforma?](Introducci%C3%B3n#%C2%BFQui%C3%A9nes%20deber%C3%A1n%20utilizar%20esta%20plataforma?.md)
