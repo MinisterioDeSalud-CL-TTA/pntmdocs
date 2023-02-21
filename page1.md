@@ -21,9 +21,9 @@ En resumen, esta documentación en línea será un recurso completo y actualizad
 
 ## Tabla de contenidos
 1. Introducción [Introducción](introduccion.md)
-	1. Objetivo [Introducción#Objetivo](introduccion#Objetivo.md)
-	2. Alcance de la plataforma [Introducción#Alcance](introduccion#Alcance.md)
-	2. Usuarios de la plataforma [Introducción#¿Quiénes deberán utilizar esta plataforma?](introduccion#%C2%BFQui%C3%A9nes%20deber%C3%A1n%20utilizar%20esta%20plataforma?.md)
+	1. Objetivo
+	2. Alcance de la plataforma
+	2. Usuarios de la plataforma
 2. Tipos de usuarios [Tipos de usuarios - PNTM](Tipos%20de%20usuarios%20-%20PNTM.md)
 3. Creacion de usuarios [Creacion de usuarios](Creacion%20de%20usuarios.md)
 	1. Profesional tomador de muestra [Creación de usuarios - Profesional tomador de muestra](Creaci%C3%B3n%20de%20usuarios%20-%20Profesional%20tomador%20de%20muestra.md)
