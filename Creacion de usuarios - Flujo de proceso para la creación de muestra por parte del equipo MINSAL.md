@@ -1,3 +1,4 @@
+# Proceso de creación de muestras - Equipo de MINSAL
 
 El proceso de creación de muestras por parte del equipo del MINSAL se realiza de la siguiente manera:
 
