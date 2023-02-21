@@ -1,4 +1,12 @@
-## Solicitud de Creación de Laboratorios qRT-PCR para SARS-CoV-2 en PNTM
+---
+layout: default
+title: Solicitud de Creación de Laboratorios
+description: Solicitud de Creación de Laboratorios qRT-PCR para SARS-CoV-2 en PNTM
+parent: Crecion de usuarios
+nav_order: 1
+---
+
+# Solicitud de Creación de Laboratorios qRT-PCR para SARS-CoV-2 en PNTM
 
 Es importante registrar en PNTM la fase analítica y el resultado obtenido a través de técnicas de biología molecular. Por esta razón, todo laboratorio que cuente con Resolución Sanitaria emitida por SEREMI de Salud y con el Certificado de Capacidad Diagnóstica correspondiente para realizar técnicas de Biología Molecular por la técnica PCR, otorgado por el ISP, debe estar habilitado para registrar sus resultados en el sistema.
 

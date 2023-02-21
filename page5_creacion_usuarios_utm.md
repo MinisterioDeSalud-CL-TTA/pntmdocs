@@ -1,3 +1,11 @@
+---
+layout: default
+title: Solicitud de Creación de Unidades Tomadoras de Muestras
+description: Solicitud de Creación de Unidades Tomadoras de Muestras
+parent: Crecion de usuarios
+nav_order: 1
+---
+
 ## Solicitud de Creación de Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en PNTM
 
 Los establecimientos tomadores de muestras para PCR o designados por Seremi de Salud para la toma de Test de Antígeno deben registrar en PNTM el 100% de las muestras tomadas y, en el caso de Test Antígeno, el resultado una vez conocido.

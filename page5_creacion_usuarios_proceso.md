@@ -1,3 +1,10 @@
+---
+layout: default
+title: proceso de creación de muestras por parte del equipo del MINSAL
+description: proceso de creación de muestras por parte del equipo del MINSAL
+parent: Crecion de usuarios
+nav_order: 1
+---
 
 El proceso de creación de muestras por parte del equipo del MINSAL se realiza de la siguiente manera:
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Solicitud de Creación de Profesional Tomador de Muestra
+description: Solicitud de Creación de Profesional Tomador de Muestra
+parent: Crecion de usuarios
+nav_order: 1
+---
+
 Para registrarse como Profesional Tomador de Muestra en la Plataforma Nacional de Toma de Muestras (PNTM), es necesario completar el Formulario para Registro de Profesionales. El formulario se encuentra en el siguiente enlace: [https://docs.google.com/forms/d/e/1FAIpQLSePoFBV-LGbo8rSpjL4fozsjOkwEyv8xxCNAx7fjytnA-UVTQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSePoFBV-LGbo8rSpjL4fozsjOkwEyv8xxCNAx7fjytnA-UVTQ/viewform).
 
 El formulario cuenta con los siguientes campos obligatorios para completar:
