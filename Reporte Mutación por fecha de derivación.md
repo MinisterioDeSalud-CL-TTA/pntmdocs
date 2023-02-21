@@ -1,0 +1,5 @@
+El Reporte Mutación por fecha de derivación es un informe generado por la Plataforma Nacional de Toma de Muestra (PNTM) que proporciona información detallada sobre las muestras de prueba que fueron enviadas a mutaciones. Este informe se enfoca en las muestras en estado 7, es decir, aquellas que fueron enviadas a mutaciones para su análisis.
+
+Para generar este informe, es necesario especificar un rango de fechas que corresponda al período en el que se derivaron las muestras. El informe incluirá todas las muestras que se encuentren en el estado 7 dentro del rango de fechas especificado.
+
+El Reporte Mutación por fecha de derivación permite obtener información detallada sobre las muestras de prueba que fueron enviadas a mutaciones, lo que puede ser útil para el monitoreo de la propagación de variantes del virus.
