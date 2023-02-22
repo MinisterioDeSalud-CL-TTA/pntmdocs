@@ -11,7 +11,7 @@ nav_order: 1
 # Usuarios
 {: .no_toc }
 
-## Table of contents
+## Tabla de contenido
 {: .no_toc .text-delta }
 
 1. TOC

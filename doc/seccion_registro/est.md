@@ -1,15 +1,19 @@
 ---
 layout: default
-title: Laboratorio
+title: Establecimientos derivadores
 description: establecimientos derivadores
 parent: Registro y visualización de muestras
 has_children: false
 has_toc: false
 nav_order: 3
 ---
-- [Instructivo de uso de la plataforma para establecimientos derivadores](#instructivo-de-uso-de-la-plataforma-para-establecimientos-derivadores)
-- [Visualización estado de las muestras](#visualización-estado-de-las-muestras)
+# Establecimientos derivadores
+{: .no_toc }
 
+## Tabla de contenido
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
 # Instructivo de uso de la plataforma para establecimientos derivadores
 
 La **plataforma para establecimientos derivadores** está diseñada para que los tomadores de muestras, a nivel local, puedan dar seguimiento y trazabilidad a las muestras, contribuyendo a los procesos epidemiológicos normados para los casos positivos.

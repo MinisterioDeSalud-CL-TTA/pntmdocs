@@ -7,25 +7,13 @@ has_children: false
 has_toc: false
 nav_order: 2
 ---
-- [Ingreso a la plataforma: Laboratorios](#ingreso-a-la-plataforma-laboratorios)
-- [Recepción digital y derivación de muestras](#recepción-digital-y-derivación-de-muestras)
-- [Recepción masiva de muestras](#recepción-masiva-de-muestras)
-- [Rechazar](#rechazar)
-- [Rechazar muestra](#rechazar-muestra)
-- [Registro](#registro)
-- [Modificacion](#modificacion)
-- [Carga Masiva de Resultados en la Plataforma](#carga-masiva-de-resultados-en-la-plataforma)
-  - [Acceder a la opcion de carga masiva](#acceder-a-la-opcion-de-carga-masiva)
-  - [Carga masiva de resultados](#carga-masiva-de-resultados)
-- [Carga masiva - Muestras y resultados](#carga-masiva---muestras-y-resultados)
-  - [Acceder a la opcion de carga masiva](#acceder-a-la-opcion-de-carga-masiva-1)
-  - [Carga masiva de muestras y resultados](#carga-masiva-de-muestras-y-resultados)
-- [Carga resultado mutación](#carga-resultado-mutación)
-  - [Acceder a la opcion de carga masiva](#acceder-a-la-opcion-de-carga-masiva-2)
-  - [Carga masiva de resultados de mutacion](#carga-masiva-de-resultados-de-mutacion)
-- [Carga masiva de actualizacion de muestras](#carga-masiva-de-actualizacion-de-muestras)
-  - [Acceder a la opcion de carga masiva](#acceder-a-la-opcion-de-carga-masiva-3)
-  - [Carga masiva de actualizacion de muestras](#carga-masiva-de-actualizacion-de-muestras-1)
+# Laboratorio
+{: .no_toc }
+
+## Tabla de contenido
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
 
 # Ingreso a la plataforma: Laboratorios
 
