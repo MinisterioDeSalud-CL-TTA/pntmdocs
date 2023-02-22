@@ -4,21 +4,14 @@ title: Usuarios
 description: Documentación para Plataforma Nacional de Toma de muestras
 nav_order: 4
 ---
-- [Tipos de usuarios](#tipos-de-usuarios)
-  - [Profesional Tomador de Muestras](#profesional-tomador-de-muestras)
-  - [Establecimiento](#establecimiento)
-  - [Comuna](#comuna)
-  - [SEREMI](#seremi)
-  - [Servicio de Salud](#servicio-de-salud)
-  - [Laboratorio](#laboratorio)
-- [Solicitud de Creación: Profesional Tomador de Muestra](#solicitud-de-creación-profesional-tomador-de-muestra)
-- [Solicitud de Creación: Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en PNTM](#solicitud-de-creación-establecimientos-o-unidades-tomadoras-de-muestras-utm-para-qrt-pcr-y-antígeno-en-pntm)
-  - [Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR](#establecimientos-o-unidades-tomadoras-de-muestras-utm-para-qrt-pcr)
-    - [Formulario de Datos Mínimos Requeridos](#formulario-de-datos-mínimos-requeridos)
-  - [Establecimientos Tomadores de Test de Antígeno](#establecimientos-tomadores-de-test-de-antígeno)
-    - [Formulario de Datos Mínimos Requeridos](#formulario-de-datos-mínimos-requeridos-1)
-- [Solicitud de Creación: Laboratorios qRT-PCR para SARS-CoV-2 en PNTM](#solicitud-de-creación-laboratorios-qrt-pcr-para-sars-cov-2-en-pntm)
-- [Proceso de creación de usuarios](#proceso-de-creación-de-usuarios)
+# Usuarios
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # Tipos de usuarios
 La plataforma de toma de muestra tiene como objetivo implementar un sistema de registro y trazabilidad de las muestras biológicas recolectadas en establecimientos de salud, para su procesamiento en laboratorios y la emisión de informes de diagnóstico para los pacientes. Para lograr esto, la plataforma cuenta con perfiles de usuario que permiten el registro y seguimiento de las muestras a lo largo del proceso de diagnóstico.

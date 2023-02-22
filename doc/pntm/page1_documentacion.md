@@ -1,13 +1,18 @@
 ---
 layout: home
-title: Introducción
-description: Introducción de la documentación para Plataforma Nacional de Toma de muestras
-nav_order: 3
+title: Plataforma Nacional de Toma de Muestras
+description: Documentación para Plataforma Nacional de Toma de muestras
+nav_order: 1
 ---
-- [Introducción](#introducción)
-- [Objetivo](#objetivo)
-- [Alcance](#alcance)
-- [¿Quiénes deberán utilizar esta plataforma?](#quiénes-deberán-utilizar-esta-plataforma)
+# Plataforma Nacional de Toma de Muestras
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 # Introducción
 

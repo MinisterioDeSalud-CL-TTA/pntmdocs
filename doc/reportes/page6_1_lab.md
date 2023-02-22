@@ -5,7 +5,7 @@ description: establecimientos derivadores
 parent: Reportes
 has_children: false
 has_toc: false
-nav_order: 3
+nav_order: 7
 ---
 - [Reportes](#reportes)
 - [Reporte Glogal de soliciudes](#reporte-glogal-de-soliciudes)
