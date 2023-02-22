@@ -6,16 +6,16 @@ parent: Crecion de usuarios
 nav_order: 3
 ---
 
-## Solicitud de Creación de Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en PNTM
+# Solicitud de Creación de Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en PNTM
 
-Los establecimientos tomadores de muestras para PCR o designados por Seremi de Salud para la toma de Test de Antígeno deben registrar en PNTM el 100% de las muestras tomadas y, en el caso de Test Antígeno, el resultado una vez conocido.
+Los establecimientos tomadores de muestras para PCR o designados por Seremi de Salud para la toma de Test de Antígeno deben registrar en PNTM las muestras tomadas y, en el caso de Test Antígeno, el resultado una vez conocido.
 
-# Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR
+## Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR
 
 Para la creación de una unidad tomadora de muestras en PNTM, se debe seguir el siguiente proceso:
 
-1.  Solicitud a Referente Macroregional correspondiente de Testeo - MINSAL, vía correo electrónico, para la creación del establecimiento en PNTM.
-2.  Completar el formulario de datos mínimos requeridos para la creación de Establecimiento/UTM que se presenta a continuación.
+1.  Solicitud a Referente Macroregional correspondiente de Testeo - MINSAL, vía correo electrónico.
+2.  Completar el [formulario de datos mínimos requeridos](/page5_creacion_usuarios_utm.md#formulario-de-datos-mínimos-requeridos) para la creación de Establecimiento/UTM .
 3.  Toda la información requerida debe estar contenida en el formulario para evitar atrasos en el proceso.
 
 Una vez recibida la información, el Referente Territorial de Testeo - MINSAL la validará y se creará el establecimiento/UTM de toma de qRT-PCR o Test de Antígeno en un plazo de 24 horas. La respuesta será informada al correo electrónico del (la) profesional responsable de la solicitud, que debe ser indicado en el formulario.
@@ -36,7 +36,7 @@ Una vez recibida la información, el Referente Territorial de Testeo - MINSAL la
 | Correo electrónico                                                      | Correo electrónico del encargado de la solicitud de creación para informar la posterior creación efectiva.                     |
 | Celular Institucional o Anexo MINSAL                                    | Teléfono de contacto para abordar dudas o datos faltantes.                                                                     |
 
-# Establecimientos Tomadores de Test de Antígeno
+## Establecimientos Tomadores de Test de Antígeno
 
 Para la creación de Establecimientos Tomadores de Test de Antígeno, se solicita el siguiente formulario de datos mínimos requeridos:
 
