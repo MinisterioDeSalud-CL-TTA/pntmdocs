@@ -2,7 +2,7 @@
 layout: default
 title: Instructivo de uso de la plataforma de toma de muestras
 description: Instructivo de uso de la plataforma de toma de muestras uso directo por parte de tomador de muestra
-parent: Profesional tomador de muestras
+parent: Profesional tomador de muestras - Registro
 nav_order: 1
 ---
 # Instructivo de uso de la plataforma de toma de muestras: uso directo por parte de tomador de muestra

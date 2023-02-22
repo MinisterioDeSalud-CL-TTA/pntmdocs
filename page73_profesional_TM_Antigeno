@@ -2,7 +2,7 @@
 layout: default
 title: Registro via interfaz web de muestra y resultado de Test de antígeno
 description: Registro via interfaz web de muestra y resultado de Test de antígeno
-parent: Profesional tomador de muestras
+parent: Profesional tomador de muestras - Registro
 nav_order: 3
 ---
 
