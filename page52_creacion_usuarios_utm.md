@@ -3,7 +3,7 @@ layout: default
 title: Solicitud de Creación - Unidades Tomadoras de Muestras
 description: Solicitud de Creación de Unidades Tomadoras de Muestras
 parent: Crecion de usuarios
-nav_order: 3
+nav_order: 2
 ---
 
 # Solicitud de Creación de Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en PNTM

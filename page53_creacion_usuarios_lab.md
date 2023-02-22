@@ -3,7 +3,7 @@ layout: default
 title: Solicitud de Creación - Laboratorios
 description: Solicitud de Creación de Laboratorios qRT-PCR para SARS-CoV-2 en PNTM
 parent: Crecion de usuarios
-nav_order: 2
+nav_order: 3
 ---
 
 # Solicitud de Creación de Laboratorios qRT-PCR para SARS-CoV-2 en PNTM

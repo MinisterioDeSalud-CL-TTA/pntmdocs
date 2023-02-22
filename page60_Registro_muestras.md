@@ -5,7 +5,7 @@ description: Proceso de registro de muestra
 parent: Crecion de usuarios
 has_children: true
 has_toc: false
-nav_order: 1
+nav_order: 6
 ---
 
 # Ingreso vía interfaz web 

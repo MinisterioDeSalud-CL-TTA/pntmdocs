@@ -4,7 +4,7 @@ title: Profesional tomador de muestras - Registro
 description: Registro - Proceso de registro de muestra
 has_children: true
 has_toc: false
-nav_order: 1
+nav_order: 7
 ---
 # Profesional Tomador de muestras
 Usuario encargado de recolectar la muestra biológica en el establecimiento de salud.
