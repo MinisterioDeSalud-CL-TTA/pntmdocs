@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Informes
+title: Reportes
 description: Proceso de registro de muestra
 has_children: true
 has_toc: false

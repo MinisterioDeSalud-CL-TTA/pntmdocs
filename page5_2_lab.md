@@ -2,7 +2,7 @@
 layout: default
 title: Laboratorio
 description: Registro - Proceso de registro de muestra
-parent: Registro de muestras
+parent: Registro y visualización de muestras
 has_children: false
 has_toc: false
 nav_order: 2
