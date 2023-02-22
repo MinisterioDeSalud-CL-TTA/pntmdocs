@@ -4,6 +4,11 @@ title: Introducción
 description: Introducción de la documentación para Plataforma Nacional de Toma de muestras
 nav_order: 3
 ---
+- [Introducción](#introducción)
+- [Objetivo](#objetivo)
+- [Alcance](#alcance)
+- [¿Quiénes deberán utilizar esta plataforma?](#quiénes-deberán-utilizar-esta-plataforma)
+
 # Introducción
 
 El Ministerio de Salud ha desarrollado e implementado la plataforma ministerial de toma de muestras, para la correcta supervisión de las muestras de SARS CoV-2, cuyo sitio web es tomademuestras.minsal.cl

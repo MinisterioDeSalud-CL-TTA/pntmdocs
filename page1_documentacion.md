@@ -5,6 +5,10 @@ description: Documentación para Plataforma Nacional de Toma de muestras
 nav_order: 1
 ---
 
+- [Introducción](#introducción)
+- [Objetivo](#objetivo)
+- [Alcance](#alcance)
+- [¿Quiénes deberán utilizar esta plataforma?](#quiénes-deberán-utilizar-esta-plataforma)
 
 
 ## Introducción

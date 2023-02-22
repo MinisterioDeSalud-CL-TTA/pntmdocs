@@ -4,6 +4,7 @@ title: Anexos
 description: Anexos
 nav_order: 7
 ---
+- [Tabla de estado de muestra](#tabla-de-estado-de-muestra)
 
 # Tabla de estado de muestra
 

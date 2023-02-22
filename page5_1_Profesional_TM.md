@@ -7,6 +7,38 @@ has_children: false
 has_toc: false
 nav_order: 1
 ---
+
+- [Profesional Tomador de muestras](#profesional-tomador-de-muestras)
+- [Instructivo de uso de la plataforma de toma de muestras](#instructivo-de-uso-de-la-plataforma-de-toma-de-muestras)
+  - [Ingreso a la plataforma](#ingreso-a-la-plataforma)
+  - [Registro de correo electrónico](#registro-de-correo-electrónico)
+  - [Identificación de establecimientos](#identificación-de-establecimientos)
+- [Creación de muestra PCR: via interfaz web](#creación-de-muestra-pcr-via-interfaz-web)
+  - [Campos del formulario: Creacion de muestra](#campos-del-formulario-creacion-de-muestra)
+    - [Datos del profesional](#datos-del-profesional)
+      - [Datos del paciente](#datos-del-paciente)
+      - [Datos de Muestra](#datos-de-muestra)
+      - [Enviar muestra al laboratorio](#enviar-muestra-al-laboratorio)
+- [Creación Antígenos: via interfaz web](#creación-antígenos-via-interfaz-web)
+    - [Campos del formulario: Creacion de muestra](#campos-del-formulario-creacion-de-muestra-1)
+      - [Datos de registro](#datos-de-registro)
+      - [Datos del paciente](#datos-del-paciente-1)
+      - [Datos de la muestra y resultado](#datos-de-la-muestra-y-resultado)
+      - [Finalizar la creación del registro](#finalizar-la-creación-del-registro)
+  - [Informe de resultado para test antigeno](#informe-de-resultado-para-test-antigeno)
+- [Registro por carga masiva de *muestras y resultado de Test de antígeno*](#registro-por-carga-masiva-de-muestras-y-resultado-de-test-de-antígeno)
+  - [Instrucciones de la carga masiva](#instrucciones-de-la-carga-masiva)
+  - [Estructura del archivo a cargar](#estructura-del-archivo-a-cargar)
+  - [Errores en la carga masiva](#errores-en-la-carga-masiva)
+    - [Errores indicados por el sistema](#errores-indicados-por-el-sistema)
+    - [Errores no indicados por el sistema](#errores-no-indicados-por-el-sistema)
+    - [Excepciones](#excepciones)
+  - [Descarga de datos maestros](#descarga-de-datos-maestros)
+- [Edición de Muestras](#edición-de-muestras)
+- [Eliminación de muestras en PNTM](#eliminación-de-muestras-en-pntm)
+  - [Período legal de eliminación de muestras](#período-legal-de-eliminación-de-muestras)
+  - [Autorización para eliminación de muestras](#autorización-para-eliminación-de-muestras)
+
 # Profesional Tomador de muestras
 Usuario encargado de recolectar la muestra biológica en el establecimiento de salud.
 

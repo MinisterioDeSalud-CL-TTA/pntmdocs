@@ -6,6 +6,13 @@ has_children: true
 has_toc: false
 nav_order: 5
 ---
+- [Ingreso vía interfaz web](#ingreso-vía-interfaz-web)
+  - [Creación de muestras](#creación-de-muestras)
+  - [Recepción de muestras](#recepción-de-muestras)
+  - [Entrega de resultados](#entrega-de-resultados)
+- [Carga Masiva](#carga-masiva)
+  - [Carga masiva de resultados](#carga-masiva-de-resultados)
+  - [Carga masiva de muestras y resultados](#carga-masiva-de-muestras-y-resultados)
 
 # Ingreso vía interfaz web 
 

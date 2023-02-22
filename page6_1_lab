@@ -7,6 +7,16 @@ has_children: false
 has_toc: false
 nav_order: 3
 ---
+- [Reportes](#reportes)
+- [Reporte Glogal de soliciudes](#reporte-glogal-de-soliciudes)
+- [Reporte por fecha de resultado](#reporte-por-fecha-de-resultado)
+- [Reporte Mutación por fecha de carga de resultado](#reporte-mutación-por-fecha-de-carga-de-resultado)
+- [Reporte RT - Descarga reporte estadístico](#reporte-rt---descarga-reporte-estadístico)
+  - [Instrucciones](#instrucciones)
+  - [Contenido del reporte](#contenido-del-reporte)
+- [Reporte RT - Tributación diaria reporte estadístico](#reporte-rt---tributación-diaria-reporte-estadístico)
+  - [Instrucciones](#instrucciones-1)
+- [Reporte RT - Descarga detalle 7 dias](#reporte-rt---descarga-detalle-7-dias)
 
 # Reportes
 La siguiente tabla  proporciona información sobre los diferentes reportes que se pueden generar en la Plataforma Nacional de Toma de Muestra (PNTM) y los campos asociados a cada uno de ellos. Los reportes se generan a partir de los datos recopilados en la PNTM y permiten obtener información relevante sobre las muestras de prueba procesadas y sus respectivos resultados.
