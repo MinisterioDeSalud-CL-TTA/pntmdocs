@@ -1,3 +1,10 @@
+---
+layout: default
+title: Anexos
+description: Anexos
+nav_order: 7
+---
+
 # Tabla de estado de muestra
 
 | Estado de muestra | Descripción                                                                                                                                                                                                                                                 |
