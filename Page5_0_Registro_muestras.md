@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Profesional tomador de muestras
+title: Registro de muestras
 description: Proceso de registro de muestra
-parent: Crecion de usuarios
 has_children: true
 has_toc: false
-nav_order: 6
+nav_order: 5
 ---
 
 # Ingreso vía interfaz web 

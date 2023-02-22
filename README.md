@@ -1,40 +1,13 @@
-# Colaborar
 
-##  ¿Deseas colaborar en la mantención de la documentación de PNTM?
+# Plataforma Nacional de Toma de Muestras 
 
-Puedes utilizar el [editor de GitHub](https://github.com/MinisterioDeSalud-CL-TTA/pntmdocs/edit/main/README.md) para mantener y observar el contenido de este
-sitio web en un archivo Markdown.
+![](https://minsal-pntm.github.io/pntmdocs/assets/img/LogoMinsalColor.svg)
 
-Cada vez que realices un `commit` en este repositorio, GitHub Pages correra [Jekyll](https://jekyllrb.com/) para reconstruir las páginas del sitio, utilizando el contenido presente en los archivos Markdown.
 
-### Markdown
+La plataforma ministerial de toma de muestras para SARS CoV-2 es una iniciativa del Ministerio de Salud de Chile para supervisar y registrar adecuadamente las muestras tomadas para la detección del virus. Tanto la red pública como la privada están obligadas a utilizar esta plataforma, ya que es una medida para proteger la salud de la población. Además, los laboratorios de análisis para SARS CoV-2 forman parte de los prestadores de salud en el país y, por lo tanto, están sujetos al cumplimiento de la legislación y regulaciones establecidas por el Ministerio de Salud. 
 
-Markdown es un estilo de sintaxis liviano y facil de usar para estilizar la escritura de documentación. Incluye estandares para
+En este contexto, crea una documentación en línea para el instructivo de la plataforma nacional de toma de muestras. Esta documentación en línea estará disponible en el sitio web oficial del Ministerio de Salud, tomademuestras.minsal.cl, y será accesible para todos en conocer los detalles y requisitos para utilizar la plataforma. La intención es brindar una mayor cantidad de información y recursos para garantizar un uso adecuado y un cumplimiento efectivo de las regulaciones establecidas.
 
-```markdown
-Bloque de código con sintaxis resaltada
+Además, esta documentación en línea también incluirá información sobre el registro y toma de muestras para el diagnóstico de la monkeypox, una enfermedad infecciosa también incluida en el Ministerio de Salud como una prioridad en la salud pública. Por lo tanto, esta plataforma también servirá como una herramienta para la detección y monitoreo de esta enfermedad, y garantizará un registro adecuado de las muestras tomadas y sus resultados de análisis. 
 
-# Título 1
-## Título 2
-### Título 3
-
-- Lista
-- De puntos
-
-1. Lista
-2. Numerada
-
-**Negrita**, _Cursiva_ y `Código` 
-
-[Link](url) e ![Imágen](src)
-```
-
-Para más detalles ver [Sintaxis basica de escritura en Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Temas de Jekyll
-
-La página utilizara el template y estilo de el tema de Jekyll que hayan seleccionado en las [configuraciones del repositorio](https://github.com/MinisterioDeSalud-CL-TTA/pntmdocs/settings/pages). El nombre del tema se guarda en el archivo de configuración `_config.yml`.
-
-### Support o Contacto
-
-¿Tienes problemas con esta página? Revisar [documentación](https://docs.github.com/categories/github-pages-basics/) de  GitHub Pages o [contacte a la Mesa de Ayuda PNTM](mailto:mesadeayudapntm@minsal.cl) .
+En resumen, esta documentación en línea será un recurso completo y actualizado para los usuarios de la plataforma, que incluirá información sobre SARS-CoV-2 y Mokeypox.

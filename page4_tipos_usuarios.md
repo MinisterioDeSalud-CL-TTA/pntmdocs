@@ -86,7 +86,7 @@ Lugar donde se procesan las muestras biológicas para realizar el diagnóstico d
     -   Si se quiere editar una muestra, tiene que ser aprobada por la mesa de ayuda de PNTM y el laboratorio es el responsable de editar la información.
     -   Tiene acceso para descargar reportes de los últimos 120 días.
 
-# Solicitud de Creación - Profesional Tomador de Muestra
+# Solicitud de Creación: Profesional Tomador de Muestra
 
 Para registrarse como Profesional Tomador de Muestra en la Plataforma Nacional de Toma de Muestras (PNTM), es necesario completar el Formulario para Registro de Profesionales. El formulario se encuentra en el siguiente enlace: [https://docs.google.com/forms/d/e/1FAIpQLSePoFBV-LGbo8rSpjL4fozsjOkwEyv8xxCNAx7fjytnA-UVTQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSePoFBV-LGbo8rSpjL4fozsjOkwEyv8xxCNAx7fjytnA-UVTQ/viewform).
 
@@ -111,7 +111,7 @@ Una vez completado el formulario, se debe esperar un máximo de 48 horas hábile
 
 Es importante mencionar que solo se permitirá el acceso a la plataforma a aquellos profesionales que hayan completado y enviado el formulario de registro.
 
-# Solicitud de Creación de Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en PNTM
+# Solicitud de Creación: Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en PNTM
 
 Los establecimientos tomadores de muestras para PCR o designados por Seremi de Salud para la toma de Test de Antígeno deben registrar en PNTM las muestras tomadas y, en el caso de Test Antígeno, el resultado una vez conocido.
 
@@ -169,7 +169,7 @@ Una vez recibida la información, el Referente Territorial de Testeo - MINSAL la
 
 Una vez recibida la información, el Referente Territorial de Testeo - MINSAL la validará y se creará el establecimiento/UTM de toma de Test de Antígeno en un plazo de 24 horas. La respuesta será informada al correo electrónico del (la) profesional responsable de la solicitud, que debe ser indicado en el formulario.
 
-# Solicitud de Creación de Laboratorios qRT-PCR para SARS-CoV-2 en PNTM
+# Solicitud de Creación: Laboratorios qRT-PCR para SARS-CoV-2 en PNTM
 
 Es importante registrar en PNTM la fase analítica y el resultado obtenido a través de técnicas de biología molecular. Por esta razón, todo laboratorio que cuente con Resolución Sanitaria emitida por SEREMI de Salud y con el Certificado de Capacidad Diagnóstica correspondiente para realizar técnicas de Biología Molecular por la técnica PCR, otorgado por el ISP, debe estar habilitado para registrar sus resultados en el sistema.
 
