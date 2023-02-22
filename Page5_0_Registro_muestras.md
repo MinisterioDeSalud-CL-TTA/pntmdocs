@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Registro de muestras
+title: Registro y visualización de muestras
 description: Proceso de registro de muestra
 has_children: true
 has_toc: false

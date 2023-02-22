@@ -3,23 +3,14 @@ layout: default
 title: Profesional tomador de muestras
 description: Registro - Proceso de registro de muestra
 parent: Registro de muestras
-has_children: true
+has_children: false
 has_toc: false
 nav_order: 1
 ---
 # Profesional Tomador de muestras
 Usuario encargado de recolectar la muestra biológica en el establecimiento de salud.
 
-- [Instructivo de ingreso a la plataforma](/page71_Instructivo_ingreso_pntm.md)
-- [Registro via interfaz web de muestra PCR](/page72_Profesional_TM_Creacion_PCR.md)
-- [Registro via interfaz web de muestra y resultado de Test de antígeno](/page73_profesional_tTM_Antigeno)
-- [Registro por carga masiva de muestras y resultado de Test de antígeno]()
-    - [Errores en la carga masiva en la plataforma Nacional de Toma de Muestras (PNTM)]()
-    - [Descarga de datos maestros Descarga de datos maestros - Antigenos]()
-- [Editar muestras]()
-- [Eliminar muestras]()
-
-# Instructivo de uso de la plataforma de toma de muestras: uso directo por parte de tomador de muestra
+# Instructivo de uso de la plataforma de toma de muestras
 
 Este instructivo tiene como objetivo guiar a los profesionales de la salud autorizados a realizar el proceso de toma de muestra a través de la plataforma de toma de muestras del Ministerio de Salud de Chile. A continuación se detallan los pasos para el ingreso y uso de la plataforma.
 
@@ -43,7 +34,7 @@ En el listado aparecerá una nueva casilla vacía en color celeste, haga click s
 
 En el caso de querer borrar un establecimiento, debe seleccionarlo y presionar el botón “x Eliminar”. Para confirmar la eliminación, presione “Aceptar” y vuelva a actualizar la lista.
 
-# Creación de muestra PCR via interfaz web
+# Creación de muestra PCR: via interfaz web
 
 Para crear muestras utilizando la interfaz de usuario, se seguir el siguiente proceso:
 1.  Acceder al módulo de **PCR** en el menú de opciones.
@@ -92,7 +83,7 @@ Seleccionar el laboratorio de destino al que se enviará la muestra. Este labora
 #### Enviar muestra al laboratorio
 Verificar que toda la información sea correcta y completa antes de enviar la solicitud de toma de muestra. Una vez que se hayan completado todos los campos necesarios, hacer clic en el botón "Enviar muestra al laboratorio".
 
-# Antígeno
+# Creación Antígenos: via interfaz web
 
 Para crear muestras utilizando la interfaz de usuario, se seguir el siguiente proceso:
 1.  Acceder al módulo de **Antígeno** en el menú de opciones.
@@ -207,15 +198,12 @@ Una vez finalizado, deberán subir en la plataforma y pinchar **“INFORME DE RE
 
 Una vez pinchado se desplegará informe para que pueda ser impreso y firmado a mano alzada por profesional responsable del análisis de la muestra, esto para ser entregado al paciente.
 
-# Registro por carga masiva de muestras y resultado de Test de antígeno
-
-## Introducción
+# Registro por carga masiva de *muestras y resultado de Test de antígeno*
 
 El siguiente instructivo explica los pasos necesarios para realizar cargas masivas de resultados de antígeno a través de la plataforma PNTM. Los usuarios podrán acceder a la sección de cargas masivas, descargar una planilla base con los campos solicitados, ingresar los datos requeridos y cargar el archivo de forma satisfactoria.
 
 ## Instrucciones de la carga masiva
-   ![[Pasted image 20230215103637.png]]
-   _Foto: Sección de cargas masivas por la interfaz_
+_Foto: Sección de cargas masivas por la interfaz_
    
 1.  Es necesario acceder al módulo de "Cargas Masivas" dentro de la plataforma y seleccionar la sección "Antígeno".
 2.   En el botón desplegable "Estructura del archivo a cargar" se pueden visualizar los campos solicitados en la Planilla Base de toma de muestras, incluyendo el nombre de la columna, el tipo de dato, la descripción y las restricciones correspondientes.
@@ -257,3 +245,78 @@ La tabla que se presenta a continuación muestra la estructura de los datos que 
 | estrategia                   | Texto        | Indica la estrategia asociada a la muestra de antígeno Valores cuando busqueda activa es 1: BAC Punto de Entrada BAC Brotes BAC Autotest  Valores cuando busqueda activa es 0: Sintomáticos Residencias Sanitarias  Atención médica                                                                                                                    | No es Obligatorio                                                                                                                                                                                                                                                                                                                                         |
 | subestrategia                | Texto        | Indica la subestrategia asociada a la muestra de antígeno con estrategia BAC Brotes Valores: BAC Escolar BAC ELEAM BAC Mejor Niñez/SENAME BAC Centros Penitenciarios BAC Laboral OAL/AD/Centros de Salud BAC centro de diálisis BAC entorno prioritario BAC otros hogares BAC recintos de FFAA BAC viviendas colectivas y campamentos BAC comunitarios | No es Obligatorio                                                                                                                                                                                                                                                                                                                                         |
 | observacion_muestra          | Varchar      | Observación resultado antígeno                                                                                                                                                                                                                                                                                                                         | Opcional                                                                                                                                                                                                                                                                                                                                                  |
+## Errores en la carga masiva
+
+La plataforma Nacional de Toma de Muestras detalla los posibles errores que pueden ser indicados por el sistema al momento de subir una planilla de carga masiva a la plataforma, así como los errores que no detectará el sistema pero que pueden afectar la calidad de la información. El objetivo es verificar estas condiciones para poder subir una planilla de carga masiva de forma correcta a la PNTM.
+
+### Errores indicados por el sistema
+
+Los posibles errores que pueden ser indicados por el sistema al momento de subir una planilla de carga masiva a la plataforma son:
+
+-   **Campo obligatorio en blanco**: este error se presenta al dejar en blanco campos que son de carácter obligatorio, como el RUN_pasaporte.
+-   **RUN Paciente Incorrecto**: este error se presenta cuando la planilla posee algún RUN inválido. Cabe destacar que el RUN debe ser escrito sin puntos y con guion.
+-   **Rut Profesional_sis o Rut_medico no existente en base de profesionales**: este error se presenta al ingresar un rut en el campo rut_profesional o rut_medico que no se encuentre en la base de profesionales.
+-   **Rut_medico en blanco**: este error se presenta al dejar en blanco el campo rut_medico, ya que la plataforma fue diseñada en un principio para recibir muestras de antígenos de pacientes sintomáticos provenientes de alguna médica.
+-   **Fecha diferente a la fecha actual**: este error se presenta al ingresar una fecha de muestra diferente a la fecha actual.
+-   **Campo no figura dentro del conjunto de datos**: este error se presenta al ingresar información que no esté contenida dentro del maestro de datos. En dicho caso se indicará por pantalla el conjunto de datos aceptado.
+
+### Errores no indicados por el sistema
+
+Los errores no indicados por el sistema son aquellos que pueden afectar directamente el tratamiento de los datos y la calidad de la información, por lo que es importante verificar dicha información antes de ser subida. Algunos ejemplos de estos errores son:
+
+-   Ingreso de código DEIS de otro establecimiento.
+-   Ingreso erróneo de resultado.
+-   Ingreso de RUN de otro paciente.
+-   Ingreso de ID de otra comuna.
+-   Ingreso de código EPIVIGILA erróneo.
+-   Ingreso erróneo de tipo de búsqueda (activa o no activa).
+
+### Excepciones
+
+PNTM detalla algunas especificaciones a considerar en diversos campos obligatorios al momento de realizar una carga masiva en la plataforma en circunstancias excepcionales. Por ejemplo:
+
+-   Dirección o teléfono del paciente: en caso de que no se posea la dirección detallada del paciente debido a circunstancias en las cuales sea dificultoso poseer este tipo de información, se deberán considerar algunas indicaciones específicas dependiendo del resultado de la muestra.
+-   Pacientes menores de edad: en caso de que se trate de pacientes menores de edad, se debe ingresar el RUN del apoderado en el campo rut_medico.
+-   En caso de fallecimiento del paciente: si el paciente ha fallecido, se debe indicar en el campo estado_paciente la opción "Fallecido".
+-   Muestras en contexto de pesquisa activa: en caso de que las muestras sean tomadas en el contexto de pesquisa
+
+## Descarga de datos maestros
+
+Como una opción, se puede descargar el archivo de datos maestros desde la plataforma. Para ello, se debe acceder al módulo "Antígeno", seleccionar la sección "Maestro" y descargar la información desde el botón "descargar todos los maestros". El archivo descargado contendrá todos los datos maestros necesarios en formato Excel para ingresar la información de forma correcta en la planilla base.
+
+A continuación se detalla la lista de los datos maestros disponibles en el archivo Excel descargado:
+
+-   **Comunas**: disponible para el campo paciente_comuna, indicando la columna id_comuna de la planilla maestro de datos.
+-   **Sexo**: disponible para el campo paciente_sexo, indicando la columna clave de la planilla maestro de datos.
+-   **Establecimiento público**: disponible para el campo cod_deis, indicando la columna cod_deis de la planilla maestro de datos.
+-   **Establecimiento privado**: disponible para el campo cod_deis, indicando la columna cod_deis de la planilla maestro de datos.
+-   **Resultado antígeno**: disponible para el campo resultado, indicando la columna resultado de la planilla maestro de datos.
+-   **Tipo de documento antígeno**: disponible para el campo tipo_pacientedoc, indicando la columna tipo_documento de la planilla maestro de datos.
+-   **Via dirección**: disponible para el campo paciente_via_direccion, indicando la columna tipo_documento de la planilla maestro de datos.
+-   **Tipo de muestra antígeno**: disponible para el campo tipo_muestra, indicando la columna tipo_muestra de la planilla maestro de datos.
+-   **Marca de test**: disponible para el campo codigo_marca_test, indicando la columna clave de la planilla maestro de datos.
+
+# Edición de Muestras
+
+En caso de que se detecte un error de información al crear una muestra, se puede editar siempre y cuando esta no haya sido recepcionada por el laboratorio. Para ello, se debe buscar la muestra correspondiente en la plataforma y hacer click sobre ella, luego seleccionar el campo "Volver a Editar".
+
+La plataforma volverá al estado de creación de muestra donde se podrá editar la información. Es importante destacar que esta posibilidad de acción tiene un límite de 7 días desde la creación de la muestra y antes de que sea recepcionada por el laboratorio.
+
+Transcurrido ese plazo y si la muestra no ha pasado al proceso analítico (recepción y entrega de resultados), la muestra será automáticamente eliminada del sistema para evitar inconsistencias en la información.
+
+# Eliminación de muestras en PNTM
+
+La plataforma PNTM ha habilitado la opción de eliminar una muestra, pero solo después de haber cumplido su respectivo período legal de eliminación y previa autorización de la Mesa de Ayuda PNTM.
+
+## Período legal de eliminación de muestras
+
+-   Para muestras PCR, se permite la eliminación después de haber cumplido un período legal de 30 días.
+-   Para muestras de antígeno, se permite la eliminación después de haber cumplido un período legal de 1 día.
+
+## Autorización para eliminación de muestras
+
+-   La eliminación de las muestras solo es posible previa autorización de la Mesa de Ayuda PNTM.
+-   Para solicitar la autorización, se debe cumplir con las reglas de negocio de eliminación correspondientes.
+-   La autorización será concedida por Gestión de Información, y el usuario recibirá un aviso por correo electrónico.
+
+Es importante tener en cuenta que la eliminación de las muestras debe realizarse con la mayor responsabilidad y rigurosidad, para garantizar la confiabilidad y trazabilidad de la información en la plataforma PNTM. Además, se recomienda realizar la eliminación de las muestras solo en casos excepcionales y cuando sea absolutamente necesario, ya que la eliminación de muestras puede tener un impacto en el seguimiento y la trazabilidad de los pacientes.
