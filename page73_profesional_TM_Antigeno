@@ -1,3 +1,12 @@
+---
+layout: default
+title: Registro via interfaz web de muestra y resultado de Test de antígeno
+description: Registro via interfaz web de muestra y resultado de Test de antígeno
+parent: Profesional tomador de muestras
+nav_order: 3
+---
+
+
 Para crear muestras utilizando la interfaz de usuario, se seguir el siguiente proceso:
 1.  Acceder al módulo de **Antígeno** en el menú de opciones.
 2.  Seleccionar **Registro y seguimiento** dentro del submenú correspondiente.

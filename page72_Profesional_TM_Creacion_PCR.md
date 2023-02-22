@@ -5,7 +5,7 @@ description: Instructivo de uso de la plataforma de toma de muestras uso directo
 parent: Profesional tomador de muestras
 has_children: true
 has_toc: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Profesional tomador de muestra - Creación de muestra PCR via interfaz web
