@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solicitud de Creación de Profesional Tomador de Muestra
+title: Solicitud de Creación - Profesional Tomador de Muestra
 description: Solicitud de Creación de Profesional Tomador de Muestra
 parent: Crecion de usuarios
 nav_order: 1
