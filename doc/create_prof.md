@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Creación - Profesional tomador de muestra
-parnet: Creación de usuarios
+parent: Creación de usuarios
+has_children: true
 nav_order: 1
 ---
 

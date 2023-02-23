@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Laboratorio
-parent: Registro de muestras biologicas
-has_children: false
+title: Registro de muestras - Laboratorio
+parent: Registro de muestras
+has_children: True
 nav_order: 2
 ---
 

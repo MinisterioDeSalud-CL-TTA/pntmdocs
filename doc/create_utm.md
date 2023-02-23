@@ -1,8 +1,7 @@
-
 ---
 layout: default
 title: Creación - UTM
-parnet: Creación de usuarios
+parent: Creación de usuarios
 nav_order: 2
 ---
 

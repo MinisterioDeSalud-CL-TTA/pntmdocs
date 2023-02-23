@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Registro de muestras biologicas
+title: Registro de muestras
 has_children: true
 nav_order: 4
 ---
