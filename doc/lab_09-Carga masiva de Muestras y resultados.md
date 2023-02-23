@@ -1,3 +1,11 @@
+---
+layout: default
+title: Carga masiva de Muestras y resultados
+parent: Registro de muestras - Laboratorio 
+grand_parent: Registro de muestras
+nav_order: 8
+---
+
 # Carga masiva de Muestras y resultados
 
 <h1>Carga masiva de Muestras y resultados</h1>

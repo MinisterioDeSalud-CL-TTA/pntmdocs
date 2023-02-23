@@ -1,3 +1,11 @@
+---
+layout: default
+title: Carga masiva de resultados de mutacion
+parent: Registro de muestras - Laboratorio 
+grand_parent: Registro de muestras
+nav_order: 9
+---
+
 # Carga masiva de resultados de mutacion
 
 <h1>Carga masiva de resultados de mutacion</h1>

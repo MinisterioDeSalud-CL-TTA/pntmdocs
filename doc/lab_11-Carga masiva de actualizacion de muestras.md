@@ -1,3 +1,11 @@
+---
+layout: default
+title: Carga masiva de actualizacion de muestras
+parent: Registro de muestras - Laboratorio 
+grand_parent: Registro de muestras
+nav_order: 10
+---
+
 # Carga masiva de actualizacion de muestras
 
 <h1>Carga masiva de actualizacion de muestras</h1>

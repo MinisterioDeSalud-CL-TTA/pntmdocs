@@ -1,3 +1,11 @@
+---
+layout: default
+title: Modificación de Resultado
+parent: Registro de muestras - Laboratorio 
+grand_parent: Registro de muestras
+nav_order: 6
+---
+
 # Modificación de Resultado
 
 <h1>Modificación de Resultado</h1>

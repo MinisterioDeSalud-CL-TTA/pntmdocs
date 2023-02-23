@@ -1,3 +1,11 @@
+---
+layout: default
+title: Carga Masiva de Resultados en la Plataforma
+parent: Registro de muestras - Laboratorio 
+grand_parent: Registro de muestras
+nav_order: 7
+---
+
 # Carga Masiva de Resultados en la Plataforma
 
 <h1>Carga Masiva de Resultados en la Plataforma</h1>

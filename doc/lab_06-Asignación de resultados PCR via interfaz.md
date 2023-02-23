@@ -1,3 +1,11 @@
+---
+layout: default
+title: Asignación de resultados PCR via interfaz
+parent: Registro de muestras - Laboratorio 
+grand_parent: Registro de muestras
+nav_order: 5
+---
+
 # Asignación de resultados PCR via interfaz
 
 <h1>Asignación de resultados PCR via interfaz</h1>
