@@ -2,9 +2,16 @@
 layout: default
 title: Anexos
 description: Anexos
-nav_order: 7
+nav_order: 8
 ---
-- [Tabla de estado de muestra](#tabla-de-estado-de-muestra)
+
+# Anexos
+{: .no_toc }
+
+## Tabla de contenido
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
 
 # Tabla de estado de muestra
 

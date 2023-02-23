@@ -20,7 +20,7 @@ Este instructivo tiene como objetivo guiar a los profesionales de la salud autor
 
 ## Ingreso a la plataforma
 
-Para ingresar a la plataforma, los profesionales deben contar con autorización y estar previamente identificados y cargados en la plataforma a través de la [[Creación de usuarios - Profesional tomador de muestra]]. Una vez que cuenten con esta autorización, podrán ingresar a la plataforma desde cualquier computador o dispositivo móvil con conexión a internet a través del sitio web [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl/).
+Para ingresar a la plataforma, los profesionales deben contar con autorización y estar previamente identificados y [registrados en la plataforma](/doc/create_user.md#profesional-tomador-de-muestra). Una vez que cuenten con esta autorización, podrán ingresar a la plataforma desde cualquier computador o dispositivo móvil con conexión a internet a través del sitio web [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl/).
 
 Para ingresar a la plataforma, los usuarios deben ingresar su RUN sin puntos, guion ni dígito verificador. La contraseña de ingreso será su número de registro en la SIS. Para resguardar la seguridad del sistema, esta contraseña deberá ser modificada inmediatamente en el primer ingreso a la plataforma, estableciendo así su propia clave de seguridad que debe contener al menos 4 dígitos.
 
