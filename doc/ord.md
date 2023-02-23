@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Titulo
+title: Ordinarios PNTM
 has_children: false
 nav_order: 9
 ---
