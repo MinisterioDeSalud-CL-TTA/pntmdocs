@@ -27,3 +27,4 @@ Para acceder a estos informes, el usuario debe iniciar sesión en la plataforma 
 
 | Reporte                                          | Campo                              | Descripción                                                                                                          |
 |--------------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Reporte RT                            | Fecha toma de muestra              | Muestra todas las muestras en el rango de fechas 

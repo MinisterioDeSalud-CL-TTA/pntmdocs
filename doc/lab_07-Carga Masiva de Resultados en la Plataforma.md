@@ -10,7 +10,7 @@ nav_order: 7
 
 <h1>Carga Masiva de Resultados en la Plataforma</h1>
 <p>Con el objetivo de apoyar la operatividad y eficacia del sistema, se ha dispuesto un banner llamado "Carga Masiva de Resultados" para aquellos laboratorios que no tienen la capacidad de generar integración informática con los Web Services dispuestos para ello. Esta carga masiva permite la carga automática de resultados por interconexión de sistemas.</p>
-<h2>Acceder a la opcion de carga masiva</h2>
+<h2>Acceder a la opción de carga masiva</h2>
 <p>Para acceder a la carga masiva, debes seguir los siguientes pasos:
 1.  Ingresa a tu perfil de laboratorio.
 2.  Busca la opción "Carga masiva" en el menú y haz clic en ella.

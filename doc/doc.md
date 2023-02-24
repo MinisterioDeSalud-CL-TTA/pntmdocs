@@ -16,9 +16,9 @@ nav_order: 1
 
 # Introducción
 
-El Ministerio de Salud ha desarrollado e implementado la plataforma ministerial de toma de muestras, para la correcta supervisión de las muestras de SARS CoV-2, cuyo sitio web es tomademuestras.minsal.cl
+El Ministerio de Salud ha desarrollado e implementado la plataforma ministerial de toma de muestras, para la correcta supervisión de las muestras de SARS CoV-2, cuyo sitio web es [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl)
 
-En concordancia al ordinario N°2752 del 09/09/2020, se reitera la obligación de la red pública y privada de usar la plataforma nacional bajo sus diferentes modalidades disponibles, es necesario señalar que el artículo 4° del DFL 1 de 2005 del Ministerio de Salud que regula las funciones generales yespecíficas que tiene este Ministerio, lo faculta para solicitar el registrode esta información tanto a organismos públicos como a instituciones privadas, con el fin proteger la salud de la población. 
+En concordancia al ordinario N°2752 del 09/09/2020, se reitera la obligación de la red pública y privada de usar la plataforma nacional bajo sus diferentes modalidades disponibles, es necesario señalar que el artículo 4° del DFL 1 de 2005 del Ministerio de Salud que regula las funciones generales y específicas que tiene este Ministerio, lo faculta para solicitar el registro de esta información tanto a organismos públicos como a instituciones privadas, con el fin proteger la salud de la población. 
 
 Así mismo, el artículo 4 N° 1 de la Alerta Sanitaria por COVID-19, aprobada por Decreto N°4 de 2020 de este Ministerio, dispone que los Servicios de Salud podrán coordinar la red asistencial de prestadores públicos como privados, que se encuentren dentro del territorio de sus competencias. 
 

@@ -17,4 +17,4 @@ nav_order: 6
 </ol>
 <p>Es importante tener en cuenta que la modificación de resultados debe realizarse de manera cuidadosa y responsable, para evitar errores derivados del operador y garantizar la calidad de los resultados informados a la autoridad sanitaria y ministerial.</p>
 <p><img alt="Alt text" src="img/lab_mod_res.png" />
-<em>Proceso de modificacion de resultado de muestra</em></p>
+<em>Proceso de modificación de resultado de muestra</em></p>

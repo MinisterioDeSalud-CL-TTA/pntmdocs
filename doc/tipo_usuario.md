@@ -57,6 +57,8 @@ Unidad administrativa local encargada de brindar servicios de salud a la comunid
     -   El usuario tiene acceso para visualizar las muestras registradas de los últimos 14 días.
     -   No tiene permiso para modificar las muestras.
     -   Tiene acceso para descargar reportes de los últimos 120 días.
+
+
 ## SEREMI
 Secretaría Regional Ministerial de Salud encargada de coordinar y supervisar las acciones de salud en una región.
 -   **Antígenos**

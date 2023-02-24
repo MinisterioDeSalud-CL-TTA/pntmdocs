@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Descarga de datos maestros - Antigenos
+title: Descarga de datos maestros - Antígenos
 parent: Registro de muestras - Profesional Tomador de Muestras 
 grand_parent: Registro de muestras
 nav_order: 5
 ---
 
-# Descarga de datos maestros - Antigenos
+# Descarga de datos maestros - Antígenos
 
-<h1>Descarga de datos maestros - Antigenos</h1>
+<h1>Descarga de datos maestros - Antígenos</h1>
 <p>Como una opción, se puede descargar el archivo de datos maestros desde la plataforma. Para ello, se debe acceder al módulo "Antígeno", seleccionar la sección "Maestro" y descargar la información desde el botón "descargar todos los maestros". El archivo descargado contendrá todos los datos maestros necesarios en formato Excel para ingresar la información de forma correcta en la planilla base.</p>
 <p>A continuación se detalla la lista de los datos maestros disponibles en el archivo Excel descargado:</p>
 <ul>

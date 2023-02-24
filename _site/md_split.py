@@ -43,5 +43,5 @@ def split_markdown_file_by_headers(input_file):
 
 
 # %%
-split_markdown_file_by_headers('doc/registro_lab.md')
+split_markdown_file_by_headers('doc/reportes_lab.md')
 # %%

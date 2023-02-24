@@ -1,0 +1,16 @@
+---
+layout: default
+title: Reporte Mutación por fecha de carga de resultado
+nav_order: 5
+grand_parent: Reportes
+parent: Reportes - Laboratorio
+has_children: false
+has_toc: true
+---
+# Reporte Mutación por fecha de carga de resultado
+
+El Reporte Mutación por fecha de carga de resultado es un informe generado por la Plataforma Nacional de Toma de Muestra (PNTM) que proporciona información detallada sobre las muestras de prueba que tienen resultados de mutación. Este informe se enfoca en las muestras en estado 8, es decir, aquellas que tienen resultados de mutación.
+
+Para generar este informe, es necesario especificar un rango de fechas que corresponda al período de fecha de resultado. El informe incluirá todas las muestras que se encuentren en el estado 8 dentro del rango de fechas especificado.
+
+El Reporte Mutación por fecha de carga de resultado permite obtener información detallada sobre las muestras de prueba que tienen resultados de mutación, lo que puede ser útil para el monitoreo de la propagación de variantes del virus.
