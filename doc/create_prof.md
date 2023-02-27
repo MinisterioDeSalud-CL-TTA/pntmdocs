@@ -2,7 +2,6 @@
 layout: default
 title: Creación - Profesional tomador de muestra
 parent: Creación de usuarios
-has_children: true
 nav_order: 1
 ---
 

@@ -5,7 +5,7 @@ has_children: true
 nav_order: 4
 ---
 
-# Registro de muestras biologicas
+# Registro de muestras biológicas
 {: .no_toc }
 
 ## Tabla de contenido

@@ -8,8 +8,6 @@ nav_order: 2
 
 # Creación de muestra PCR via interfaz web
 
-# Creación de muestra PCR via interfaz web
-
 Para crear muestras utilizando la interfaz de usuario, se seguir el siguiente proceso:1. Acceder al módulo de __PCR__ en el menú de opciones.2. Seleccionar __Registro__ dentro del submenú correspondiente.3. Hacer clic en el botón __Crear registro__. De esta manera, podrás continuar con el proceso de creación de muestras.
 
 ![Alt text](img/Pasted%20image%2020230214125312.png)
@@ -18,7 +16,7 @@ _Imagen de referencia para la creación de muestras en la plataforma toma de mue
 
 ![Alt text](img/Pasted%20image%2020230214125252.png)
 
-_Imagen del boton "Crear registro"_
+_Imagen del botón "Crear registro"_
 
 Después de hacer clic en el botón "Crear registro", se abrirá un formulario donde se debe rellenar los campos solicitados con la información correspondiente de cada muestra que deseas crear.
 

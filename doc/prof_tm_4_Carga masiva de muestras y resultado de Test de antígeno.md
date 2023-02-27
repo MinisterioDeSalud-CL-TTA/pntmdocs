@@ -8,8 +8,6 @@ nav_order: 4
 
 # Carga masiva de muestras y resultado de Test de antígeno
 
-# Carga masiva de muestras y resultado de Test de antígeno
-
 El siguiente instructivo explica los pasos necesarios para realizar cargas masivas de resultados de antígeno a través de la plataforma PNTM. Los usuarios podrán acceder a la sección de cargas masivas, descargar una planilla base con los campos solicitados, ingresar los datos requeridos y cargar el archivo de forma satisfactoria.
 
 ## Instrucciones de la carga masiva

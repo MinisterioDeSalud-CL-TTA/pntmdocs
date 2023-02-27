@@ -8,8 +8,6 @@ nav_order: 3
 
 # Creación y resultado de Muestras AG via interfaz web
 
-# Creación y resultado de Muestras AG via interfaz web
-
 Para crear muestras utilizando la interfaz de usuario, se seguir el siguiente proceso:1. Acceder al módulo de __Antígeno__ en el menú de opciones.2. Seleccionar __Registro y seguimiento__ dentro del submenú correspondiente.3. Hacer clic en el botón __Crear muestra__. De esta manera, podrás continuar con el proceso de creación de muestras.4.  
 ![Alt text](img/ag_1.png)
 
