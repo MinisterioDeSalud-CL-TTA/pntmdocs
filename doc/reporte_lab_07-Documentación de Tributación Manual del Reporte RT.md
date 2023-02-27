@@ -8,9 +8,12 @@ has_children: false
 has_toc: true
 ---
 
-# Tributación Manual del Reporte RT
+# Tributación diaria del Reporte RT
 
-El siguiente es un informe de tributación manual del Reporte RT, el cual presenta información correspondiente a la fecha de tributo del laboratorio y el stock de muestras en espera, recibidas, procesadas y final, junto con la capacidad máxima y la tasa de ocupación diaria. También se incluyen las muestras positivas del día y las muestras acumuladas y acumuladas positivas.
+El siguiente es un informe de Tributación diaria del Reporte RT, el cual presenta información correspondiente a la fecha de tributo del laboratorio y el stock de muestras en espera, recibidas, procesadas y final, junto con la capacidad máxima y la tasa de ocupación diaria. También se incluyen las muestras positivas del día y las muestras acumuladas y acumuladas positivas.
+
+Tributación diaria reporte estadístico
+
 
 *   La fecha de tributo del laboratorio se debe ingresar manualmente en formato dd-mm-yyyy.
 *   Se deben ingresar manualmente los valores correspondientes a stock espera, muestras recibidas día, muestras procesadas día, stock final, capacidad máxima y muestras positivas día.

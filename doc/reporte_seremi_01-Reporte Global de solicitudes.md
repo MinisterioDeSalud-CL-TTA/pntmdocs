@@ -3,7 +3,7 @@ layout: default
 title: Reporte Global de solicitudes
 nav_order: 1
 grand_parent: Reportes
-parent: Reportes - Laboratorio
+parent: Reportes - SEREMI, Servicio de salud y perfil visualizador
 has_children: false
 has_toc: true
 ---

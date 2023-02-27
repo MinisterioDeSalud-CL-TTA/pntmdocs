@@ -13,7 +13,43 @@ has_toc: true
 Este reporte presenta información relevante sobre el procesamiento y resultados de muestras en el laboratorio en los últimos 7 días, permitiendo una mejor gestión y monitoreo de la capacidad y efectividad del laboratorio en la detección del virus.
 
 
-| Columna | Descripción ||------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|| fecha\_x\_1 | Día anterior a la fecha de resultado informado en reporte RT. || fecha\_x | Fecha de resultado informado en reporte RT. || stock\_espera\_inf\_pntm | Muestras recepcionadas, pero sin procesar pendientes del día anterior a la fecha de resultado informado, considerando la fecha de recepción indicada por el laboratorio en PNTM. || muestras\_recibidas\_dia\_inf\_pntm | Muestras recibidas el día de la fecha de resultado informado, considerando la fecha de recepción indicada por el laboratorio en PNTM. || stock\_espera\_sist\_pntm | Muestras recepcionadas, pero sin procesar pendientes del día anterior a la fecha de resultado informado, considerando la fecha de recepción indicada por el sistema en PNTM. || muestras\_recibidas\_dia\_sist\_pntm | Muestras recibidas el día de la fecha de resultado informado, considerando la fecha de recepción indicada por el sistema en PNTM. || muestras\_procesadas\_dia\_pntm | Muestras procesadas por el laboratorio el día de la fecha de resultado informado en PNTM. || stock\_final\_inf\_pntm | Stock final de muestras en espera o no procesadas el día de la fecha de resultado informado, considerando la fecha de recepción indicada por el laboratorio en PNTM. || stock\_final\_sist\_pntm | Stock final de muestras en espera o no procesadas el día de la fecha de resultado informado, considerando la fecha de recepción indicada por el sistema en PNTM. || tasa\_ocupacion\_dia\_pntm | Stock Final informado en PNTM / Capacidad máxima de procesamiento informada por el laboratorio en PNTM. || muestras\_positivas\_dia\_pntm | Muestras procesadas con resultado positivo el día de la fecha de resultado informado en PNTM. || stock\_espera\_trib | Muestras efectivamente recepcionadas en RT, pero sin procesar pendientes del día anterior a la fecha de resultado informado, considerando información del LIS del laboratorio. || muestras\_recibidas\_dia\_trib | Muestras efectivamente recibidas en RT el día de la fecha de resultado informado, considerando información del LIS del laboratorio. || muestras\_procesadas\_dia\_trib | Muestras efectivamente procesadas por el laboratorio el día de la fecha de resultado informado en RT, considerando información del LIS del laboratorio. || stock\_final\_trib | Stock final de muestras efectivamente en espera o no procesadas el día de la fecha de resultado informado en RT, considerando información del LIS del laboratorio. || capacidad\_max\_trib | Capacidad máxima de procesamiento informada por el laboratorio en RT. || tasa\_ocupacion\_dia\_trib | Stock Final informado en RT/ Capacidad máxima de procesamiento informada por el laboratorio en RT. || muestras\_positivas\_dia\_trib | Muestras procesadas con resultado positivo el día de la fecha de resultado informado en RT, considerando información del LIS del laboratorio. || muestras\_acumuladas\_trib | Muestras acumuladas históricas informadas por el laboratorio en RT. || muestras\_acumuladas\_positivas\_trib | Muestras positivas acumuladas históricas informadas por el laboratorio en RT. || alerta\_cuello\_botella\_trib | Información de insumos críticos o potenciales quiebres de stock informados por el laboratorio en RT. |
+Para generar el Reporte RT - Descarga detalle 7 días, sigue estas instrucciones:
+
+- Ingresa a la interfaz de usuario del sistema.
+- Haz clic en la opción de "Reportes".
+- Selecciona el submenú de "Reporte RT".
+- Selecciona la opción de "Descarga Detalle 7 días".
+- Se te pedirá que especifiques una fechas para el reporte.
+- Si no asignas ninguna fecha, el sistema tomará por defecto el día y la hora actual.
+- Una vez que ingreses las fechas requeridas, el Reporte de Resultados Acumulados RT se generará automáticamente y se descargará en formato excel
+
+![Alt text](img/Reporte-ReporteRT.jpg)
+
+_Reporte RT - Descarga detalle 7 días_
+
+A continuación se describen los campos que se incluyen en el reporte:
+
+| Columna                              | Descripción |
+|--------------------------------------|-------------|
+| fecha_x_1                            | Día anterior a la fecha de resultado informado en reporte RT. |
+| fecha_x                              | Fecha de resultado informado en reporte RT. |
+| stock_espera_inf_pntm                | Muestras recepcionadas, pero sin procesar pendientes del día anterior a la fecha de resultado informado, considerando la fecha de recepción indicada por el laboratorio en PNTM. |
+| muestras_recibidas_dia_inf_pntm      | Muestras recibidas el día de la fecha de resultado informado, considerando la fecha de recepción indicada por el laboratorio en PNTM. |
+| stock_espera_sist_pntm               | Muestras recepcionadas, pero sin procesar pendientes del día anterior a la fecha de resultado informado, considerando la fecha de recepción indicada por el sistema en PNTM. |
+| muestras_recibidas_dia_sist_pntm     | Muestras recibidas el día de la fecha de resultado informado, considerando la fecha de recepción indicada por el sistema en PNTM. |
+| muestras_procesadas_dia_pntm         | Muestras procesadas por el laboratorio el día de la fecha de resultado informado en PNTM. |
+| stock_final_inf_pntm                 | Stock final de muestras en espera o no procesadas el día de la fecha de resultado informado, considerando la fecha de recepción indicada por el laboratorio en PNTM. |
+| stock_final_sist_pntm                | Stock final de muestras en espera o no procesadas el día de la fecha de resultado informado, considerando la fecha de recepción indicada por el sistema en PNTM. |
+| tasa_ocupacion_dia_pntm              | Stock Final informado en PNTM / Capacidad máxima de procesamiento informada por el laboratorio en PNTM. |
+| muestras_positivas_dia_pntm          | Muestras procesadas con resultado positivo el día de la fecha de resultado informado en PNTM. |
+| stock_espera_trib                    | Muestras efectivamente recepcionadas en RT, pero sin procesar pendientes del día anterior a la fecha de resultado informado, considerando información del LIS del laboratorio. |
+| muestras_recibidas_dia_trib          | Muestras efectivamente recibidas en RT el día de la fecha de resultado informado, considerando información del LIS del laboratorio. |
+| muestras_procesadas_dia_trib         | Muestras efectivamente procesadas por el laboratorio el día de la fecha de resultado informado en RT, considerando información del LIS del laboratorio. |
+| stock_final_trib                     | Stock final de muestras efectivamente en espera o no procesadas el día de la fecha de resultado informado en RT, considerando información del LIS del laboratorio. |
+| capacidad_max_trib                   | Capacidad máxima de procesamiento informada por el laboratorio en RT. |
+| tasa_ocupacion_dia_trib              | Stock Final informado en RT/ Capacidad máxima de procesamiento informada por el laboratorio en RT. |
+| muestras_positivas_dia_trib          | Muestras procesadas con resultado positivo el día de la fecha de resultado informado en RT, considerando información del LIS del laboratorio. |
+| muestras_acumuladas_trib             | Muestras acumul
 
 
-Este reporte permite una mejor comprensión y seguimiento del trabajo del laboratorio en los últimos 7 días, lo que es vital para tomar decisiones en cuanto a la gestión y planificación de recursos para la detección del virus.
+Este reporte permite una mejor comprensión y seguimiento del trabajo del laboratorio en los últimos 7 días.
