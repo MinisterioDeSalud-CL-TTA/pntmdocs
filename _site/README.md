@@ -1,7 +1,9 @@
 
 # Plataforma Nacional de Toma de Muestras - Documentación en Línea
 
-<img src="https://minsal-pntm.github.io/pntmdocs/assets/img/LogoMinsalColor.svg" alt="Logo del Ministerio de Salud" height="200">
+<p align="center">
+<img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="300">
+</p>
 
 La plataforma de toma de muestras es una iniciativa del Ministerio de Salud de Chile para supervisar y registrar adecuadamente las muestras tomadas para la detección del virus SARS CoV-2 y Monkeypox.
 

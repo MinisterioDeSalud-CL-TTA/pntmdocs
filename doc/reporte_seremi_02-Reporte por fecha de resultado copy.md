@@ -3,7 +3,7 @@ layout: default
 title: Reporte por fecha de resultado
 nav_order: 2
 grand_parent: Reportes
-parent: Reportes - Laboratorio
+parent: Reportes - SEREMI, Servicio de salud y perfil visualizador
 has_children: false
 has_toc: true
 ---
