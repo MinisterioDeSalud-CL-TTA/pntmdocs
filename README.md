@@ -1,3 +1,4 @@
+<html>
 <body>
 	<header>
 		<img src="https://minsal-pntm.github.io/pntmdocs/assets/img/LogoMinsalColor.svg" alt="Logo del Ministerio de Salud" height="300">
