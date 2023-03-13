@@ -28,7 +28,7 @@ Para reforzar lo anterior en este acto se crea una documentación online del "In
 
 # Objetivo
 
-La documentación online será una guía detallada para el uso de la Plataforma Nacional de Toma de Muestras, con el objetivo de facilitar el registro de la toma de muestras y resultados de los tests antígenos para el diagnóstico de COVID-19.  Además, la documentación incluirá información sobre el registro de muestras y resultados de pruebas PCR para el diagnóstico de la viruela símica o viruela del mono. 
+La documentación online será una guía detallada para el uso de la Plataforma Nacional de Toma de Muestras, con el objetivo de facilitar el registro de la toma de muestras y resultados de los tests de PCR y antígenos para el diagnóstico de COVID-19.  Además, la documentación incluirá información sobre el registro de muestras y resultados de pruebas PCR para el diagnóstico de Monkeypox. 
 
 Este recurso accesible en línea incluye información sobre cómo utilizar la plataforma, así como detalles sobre los procedimientos y procesos requeridos para registrar adecuadamente las muestras y resultados del test.
 
@@ -41,10 +41,10 @@ De esta manera, se podrá mejorar la capacidad de monitoreo y respuesta ante bro
 
 # ¿Quiénes deberán utilizar esta plataforma?
 
-Esta plataforma nacional de toma de muestras está destinada a dos grupos principales de profesionales de la salud. 
+Esta plataforma nacional de toma de muestras está destinada a dos grupos principales de profesionales de la salud.. 
 
 - **Profesionales y técnicos que desempeñan funciones de toma de muestra en los distintos centros y establecimientos de salud**. Esto están encargados de registrar los antecedentes de la toma de muestras. 
-- **Profesionales responsables de laboratorios clínicos y/o biología molecular de establecimientos donde se realicen exámenes diagnósticos de SARS-CoV-2 y Monkeypoxen el país.** Estos tendrán la responsabilidad de supervisar el correcto traspaso de información desde el Sistema Informático de Laboratorio (LIS) a esta plataforma ministerial. 
+- **Profesionales responsables de laboratorios clínicos y/o biología molecular de establecimientos donde se realicen exámenes diagnósticos de SARS-CoV-2 y Monkeypox el país.** Estos tendrán la responsabilidad de supervisar el correcto traspaso de información desde el Sistema Informático de Laboratorio (LIS) a esta plataforma ministerial. 
 
 Es importante mencionar que ambos grupos de profesionales tendrán accesos diferenciados en la plataforma, dependiendo de sus roles y funciones. Los profesionales tomadores de muestras cuentan con perfiles específicos para llevar a cabo su función de registro, correspondiendo a credenciales únicas e individualizadas para el registro de la información solicitada. Los laboratorios cuentan con perfiles específicos asignados al establecimiento, estos perfiles les permiten la revisión de datos de la muestra
 
