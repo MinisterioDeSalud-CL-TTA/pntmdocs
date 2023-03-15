@@ -5,9 +5,9 @@
 <img src="assets/img/LogoMinsalColor.svg" alt="Logo Minsal color" width="300">
 </p>
 
-La plataforma de toma de muestras es una iniciativa del Ministerio de Salud de Chile para supervisar y registrar adecuadamente las muestras tomadas para la detección del virus SARS CoV-2 y Monkeypox.
+La plataforma de toma de muestras es una iniciativa del Ministerio de Salud de Chile para supervisar y registrar adecuadamente las muestras tomadas para la detección del virus SARS-CoV-2 y Monkeypox.
 
-Tanto la red pública como la privada están obligadas a utilizar esta plataforma, ya que es una medida para proteger la salud de la población. Además, los laboratorios de análisis para SARS CoV-2 forman parte de los prestadores de salud en el país y, por lo tanto, están sujetos al cumplimiento de la legislación y regulaciones establecidas por el Ministerio de Salud.
+Tanto la red pública como la privada están obligadas a utilizar esta plataforma, ya que es una medida para proteger la salud de la población. Además, los laboratorios de análisis para SARS-CoV-2 forman parte de los prestadores de salud en el país y, por lo tanto, están sujetos al cumplimiento de la legislación y regulaciones establecidas por el Ministerio de Salud.
 
 En este contexto, esta documentación en línea tiene como objetivo proporcionar información detallada y actualizada sobre la plataforma, incluyendo sus requisitos, uso adecuado y cumplimiento de las regulaciones establecidas.
 

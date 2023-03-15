@@ -8,7 +8,6 @@ nav_order: 5
 
 # Asignación de resultados PCR via interfaz
 
-
 Para asignar el resultado de una muestra de forma manual e individual, se debe hacer doble clic en la ID de la muestra en cuestión.
 
 ![Proceso asignación de resultado](img/lab_res_1.png)

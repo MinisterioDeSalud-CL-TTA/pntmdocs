@@ -8,8 +8,6 @@ nav_order: 7
 
 # Carga Masiva de Resultados en la Plataforma
 
-## Carga Masiva de Resultados en la Plataforma
-
 Con el objetivo de apoyar la operatividad y eficacia del sistema, se ha dispuesto un banner llamado "Carga Masiva de Resultados" para aquellos laboratorios que no tienen la capacidad de generar integración informática con los Web Services dispuestos para ello. Esta carga masiva permite la carga automática de resultados por interconexión de sistemas.
 
 ### Acceder a la opción de carga masiva

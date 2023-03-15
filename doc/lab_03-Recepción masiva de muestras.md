@@ -8,8 +8,6 @@ nav_order: 3
 
 # Recepción masiva de muestras
 
-## Recepción masiva de muestras
-
 A continuación, se presenta el proceso de recepción masiva de muestras en la plataforma ministerial de registro nacional, que permite a los laboratorios clínicos y de biología molecular recibir y procesar muestras de manera eficiente.
 
 1. Ingresar a la plataforma ministerial de registro nacional con las credenciales del laboratorio clínico y/o biología molecular acreditado y autorizado para realizar el procesamiento de muestras para coronavirus.
