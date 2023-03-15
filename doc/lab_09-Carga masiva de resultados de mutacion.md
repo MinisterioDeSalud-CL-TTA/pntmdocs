@@ -6,13 +6,6 @@ grand_parent: Registro de muestras
 nav_order: 9
 ---
 
----
-layout: default
-title: Carga masiva de resultados de mutación
-parent: Registro de muestras - Laboratorio
-grand_parent: Registro de muestras
-nav_order: 9
----
 
 # Carga masiva de resultados de mutación
 
@@ -28,13 +21,13 @@ Para acceder a la carga masiva, debes seguir los siguientes pasos:
 
 ![Imagen de referencia: Cargas masivas](img/lab_carga_masiva_1.png)
 
-*Imagen de referencia: Cargas masivas*
+*Figura 1: Cargas masivas*
 
 El proceso de carga masiva de muestras y resultados se realiza a través de un archivo en formato Excel. A continuación, se detallan los pasos que se debe seguir para realizar la carga masiva.
 
 ![Botones para descargar la base o planilla y carga de excel](img/lab_carga_masiva_3.png)
 
-*Botones para descargar la base o planilla y carga de excel*
+*Figura 2: Botones para descargar la base o planilla y carga de excel*
 
 1. Descargue la plantilla de carga masiva de Resultados de mutación. La plantilla se encuentra en formato Excel y contiene todas las columnas necesarias para la carga.
 2. Complete las columnas de la plantilla con la información correspondiente. A continuación, se detallan las columnas que se deben completar, así como las restricciones para cada una de ellas.
