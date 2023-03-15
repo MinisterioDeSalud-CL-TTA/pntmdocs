@@ -6,25 +6,45 @@ grand_parent: Registro de muestras
 nav_order: 9
 ---
 
-# Carga masiva de resultados de mutacion
+---
+layout: default
+title: Carga masiva de resultados de mutación
+parent: Registro de muestras - Laboratorio
+grand_parent: Registro de muestras
+nav_order: 9
+---
 
-<h1>Carga masiva de resultados de mutacion</h1>
-<p>Para mejorar la eficacia y eficiencia del sistema de registro de muestras y resultados, se ha implementado un proceso para la carga masiva de "Resultados de mutacion" mediante una planilla Excel que se puede descargar y cargar en la plataforma. A continuación se detallan los pasos para realizar esta tarea de manera efectiva.</p>
-<h2>Acceder a la opcion de carga masiva</h2>
-<p>Para acceder a la carga masiva, debes seguir los siguientes pasos:
-1.  Ingresa a tu perfil de laboratorio.
-2.  Busca la opción "Carga masiva" en el menú y haz clic en ella.
-3.  Selecciona la sección "Muestras y resultados" en la pantalla de carga masiva.</p>
-<p><img alt="Alt text" src="img/lab_carga_masiva_1.png" /></p>
-<p><em>Imagen de referencia: Cargas masivas</em></p>
-<p>El proceso de carga masiva de muestras y resultados se realiza a través de un archivo en formato Excel. A continuación, se detallan los pasos que se debe seguir para realizar la carga masiva.</p>
-<p><img alt="Alt text" src="img/lab_carga_masiva_3.png" />
-<em>Botones para descargar la base o planilla y carga de excel</em></p>
-<ol>
-<li>Descargue la plantilla de carga masiva de Resultados de mutacion. La plantilla se encuentra en formato Excel y contiene todas las columnas necesarias para la carga.</li>
-<li>Complete las columnas de la plantilla con la información correspondiente. A continuación, se detallan las columnas que se deben completar, así como las restricciones para cada una de ellas.</li>
-</ol>
-<p>| Columna                    | Tipo de dato | Descripción                                                 | Restricciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+# Carga masiva de resultados de mutación
+
+Para mejorar la eficacia y eficiencia del sistema de registro de muestras y resultados, se ha implementado un proceso para la carga masiva de "Resultados de mutación" mediante una planilla Excel que se puede descargar y cargar en la plataforma. A continuación se detallan los pasos para realizar esta tarea de manera efectiva.
+
+## Acceder a la opción de carga masiva
+
+Para acceder a la carga masiva, debes seguir los siguientes pasos:
+
+1. Ingresa a tu perfil de laboratorio.
+2. Busca la opción "Carga masiva" en el menú y haz clic en ella.
+3. Selecciona la sección "Resultados de mutación" en el submenú de carga masiva.
+
+![Imagen de referencia: Cargas masivas](img/lab_carga_masiva_1.png)
+
+*Imagen de referencia: Cargas masivas*
+
+El proceso de carga masiva de muestras y resultados se realiza a través de un archivo en formato Excel. A continuación, se detallan los pasos que se debe seguir para realizar la carga masiva.
+
+![Botones para descargar la base o planilla y carga de excel](img/lab_carga_masiva_3.png)
+
+*Botones para descargar la base o planilla y carga de excel*
+
+1. Descargue la plantilla de carga masiva de Resultados de mutación. La plantilla se encuentra en formato Excel y contiene todas las columnas necesarias para la carga.
+2. Complete las columnas de la plantilla con la información correspondiente. A continuación, se detallan las columnas que se deben completar, así como las restricciones para cada una de ellas.
+3. Se debe seleccionar el archivo a cargar y hacer clic en "Cargar".
+
+
+
+### Estructura del archivo a cargar
+
+| Columna                    | Tipo de dato | Descripción                                                 | Restricciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |----------------------------|--------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | id_muestra*                | Numero       | ID MINSAL                                                   | Obligatorio Debe existir en el sistema No puede estar en blanco                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | fecha_ejecucion_mutaciones | Fecha        | Fecha Ejecución PCR mutaciones                              | Opcional No puede estar en blanco No puede ser mayor a 30 días                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -50,7 +70,4 @@ nav_order: 9
 | e484a                      | Varchar      | Sonda E484A                                                 | Obligatorio No puede estar en blanco Debe ser: ALELO MUT, ALELO WT, NO AMPLIFICA ó NO ANALIZADO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | interpretacion             | Varchar      | Interpretación                                              | Obligatorio No puede estar en blanco Debe ser: DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE ALPHA,DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE BETA, DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE DELTA,DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE EPSILON, DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE ETA,DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE GAMMA, DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE IOTA,DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE KAPPA, DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE LAMBDA,DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE ZETA, DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE MU,INDETERMINADO,INDETERMINADO S, NO SE DETECTAN MUTACIONES PARA VARIANTES DE INTERÉS POR PARTE DE ESTE KIT DETECCIÓN DE MUTACIONES SOSPECHA VARIANTE ÓMICRON DETECCIÓN DE MUTACIONES ASOCIADAS A VARIANTE ÓMICRON SUBLINAJE BA.4 O BA.5 |
 | derivar_isp                | Boolean      | ¿Derivar para secuenciamiento a ISP? Valores: 0 = No 1 = Si | No es obligatorio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| observacion_mutacion       | Varchar      | Observación                                                 | No es obligatorio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |</p>
-<ol>
-<li>Se debe seleccionar el archivo a cargar y hacer clic en "Cargar".</li>
-</ol>
+| observacion_mutacion       | Varchar      | Observación                                                 | No es obligatorio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

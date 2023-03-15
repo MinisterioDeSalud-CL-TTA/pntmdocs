@@ -1,20 +1,23 @@
 ---
 layout: default
-title: Modificación de Resultado
+title: Asignación de resultados PCR via interfaz
 parent: Registro de muestras - Laboratorio 
 grand_parent: Registro de muestras
-nav_order: 6
+nav_order: 5
 ---
 
-# Modificación de Resultado
+# Asignación de resultados PCR via interfaz
 
-<h1>Modificación de Resultado</h1>
-<p>Si durante el proceso de análisis, se presenta una situación de "mala digitación o registro" del resultado, se podrá realizar una Modificación de Resultado siguiendo los siguientes pasos:</p>
-<ol>
-<li>Ir al apartado "Finalizados" en el menú "PCR", donde aparecerán todas las muestras con sus respectivos resultados.</li>
-<li>Buscar la muestra que se desea modificar, lo cual se puede hacer en la parte superior mediante el ID del paciente (RUN) o ID de la muestra.</li>
-<li>Al encontrar la muestra deseada, hacer clic en ella y luego seleccionar "Modificar Resultado". Realizar la modificación y guardar los cambios, luego actualizar la página.</li>
-</ol>
-<p>Es importante tener en cuenta que la modificación de resultados debe realizarse de manera cuidadosa y responsable, para evitar errores derivados del operador y garantizar la calidad de los resultados informados a la autoridad sanitaria y ministerial.</p>
-<p><img alt="Alt text" src="img/lab_mod_res.png" />
-<em>Proceso de modificación de resultado de muestra</em></p>
+Para asignar el resultado de una muestra de forma manual e individual, se debe hacer doble clic en la ID de la muestra en cuestión.
+
+![Proceso asignación de resultado](img/lab_res_1.png)
+*Figura 1: Proceso de asignación de resultado*
+
+Es fundamental destacar que la generación del informe de resultados es un punto crítico en los procesos analíticos del laboratorio, por lo que cada profesional responsable debe implementar el mecanismo adecuado para evitar errores humanos, sobrecarga de trabajo y problemas de transcripción o transferencia de datos a esta plataforma.
+
+El director técnico del laboratorio deberá validar los resultados diariamente antes de informarlos a las autoridades sanitarias y ministeriales. Para cargar el informe de resultados, estos deben estar disponibles en formato PDF y cumplir con todos los requisitos establecidos en el Decreto N°20 del Ministerio de Salud, emitido el 28 de abril de 2012, que aprueba el Reglamento de Laboratorios Clínicos.
+
+Para cargar el archivo del informe, se debe hacer clic en "Adjuntar Archivo" y luego en "Finalizar".
+
+![Proceso de carga del PDF de la asignación de resultado](img/lab_res_2.png)
+*Figura 2: Proceso de carga del PDF de la asignación de resultado*
