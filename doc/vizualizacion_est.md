@@ -2,7 +2,6 @@
 layout: default
 title: Establecimientos
 parent: Vizualización de muestras biologicas
-has_children: true
 nav_order: 1
 ---
 
