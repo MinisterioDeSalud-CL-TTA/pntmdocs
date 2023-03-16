@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vizualización Establecimientos
+title: Vizualización Comunas
 parent: Vizualización de muestras biologicas
 nav_order: 1
 has_children: true
@@ -14,7 +14,7 @@ has_children: true
 1. TOC
 {:toc}
 
-#  Visualización de Muestras del Perfil Establecimiento
+#  Visualización de Muestras del Perfil Comuna
 
 ## Visualización de Antígenos
 - El alcance de la información se restringe a las muestras que el profesional registró.
@@ -23,7 +23,7 @@ has_children: true
 - Tiene acceso para descargar reportes de los últimos 120 días.
 
 ## Visualización de PCR
-- El alcance de la información se restringe a las muestras asociadas al establecimiento.
+- El alcance de la información se restringe a las muestras asociadas al Comuna.
 - El usuario tiene acceso para visualizar las muestras registradas de los últimos 14 días.
 - No tiene permiso para modificar las muestras.
 - Tiene acceso para descargar reportes de los últimos 120 días.
@@ -32,7 +32,7 @@ has_children: true
 
 ## Visualización de Muestras PCR en proceso
 
-1. Ingresar al sistema con el perfil de Establecimiento.
+1. Ingresar al sistema con el perfil de Comuna.
 2. Navegar hasta la seccion **PCR**
 
 los usuarios pueden visualizar el estado de las muestras que se encuentran en proceso o finalizadas en cada una de estas técnicas analíticas.
@@ -43,11 +43,11 @@ _Secciones **En proceso**, **Finalizados** y **Análisis de mutación**_
 
 Las muestras **en proceso** son aquellas que se encuentran en la etapa analítica en el laboratorio al que fueron derivadas y aún no han sido informadas. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER. Si la muestra no aparece en esta pantalla, es posible que ya se encuentre en la sección de **Finalizadas**.
 
-Si se tiene conocimiento de que el resultado está listo pero no se ha ingresado, se debe informar al Servicio de Salud para que el laboratorio regularice la situación. Esto asegura que la información esté actualizada y disponible para el establecimiento y los profesionales pertinentes, permitiendo una atención adecuada y oportuna a los pacientes.
+Si se tiene conocimiento de que el resultado está listo pero no se ha ingresado, se debe informar al Servicio de Salud para que el laboratorio regularice la situación. Esto asegura que la información esté actualizada y disponible para el Comuna y los profesionales pertinentes, permitiendo una atención adecuada y oportuna a los pacientes.
 
 ## Visualización de Muestras PCR finalizadas
 
-Las muestras **finalizadas** son los resultados de las muestras que ya han sido informadas y tienen un resultado disponible. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER. Si no se encuentra la muestra en **Finalizadas** o **En proceso**, es probable que la muestra no haya sido ingresada en el perfil del establecimiento correspondiente.
+Las muestras **finalizadas** son los resultados de las muestras que ya han sido informadas y tienen un resultado disponible. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER. Si no se encuentra la muestra en **Finalizadas** o **En proceso**, es probable que la muestra no haya sido ingresada en el perfil del Comuna correspondiente.
 
 ## Visualización de Muestras PCR analisis de mutación
 
@@ -57,7 +57,7 @@ Además, hay una sección de **Análisis de mutación**, donde los usuarios pued
 
 ## Visualización de Muestras finalizadas de Antigenos
 
-1. Ingresar al sistema con el perfil de Establecimiento.
+1. Ingresar al sistema con el perfil de Comuna.
 2. Navegar hasta la seccion **Antígenos**
 3. Hacer click en **Muestras finalizadas**
 
@@ -68,7 +68,7 @@ Las **muestras finalizadas** son los resultados de las muestras que ya han sido 
 
 ## Visualización de Muestras Autorizadas para editar de Antigenos
 
-1. Ingresar al sistema con el perfil de Establecimiento.
+1. Ingresar al sistema con el perfil de Comuna.
 2. Navegar hasta la seccion **Antígenos**
 3. Hacer click en **Autorizadas para editar**
 
