@@ -46,6 +46,7 @@ De esta manera, se podrá mejorar la capacidad de monitoreo y respuesta ante bro
 La Plataforma Nacional de Toma de Muestras está dirigida a dos grupos principales de profesionales de la salud:
 
 **Profesionales y técnicos encargados de la toma de muestras en diversos centros y establecimientos de salud**. Estos profesionales son responsables de registrar los antecedentes de la toma de muestras.
+
 **Profesionales responsables de laboratorios clínicos y/o de biología molecular en establecimientos donde se realicen exámenes diagnósticos de SARS-CoV-2 y Monkeypox en el país**. Estos profesionales tendrán la responsabilidad de supervisar la correcta transferencia de información desde el Sistema Informático de Laboratorio (LIS) hacia la plataforma ministerial.
 
 Es importante mencionar que ambos grupos de profesionales contarán con accesos diferenciados en la plataforma, en función de sus roles y responsabilidades. Los profesionales encargados de la toma de muestras dispondrán de perfiles específicos para llevar a cabo su función de registro, utilizando credenciales únicas e individualizadas para el ingreso de la información solicitada. Los laboratorios contarán con perfiles específicos asignados al establecimiento, lo que les permitirá revisar los datos de las muestras.

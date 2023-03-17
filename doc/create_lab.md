@@ -7,11 +7,13 @@ nav_order: 2
 
 # Solicitud de Creación de Laboratorios qRT-PCR para SARS-CoV-2 en PNTM
 
-Es importante registrar en PNTM la fase analítica y el resultado obtenido a través de técnicas de biología molecular. Por esta razón, todo laboratorio que cuente con Resolución Sanitaria emitida por SEREMI de Salud y con el Certificado de Capacidad Diagnóstica correspondiente para realizar técnicas de Biología Molecular por la técnica PCR, otorgado por el ISP, debe estar habilitado para registrar sus resultados en el sistema.
+Todo laboratorio que cuente con Resolución Sanitaria emitida por SEREMI de Salud y con el Certificado de Capacidad Diagnóstica correspondiente para realizar técnicas de Biología Molecular por la técnica PCR, otorgado por el ISP, debe estar habilitado para registrar sus resultados en el sistema.
 
 Para habilitar el registro de resultados, los laboratorios deben seguir los siguientes pasos:
 
-a) Solicitud por correo electrónico al Referente Macroregional de Testeo del MINSAL correspondiente, para la creación del Laboratorio en PNTM. Para ello, se debe completar el siguiente formulario con los datos mínimos requeridos:
+1. Solicitud por correo electrónico al Referente Macroregional de Testeo del MINSAL correspondiente. Para ello, se debe completar el siguiente formulario:
+
+**Formulario de Datos Mínimos Requeridos**
 
 | Campo                                             | Descripción                                                                                                                                       |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,4 +32,4 @@ a) Solicitud por correo electrónico al Referente Macroregional de Testeo del MI
 
 Toda la información requerida en el formulario será validada por el Referente Territorial de Testeo del MINSAL. Para evitar retrasos en el proceso, es importante que el formulario esté completo y que contenga toda la información necesaria.
 
-b) Una vez enviada la información requerida, la creación del laboratorio en PNTM se realizará en un plazo de 24 horas, desde la validación del referente de Testeo- MINSAL. La respuesta será enviada por correo electrónico al profesional responsable de la solicitud, indicado en el formulario, por parte de la Mesa de Ayuda PNTM.
+2. Una vez enviada la información requerida, la creación del laboratorio en PNTM se realizará en un plazo de 24 horas, desde la validación del referente de Testeo-MINSAL. La respuesta será enviada por correo electrónico al profesional responsable de la solicitud, indicado en el formulario, por parte de la Mesa de Ayuda PNTM.

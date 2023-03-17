@@ -7,15 +7,13 @@ nav_order: 2
 
 # Solicitud de Creación de Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en PNTM
 
-Los establecimientos tomadores de muestras para PCR o designados por Seremi de Salud para la toma de Test de Antígeno deben registrar en PNTM el 100% de las muestras tomadas y, en el caso de Test Antígeno, el resultado una vez conocido.
+Los establecimientos tomadores de muestras para PCR o designados por la SEREMI de Salud para la toma de Test de Antígeno deben registrar en la plataforma naciona de toma de muestras (PNTM), las muestras tomadas y, en el caso de Test Antígeno, el resultado una vez conocido.
 
 ## Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR
 
 Para la creación de una unidad tomadora de muestras en PNTM, se debe seguir el siguiente proceso:
 
-1.  Solicitud a Referente Macroregional correspondiente de Testeo - MINSAL, vía correo electrónico, para la creación del establecimiento en PNTM.
-2.  Completar el formulario de datos mínimos requeridos para la creación de Establecimiento/UTM que se presenta a continuación.
-3.  Toda la información requerida debe estar contenida en el formulario para evitar atrasos en el proceso.
+1. Solicitud por correo electrónico al Referente Macroregional de Testeo del MINSAL correspondiente. Para ello, se debe completar el siguiente formulario:
 
 **Formulario de Datos Mínimos Requeridos**
 
@@ -33,19 +31,18 @@ Para la creación de una unidad tomadora de muestras en PNTM, se debe seguir el 
 | Correo electrónico                                                      | Correo electrónico del encargado de la solicitud de creación para informar la posterior creación efectiva.                     |
 | Celular Institucional o Anexo MINSAL                                    | Teléfono de contacto para abordar dudas o datos faltantes.                                                                     |
 
-Toda la información requerida debe ser incluida en el formulario mencionado para evitar retrasos en el proceso de creación del establecimiento/UTM. Una vez enviada la información, el equipo de MINSAL validará la solicitud y creará el establecimiento/UTM en un plazo de 24 horas. La respuesta será enviada al correo electrónico del profesional responsable de la solicitud indicado en el formulario, por parte de la Mesa de Ayuda PNTM.
+Toda la información requerida en el formulario será validada por el Referente Territorial de Testeo del MINSAL. Para evitar retrasos en el proceso, es importante que el formulario esté completo y que contenga toda la información necesaria.
+
+2. Una vez enviada la información requerida, la creación del laboratorio en PNTM se realizará en un plazo de 24 horas, desde la validación del referente de Testeo-MINSAL. La respuesta será enviada por correo electrónico al profesional responsable de la solicitud, indicado en el formulario, por parte de la Mesa de Ayuda PNTM.
 
 ## Establecimientos Tomadores de Test de Antígeno
 
 Para la creación de una unidad tomadora de Test de Antígeno en PNTM, se debe seguir el siguiente proceso:
 
-1.  Solicitud a Referente Macroregional correspondiente de Testeo - MINSAL, vía correo electrónico, para la creación del establecimiento en PNTM.
-2.  Completar el formulario de datos mínimos requeridos para la creación de Establecimiento/UTM que se presenta a continuación.
-3.  Toda la información requerida debe estar contenida en el formulario para evitar atrasos en el proceso.
-
-Una vez recibida la información, el Referente Territorial de Testeo - MINSAL la validará y se creará el establecimiento/UTM de toma de Test de Antígeno en un plazo de 24 horas. La respuesta será informada al correo electrónico del (la) profesional responsable de la solicitud, que debe ser indicado en el formulario.
+1. Solicitud por correo electrónico al Referente Macroregional de Testeo del MINSAL correspondiente. Para ello, se debe completar el siguiente formulario:
 
 **Formulario de Datos Mínimos Requeridos**
+
 
 | Dato requerido                                             | Descripción                                                                                                                      |
 |------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -61,5 +58,6 @@ Una vez recibida la información, el Referente Territorial de Testeo - MINSAL la
 | Correo electrónico                                         | Correo electrónico del encargado de la solicitud de creación, para informar la posterior creación efectiva.                      |
 | Celular Institucional o Anexo MINSAL                       | Teléfono de contacto para abordar dudas o datos faltantes.                                                                       |
 
-Toda la información requerida debe ser incluida en el formulario mencionado para evitar retrasos en el proceso de creación del establecimiento/UTM. Una vez enviada la información, el equipo de MINSAL validará la solicitud y creará el establecimiento/UTM en un plazo de 24 horas. La respuesta será enviada al correo electrónico del profesional responsable de la solicitud indicado en el formulario, por parte de la Mesa de Ayuda PNTM.
+Toda la información requerida en el formulario será validada por el Referente Territorial de Testeo del MINSAL. Para evitar retrasos en el proceso, es importante que el formulario esté completo y que contenga toda la información necesaria.
 
+2. Una vez enviada la información requerida, la creación del laboratorio en PNTM se realizará en un plazo de 24 horas, desde la validación del referente de Testeo-MINSAL. La respuesta será enviada por correo electrónico al profesional responsable de la solicitud, indicado en el formulario, por parte de la Mesa de Ayuda PNTM.
