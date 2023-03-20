@@ -2,7 +2,7 @@
 layout: default
 title: Integración Sistema Informático
 has_children: false
-nav_order: 6
+nav_order: 7
 ---
 
 # Documentación API Laboratorios
