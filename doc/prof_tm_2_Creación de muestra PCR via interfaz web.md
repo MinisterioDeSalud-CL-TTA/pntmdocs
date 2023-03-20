@@ -59,7 +59,29 @@ El botón __Obtener datos del paciente__ permite que el sistema autocomplete la 
 
 _Figura 5: Datos de muestra_
 
-__Muestra__: Seleccionar la fecha y hora de la toma de muestra, así como el tipo de muestra obtenida y el laboratorio de destino. Operativos BAC, seleccionar "SI" si la muestra se tomó en un operativo BAC y "NO" si se tomó en un centro asistencial regular.
+__Muestra__: Seleccionar la fecha y hora de la toma de muestra, así como el tipo de muestra obtenida y el laboratorio de destino. 
+
+__Operativos BAC__: Seleccionar "SI" si la muestra se tomó en un operativo BAC y "NO" si se tomó en un centro asistencial regular.
+
+__Estrategia Asociada__: Si se selecciona en __Operativos BAC__ la opción "SI", se debe seleccionar la subestrategia correspondiente:
+- BAC Punto de entrada
+- BAC Brote
+
+__Estrategia BAC: Punto de entrada__
+![Estrategia Asosiada BAC Punto de entrada](img/20230320152850.png)
+
+__Estrategia BAC: Brote__: La estrategia BAC Brote tiene como opción la seleccion de una subestrategia las cuales son:
+- BAC Escolar
+- BAC ELEAM
+- BAC Mejor Niñes/SENAME
+- BAC Centros penitenciarios
+- BAC Laboral OAL/AD/Centros de Salud
+- BAC Centro de dialisis
+- BAC Entorno prioritario
+- BAC Otros hogares
+- BAC Recintos FFAA
+- BAC Viviendas colectivas y campamentos
+- BAC Comunitarios (gran magnitud y/o importancia mediática)
 
 __Información laboratorio__: Seleccionar el laboratorio de destino al que se enviará la muestra. Este laboratorio de destino es establecido previamente por cada Servicio de Salud, y debe ser conocido por cada dirección de Centro Asistencial y sus funcionarios.
 
