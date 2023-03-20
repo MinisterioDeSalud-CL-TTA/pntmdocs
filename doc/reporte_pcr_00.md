@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Reportes - PCR
-nav_order: 6
+nav_order: 1
 parent: Reportes
 has_children: true
 has_toc: true
 ---
+
+# Reportes PCR - Laboratorios
+
 
 La siguiente tabla proporciona información sobre los distintos reportes que se pueden generar en la Plataforma Nacional de Toma de Muestra (PNTM) y los campos asociados a cada uno de ellos. Los reportes se generan a partir de los datos recopilados en la PNTM y permiten obtener información relevante sobre las muestras de prueba procesadas y sus respectivos resultados.
 
@@ -21,4 +24,16 @@ Cada reporte se puede generar para un rango de fechas específico y se enfoca en
 
 Cada reporte incluye diferentes campos de información, como la fecha de toma de muestra, la fecha de resultado, la fecha reportada por el laboratorio, entre otros, lo que permite obtener una visión detallada de las muestras procesadas y sus resultados. 
 
+# Reportes PCR - Profesionales tomadores de muestras
 
+Los profesionales tomadores de muestra tienen acceso a los reportes:
+- Reportes (Goblal de solicituds)
+- Reporte Ministerial
+
+![](img/20230320122347.png)
+
+# Reportes PCR - Establecimientos
+Los Establecimientos tienen acceso a los reportes:
+- Reportes (Goblal de solicituds)
+- Reporte Ministerial
+![](img/20230320122647.png)

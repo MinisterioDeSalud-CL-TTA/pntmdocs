@@ -10,17 +10,16 @@ has_toc: true
 
 # Reporte RT - Descarga detalle 7 días
 
-Este reporte presenta información relevante sobre el procesamiento y resultados de muestras en el laboratorio en los últimos 7 días, permitiendo una mejor gestión y monitoreo de la capacidad y efectividad del laboratorio en la detección del virus.
+Este reporte presenta información relevante sobre el procesamiento y resultados de muestras en el laboratorio en los últimos 7 días.
 
-
-Para generar el Reporte RT - Descarga detalle 7 días, sigue estas instrucciones:
+Para generar el Reporte RT detalle de los ultimos 7 días, sigue estos pasos:
 
 - Ingresa a la interfaz de usuario del sistema.
 - Haz clic en la opción de "Reportes".
 - Selecciona el submenú de "Reporte RT".
 - Selecciona la opción de "Descarga Detalle 7 días".
 - Se te pedirá que especifiques una fechas para el reporte.
-- Si no asignas ninguna fecha, el sistema tomará por defecto el día y la hora actual.
+- Si no asignas ninguna fecha, el sistema tomará por defecto el día actual.
 - Una vez que ingreses las fechas requeridas, el Reporte de Resultados Acumulados RT se generará automáticamente y se descargará en formato excel
 
 ![Alt text](img/Reporte-ReporteRT.jpg)
@@ -51,5 +50,3 @@ A continuación se describen los campos que se incluyen en el reporte:
 | muestras_positivas_dia_trib          | Muestras procesadas con resultado positivo el día de la fecha de resultado informado en RT, considerando información del LIS del laboratorio. |
 | muestras_acumuladas_trib             | Muestras acumul
 
-
-Este reporte permite una mejor comprensión y seguimiento del trabajo del laboratorio en los últimos 7 días.
