@@ -60,12 +60,6 @@ _Fecha: 13-04-2022_
 Instructivo para crear UTM, Laboratorios y flujo del proceso
 
 
-## [Instructivo PNTM Test Antigeno2](ord/20220502%20-%20InstructivoPNTM_TestAntigeno2_pmr%2022032021_V_%20actualiza_280422_pmr13052022_MSA090522_PV_pmr18022022%20(1).pdf)
-_Fecha: 22-05-2022_
-
-Instructivo para ingresar antígenos
-
-
 ## [Ordinario 582](ord/20220509%20-%20RESOLUCION%20EXENTA%20582_22_SP%20INSTRUCTIVO%20TOMA%20MUESTRAS.pdf)
 
 _Fecha: 09-05-2022_
