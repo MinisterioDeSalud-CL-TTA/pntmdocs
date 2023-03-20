@@ -3,7 +3,7 @@ layout: default
 title: Reporte RT - Descarga detalle 7 días
 nav_order: 8
 grand_parent: Reportes
-parent: Reportes - Laboratorio
+parent: Reportes - RT
 has_children: false
 has_toc: true
 ---

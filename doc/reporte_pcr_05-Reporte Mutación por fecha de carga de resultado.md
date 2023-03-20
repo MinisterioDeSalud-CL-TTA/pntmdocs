@@ -3,13 +3,15 @@ layout: default
 title: Reporte Mutación por fecha de carga de resultado
 nav_order: 5
 grand_parent: Reportes
-parent: Reportes - SEREMI, Servicio de salud y perfil visualizador
+parent: Reportes - PCR
 has_children: false
 has_toc: true
 ---
 # Reporte Mutación por fecha de carga de resultado
 
 El Reporte Mutación por fecha de carga de resultado es un informe generado por la Plataforma Nacional de Toma de Muestra (PNTM) que proporciona información detallada sobre las muestras de prueba que tienen resultados de mutación. Este informe se enfoca en las muestras en estado 8, es decir, aquellas que tienen resultados de mutación.
+
+## Acceso al Reporte Mutación por fecha de carga de resultado
 
 Para generar el Reporte Mutación por fecha de carga de resultado, sigue estas instrucciones:
 
@@ -22,9 +24,5 @@ Para generar el Reporte Mutación por fecha de carga de resultado, sigue estas i
 - Si el periodo de tiempo que seleccionas es mayor a 7 días (fecha desde y fecha hasta), el sistema no descargará datos.
 - Una vez que ingreses las fechas requeridas, el Reporte Mutación por fecha de carga de resultado se generará automáticamente y se descargará en formato excel
 
-
 ![Alt text](img/Reporte-PCR.jpg)
-
-_Reporte Mutación por fecha de carga de resultado_
-
-El Reporte Mutación por fecha de carga de resultado permite obtener información detallada sobre las muestras de prueba que tienen resultados de mutación, lo que puede ser útil para el monitoreo de la propagación de variantes del virus.
+_Figura 1: Reporte Mutación por fecha de carga de resultado_
