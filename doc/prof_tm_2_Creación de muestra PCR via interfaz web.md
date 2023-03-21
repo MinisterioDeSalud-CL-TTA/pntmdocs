@@ -68,15 +68,15 @@ __Estrategia Asociada__: Si se selecciona en __Operativos BAC__ la opción "SI",
 - BAC Brote
 
 __Estrategia BAC: Punto de entrada__
-![Estrategia Asosiada BAC Punto de entrada](img/20230320152850.png)
+![Estrategia Asociada BAC Punto de entrada](img/20230320152850.png)
 
-__Estrategia BAC: Brote__: La estrategia BAC Brote tiene como opción la seleccion de una subestrategia las cuales son:
+__Estrategia BAC: Brote__: La estrategia BAC Brote tiene como opción la selección de una sub estrategia las cuales son:
 - BAC Escolar
 - BAC ELEAM
-- BAC Mejor Niñes/SENAME
+- BAC Mejor Niñez/SENAME
 - BAC Centros penitenciarios
 - BAC Laboral OAL/AD/Centros de Salud
-- BAC Centro de dialisis
+- BAC Centro de diálisis
 - BAC Entorno prioritario
 - BAC Otros hogares
 - BAC Recintos FFAA
