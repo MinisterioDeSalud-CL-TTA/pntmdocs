@@ -6,21 +6,11 @@ nav_order: 3
 ---
 
 # Creación de usuario
-{: .no_toc }
 
-## Tabla de contenido
-{: .no_toc .text-delta }
-1. TOC
-{:toc}
-
-# Flujo de proceso para la creación de usuarios por parte del MINSAL
-
-El proceso de creación de usuarios se realiza de la siguiente manera:
-
-1.  Recepción de la solicitud de creación
-2.  Canalización de la solicitud con el referente territorial de testeo asignado según la macrozona correspondiente
-3.  Validación de los datos mínimos requeridos para la creación del establecimiento o laboratorio
-4.  Información vía correo electrónico al solicitante por el referente de testeo correspondiente en caso de faltar datos o si la solicitud es impertinente
-5.  Aprobación de la solicitud si cumple con todos los requisitos
-6.  Envío de la solicitud a la mesa de ayuda, la cual tiene un plazo de 24 horas para crear la solicitud correspondiente
-7.  Información vía correo electrónico al solicitante, con copia al referente de testeo correspondiente, sobre la inclusión del establecimiento o laboratorio
+La Plataforma Nacional de Toma de Muestras (PNTM) es un sistema integral que permite el registro y seguimiento de las pruebas de detección de SARS-CoV-2, garantizando la calidad, confidencialidad e integridad de los datos. Para asegurar un acceso a la plataforma, se han establecido diferentes perfiles de usuarios con funciones y permisos específicos. En este documento, se describen los procedimientos para la creación de perfiles de:
+- Profesionales Tomadores de Muestra
+- Laboratorios qRT-PCR
+- Establecimientos o Unidades Tomadoras de Muestras (UTM) para qRT-PCR y Antígeno en la PNTM.
+- SEREMI
+- Servicios de Salud (SS)
+- Comunas

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: seremi ag
-parent: visualización seremi
-grand_parent: Vizualización de muestras biologicas
+title: SEREMI AG
+parent: Visualización SEREMI
+grand_parent: Visualización de muestras biológicas
 nav_order: 1
 ---
 
@@ -14,9 +14,9 @@ nav_order: 1
 1. TOC
 {:toc}
 
-# Visualización de Muestras de Antigenos
+# Visualización de Muestras de Antígenos
 
-## Visualización de Muestras de Antigenos finalizadas 
+## Visualización de Muestras de Antígenos finalizadas 
 
 1. Ingresar al sistema con el perfil de SEREMI.
 2. Navegar hasta la sección **Antígenos**.
@@ -26,7 +26,7 @@ nav_order: 1
 
 Las **muestras finalizadas** son los resultados de las muestras que ya han sido informadas y tienen un resultado disponible. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER.
 
-## Visualización de Muestras de Antigenos autorizadas para editar 
+## Visualización de Muestras de Antígenos autorizadas para editar 
 
 1. Ingresar al sistema con el perfil de SEREMI.
 2. Navegar hasta la sección **Antígenos**.

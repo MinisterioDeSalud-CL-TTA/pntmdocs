@@ -6,6 +6,7 @@ has_children: true
 has_toc: true
 nav_order: 1
 ---
+# Profesional Tomador de Muestras: Registro de muestras
 
- La siguiente documentacion esta enfocada para los Profesionales Tomadores de Muestras en el manejo del Registro de Muestras dentro de la plataforma de toma de muestras. Con el objetivo de proporcionar instrucciones sobre cómo utilizar las  funcionalidades y herramientas que ofrece la plataforma, facilitando así la recolección, registro y seguimiento de muestras de PCR y antígenos.
+La siguiente documentacion esta enfocada para los Profesionales Tomadores de Muestras en el manejo del Registro de Muestras dentro de la plataforma de toma de muestras. Con el objetivo de proporcionar instrucciones sobre cómo utilizar las  funcionalidades y herramientas que ofrece la plataforma, facilitando así la recolección, registro y seguimiento de muestras de PCR y antígenos.
     

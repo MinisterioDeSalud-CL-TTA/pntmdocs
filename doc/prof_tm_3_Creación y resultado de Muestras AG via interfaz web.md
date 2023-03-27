@@ -24,7 +24,7 @@ _Figura 1: creación de muestras de Antígeno en la plataforma toma de muestras_
 
 _Figura 2: botón "Crear registro"_
 
-Después de hacer clic en el botón "Crear registro", se creará un id de muestra, el cual si se hace click se abrirá un formulario donde se debe rellenar los campos solicitados con la información correspondiente de cada muestra que deseas crear.
+Después de hacer clic en el botón "Crear registro", se creará un id de muestra, el cual si se hace click se abrirá un formulario donde se debe rellenar los campos solicitados con la información correspondiente de cada muestra que se desea crear.
 
 ## Campos del formulario: Creación de muestra
 
@@ -131,4 +131,4 @@ Se recomienda verificar los datos luego de haber realizado la lectura e interpre
 
 Una vez finalizado, deberán subir en la plataforma y pinchar __“INFORME DE RESULTADO PARA TEST ANTIGENO”__ para descargar informe. 
 
-Una vez pinchado se desplegará informe para que pueda ser impreso y firmado a mano alzada por profesional responsable del análisis de la muestra.
+Una vez pinchado se desplegará informe para que pueda ser impreso y firmado por profesional responsable del análisis de la muestra.

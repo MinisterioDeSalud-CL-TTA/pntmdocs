@@ -26,7 +26,7 @@ El registro mediante API corresponde a toda muestra que es ingresada mediante el
 
 ![Alt text](diagrams/diagram_plataformas_locales.jpg)
 
-# Ingreso vía interfaz web 
+# Registro de muestras vía interfaz web 
 
 El registro mediante interfaz corresponde a toda muestra que es ingresada directamente desde [tomademuestras.minsal.cl](https://tomademuestras.minsal.cl/), dentro del registro de interfaz existen tres hitos de registro importantes, los que corresponden a Creación de muestras, Recepción de muestras y Entrega de resultados.
 

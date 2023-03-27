@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Servicios de salud ag
-parent: visualización Servicios de salud
-grand_parent: Vizualización de muestras biologicas
+title: Servicio de Salud AG
+parent: Visualización Servicio de Salud
+grand_parent: Visualización de muestras biológicas
 nav_order: 1
 ---
 
@@ -14,11 +14,11 @@ nav_order: 1
 1. TOC
 {:toc}
 
-# Visualización de Muestras de Antigenos
+# Visualización de Muestras de Antígenos
 
-## Visualización de Muestras de Antigenos finalizadas 
+## Visualización de Muestras de Antígenos finalizadas 
 
-1. Ingresar al sistema con el perfil de Servicios de salud.
+1. Ingresar al sistema con el perfil de Servicio de Salud.
 2. Navegar hasta la sección **Antígenos**.
 3. Hacer clic en **Muestras finalizadas**.
 
@@ -26,9 +26,9 @@ nav_order: 1
 
 Las **muestras finalizadas** son los resultados de las muestras que ya han sido informadas y tienen un resultado disponible. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER.
 
-## Visualización de Muestras de Antigenos autorizadas para editar 
+## Visualización de Muestras de Antígenos autorizadas para editar 
 
-1. Ingresar al sistema con el perfil de Servicios de salud.
+1. Ingresar al sistema con el perfil de Servicio de Salud.
 2. Navegar hasta la sección **Antígenos**.
 3. Hacer clic en **Autorizadas para editar**.
 

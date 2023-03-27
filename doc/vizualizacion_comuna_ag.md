@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Comunas ag
-parent: Vizualización Comunas
-grand_parent: Vizualización de muestras biologicas
+parent: Visualización Comunas
+grand_parent: Visualización de muestras biológicas
 nav_order: 1
 ---
 
@@ -14,24 +14,12 @@ nav_order: 1
 1. TOC
 {:toc}
 
-# Visualización de Muestras de Antigenos
-
-## Visualización de Muestras de Antigenos finalizadas 
-
+# Visualización de Muestras de Antígenos
 1. Ingresar al sistema con el perfil de Comuna.
-2. Navegar hasta la sección **Antígenos**.
-3. Hacer clic en **Muestras finalizadas**.
+2. Navegar hasta la sección **Registro**.
+3. Ir a la subsección **Antígeno**.
+4. Hacer clic en **Muestras finalizadas**.
 
-![Muestras finalizadas](img/20230316155756.png)
+![AG: Muestras finalizadas](img/20230327114011.png)
 
 Las **muestras finalizadas** son los resultados de las muestras que ya han sido informadas y tienen un resultado disponible. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER.
-
-## Visualización de Muestras de Antigenos autorizadas para editar 
-
-1. Ingresar al sistema con el perfil de Comuna.
-2. Navegar hasta la sección **Antígenos**.
-3. Hacer clic en **Autorizadas para editar**.
-
-![Autorizada para editar](img/20230316161140.png)
-
-Las **muestras autorizadas para editar** son aquellas que han sido informadas pero, por alguna razón, requieren correcciones o modificaciones en la información ingresada previamente. Estas muestras pueden ser editadas por los usuarios con los permisos adecuados. Para buscar una muestra en esta sección, se debe ingresar alguno de los datos conocidos y presionar ENTER.

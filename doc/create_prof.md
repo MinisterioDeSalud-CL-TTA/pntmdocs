@@ -10,7 +10,7 @@ Para registrarse como Profesional Tomador de Muestra en la Plataforma Nacional d
 
 [https://docs.google.com/forms/d/e/1FAIpQLSePoFBV-LGbo8rSpjL4fozsjOkwEyv8xxCNAx7fjytnA-UVTQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSePoFBV-LGbo8rSpjL4fozsjOkwEyv8xxCNAx7fjytnA-UVTQ/viewform).
 
-El formulario cuenta con los siguientes campos obligatorios para completar:
+El formulario cuenta con los siguientes campos obligatorios:
 
 | Campo                        | Descripción                                                                                                                               |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
