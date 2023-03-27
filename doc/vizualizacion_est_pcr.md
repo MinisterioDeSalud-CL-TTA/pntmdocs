@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Establecimientos PCR
+title: Visualización Establecimientos PCR
 parent: Visualización Establecimientos
 grand_parent: Visualización de muestras biológicas
 nav_order: 1

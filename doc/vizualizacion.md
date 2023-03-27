@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vizualización de muestras biologicas
+title: Visualización de muestras biológicas
 has_children: true
 nav_order: 5
 ---

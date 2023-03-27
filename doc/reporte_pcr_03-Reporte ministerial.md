@@ -3,7 +3,7 @@ layout: default
 title: Reporte Ministerial
 nav_order: 3
 grand_parent: Reportes
-parent: Reportes - PCR
+parent: Reportes PCR
 has_children: false
 has_toc: true
 ---

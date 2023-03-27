@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Reporte Global de Solicitudes - Antígenos
+title: Reporte Global de Solicitudes Antígenos
 nav_order: 1
 grand_parent: Reportes
-parent: Reportes - Antígenos
+parent: Reportes Antígenos
 has_children: false
 has_toc: true
 ---

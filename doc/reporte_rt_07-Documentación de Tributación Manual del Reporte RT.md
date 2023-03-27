@@ -3,7 +3,7 @@ layout: default
 title: Tributación Manual del Reporte RT
 nav_order: 7
 grand_parent: Reportes
-parent: Reportes - RT
+parent: Reportes RT
 has_children: false
 has_toc: true
 ---

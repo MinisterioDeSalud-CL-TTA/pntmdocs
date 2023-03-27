@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visualización Comunas
-parent: Visualización de muestras biologicas
+parent: Visualización de muestras biológicas
 nav_order: 1
 has_children: true
 ---

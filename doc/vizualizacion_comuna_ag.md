@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comunas ag
+title: Visualización Comunas Antigenos
 parent: Visualización Comunas
 grand_parent: Visualización de muestras biológicas
 nav_order: 1

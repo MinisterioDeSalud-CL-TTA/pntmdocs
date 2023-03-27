@@ -3,7 +3,7 @@ layout: default
 title: Reporte Mutación por fecha de derivación
 nav_order: 4
 grand_parent: Reportes
-parent: Reportes - PCR
+parent: Reportes PCR
 has_children: false
 has_toc: true
 ---

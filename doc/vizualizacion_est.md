@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visualización Comunas
+title: Visualización Establecimientos
 parent: Visualización de muestras biológicas
 nav_order: 1
 has_children: true

@@ -3,7 +3,7 @@ layout: default
 title: Reporte Global de Solicitudes
 nav_order: 1
 grand_parent: Reportes
-parent: Reportes - PCR
+parent: Reportes PCR
 has_children: false
 has_toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEREMI AG
+title: Visualización SEREMI Antigenos
 parent: Visualización SEREMI
 grand_parent: Visualización de muestras biológicas
 nav_order: 1

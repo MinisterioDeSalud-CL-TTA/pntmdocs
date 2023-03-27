@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Servicio de Salud AG
+title: Visualización Servicios de salud Antigenos
 parent: Visualización Servicio de Salud
 grand_parent: Visualización de muestras biológicas
 nav_order: 1

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Establecimientos AG
+title: Visualización Establecimientos Antigenos
 parent: Visualización Establecimientos
 grand_parent: Visualización de muestras biológicas
 nav_order: 1

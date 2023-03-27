@@ -3,7 +3,7 @@ layout: default
 title: Reporte de Resultados Acumulados RT
 nav_order: 6
 grand_parent: Reportes
-parent: Reportes - RT
+parent: Reportes RT
 has_children: false
 has_toc: true
 ---

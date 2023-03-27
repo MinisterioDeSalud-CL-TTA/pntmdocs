@@ -1,7 +1,7 @@
 ---
 layout: default
-title: visualización seremi
-parent: Vizualización de muestras biologicas
+title: Visualización SEREMI
+parent: Visualización de muestras biológicas
 nav_order: 1
 has_children: true
 ---

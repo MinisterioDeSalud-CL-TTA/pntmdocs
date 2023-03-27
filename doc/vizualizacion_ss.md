@@ -1,7 +1,7 @@
 ---
 layout: default
-title: visualización Servicios de salud
-parent: Vizualización de muestras biologicas
+title: Visualización Servicios de salud
+parent: Visualización de muestras biológicas
 nav_order: 1
 has_children: true
 ---

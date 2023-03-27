@@ -3,7 +3,7 @@ layout: default
 title: Reporte por Fecha de Resultado
 nav_order: 2
 grand_parent: Reportes
-parent: Reportes - PCR
+parent: Reportes PCR
 has_children: false
 has_toc: true
 ---

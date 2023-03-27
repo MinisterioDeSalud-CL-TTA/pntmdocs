@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Comunas PCR
+title: Visualización Comunas PCR
 parent: Visualización Comunas
 grand_parent: Visualización de muestras biológicas
 nav_order: 1

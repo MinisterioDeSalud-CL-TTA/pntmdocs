@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEREMI PCR
+title: Visualización SEREMI PCR
 parent: Visualización SEREMI
 grand_parent: Visualización de muestras biológicas
 nav_order: 1
