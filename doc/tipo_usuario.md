@@ -92,6 +92,7 @@ Lugar donde se procesan las muestras biológicas para realizar el diagnóstico d
     -   El alcance de la información se restringe a las muestras asociadas al laboratorio
     -   El usuario tiene acceso para visualizar las muestras registradas de los últimos 7 días
     -   Puede aceptar, rechazar, devolver la muestra para cambio de laboratorio o devolverla al profesional
-    -   Puede editar el resultado hasta 7 días
+    -   Puede editar el resultado hasta 7 días después de haber ingresado el resultado de la muestra al sistema
+    -   Solo se puede hacer la modificación del resultado una vez
     -   Si se quiere editar una muestra, tiene que ser aprobada por la mesa de ayuda de PNTM y el laboratorio es el responsable de editar la información
     -   Tiene acceso para descargar reportes de los últimos 120 días

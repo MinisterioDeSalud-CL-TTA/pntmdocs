@@ -48,6 +48,18 @@ La entrega de resultados se realiza en el laboratorio y cada muestra procesada d
 
 La carga masiva de muestras y/o resultados es una opción adicional a la carga de información por Interfaz o por medio de Interoperabilidad. Esto ayuda a laboratorios que no cuentan con la infraestructura necesaria para el registro de información.
 
+
+- Laboratorios:
+
+    - Carga masiva de resultados
+    - Carga masiva de muestras y resultados
+    - Carga masiva de resultados de mutaciones
+    - Actualización masiva de muestras autorizadas
+
+- Profesionales tomadores de muestra:
+    - Cargas masivas de resultados de pruebas de antígeno
+
+
 ![Alt text](diagrams/diagram_pntm.jpg)
 
 Existen dos métodos para la carga masiva de información: Carga masiva de resultados y Carga masiva de muestras y resultados. 

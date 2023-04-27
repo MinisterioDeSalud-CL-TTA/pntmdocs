@@ -23,7 +23,7 @@ nav_order: 1
 
 ![Por recepcionar](img/20230327111437.png)
 
-Las muestras **Por recepcionar** son aquellas que se encuentran en la etapa analítica en el laboratorio al que fueron derivadas y aún no han sido informadas. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER. Si la muestra no aparece en esta pantalla, es posible que ya se encuentre en la sección de **Finalizadas**.
+Las muestras **Por recepcionar** son aquellas que han sido enviadas al laboratorio pero aún no han sido confirmadas como recibidas por el laboratorio para su análisis. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER. Si la muestra no aparece en esta pantalla, es posible que ya se encuentre en la sección de Finalizadas.
 
 Si se tiene conocimiento de que el resultado está listo pero no se ha ingresado, se debe informar al Servicio de Salud para que el laboratorio regularice la situación. Esto asegura que la información esté actualizada y disponible para la Comuna y los profesionales pertinentes, permitiendo una atención adecuada y oportuna a los pacientes.
 
@@ -36,7 +36,7 @@ Si se tiene conocimiento de que el resultado está listo pero no se ha ingresado
 
 ![Esperando resultado](img/20230327111646.png)
 
-Las muestras **esperando resultado** son aquellas que han sido procesadas pero aún no tienen un resultado disponible. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER.
+Las muestras **esperando resultado** son aquellas que han sido confirmadas como recibidas por el laboratorio y se encuentran en proceso de análisis, pero aún no tienen un resultado disponible. Para buscar una muestra, se debe ingresar alguno de los datos conocidos y presionar ENTER.
 
 ## Visualización de Muestras PCR finalizadas
 
