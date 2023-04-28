@@ -13,17 +13,17 @@ nav_order: 9
 1. TOC
 {:toc}
 
-## [Ordinario 2752](/doc/ord/20200909%20ORD%202752%2009-09-2020%20Obligatoriedad%20registro%20en%20Plataforma%20Nacional%20de%20Toma%20de%20Muestras%20(1).pdf)
+## [Ordinario 2752](https://github.com/minsal-pntm/pntmdocs/blob/main/doc/ord/20200909%20ORD%202752%2009-09-2020%20Obligatoriedad%20registro%20en%20Plataforma%20Nacional%20de%20Toma%20de%20Muestras%20(1).pdf)
 _Fecha: 09-09-2020_
 
 Obligatoriedad del uso de PNTM
 
-## [Ordinario 130](/doc/ord/20210118%20ORD%20130%2018-01-2021_Complementa%20Ordinario%20toma%20examenes%20obligacion%20de%20nuevos%20campos%20(1).pdf)
+## [Ordinario 130](https://github.com/minsal-pntm/pntmdocs/blob/main/doc/ord/20210118%20ORD%20130%2018-01-2021_Complementa%20ORD.%20toma%20examenes%20obligacion%20de%20nuevos%20campos%20(1).pdf)
 _Fecha: 18-01-2021_
 
 Obligatoriedad de reportar a la autoridad sanitaria los casos covid
 
-## [Ordinario 131](/doc/ord/20210118%20ORD%20131%2018-01-2021%20DesarrollosPNTM_18.01.2021%20(1).pdf)
+## [Ordinario 131](https://github.com/minsal-pntm/pntmdocs/blob/main/doc/ord/20210118%20ORD%20131%2018-01-2021%20DesarrollosPNTM_18.01.2021%20(1).pdf)
 _Fecha: 18-01-2021_
 
 Modificaciones para mejorar la calidad de datos
