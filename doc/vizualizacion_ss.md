@@ -17,7 +17,7 @@ has_children: true
 #  Visualización de Muestras del Perfil Servicios de salud
 
 ## Visualización de Antígenos
-- El alcance de la información se restringe a las muestras que el profesional registró.
+- El alcance de la información se restringe a las muestras asociadas al Servicios de salud.
 - El usuario tiene acceso para visualizar las muestras registradas de los últimos 11 días.
 - No tiene permiso para modificar las muestras.
 - Tiene acceso para descargar reportes de los últimos 120 días.
